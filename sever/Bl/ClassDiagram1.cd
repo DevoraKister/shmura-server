@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="BL.Adv">
+    <Position X="2" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Adv.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BL.DataBaseLogic">
+    <Position X="3.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAgQAAAAAAAAAAAAAAAAAAAAAAAEAACAAAA=</HashCode>
+      <FileName>DataBaseLogic.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BL.ForumLogic">
+    <Position X="5.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAQAAAAAAAAAAAAAAIAAAAAAAAAAAAAACA=</HashCode>
+      <FileName>ForumLogic.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BL.ManagerLogic">
+    <Position X="3.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAwRAAAAAAIhQAAAAICAQQAAAAAAAAAAAA=</HashCode>
+      <FileName>ManagerLogic.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BL.PuttingAtJob">
+    <Position X="5.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAABA=</HashCode>
+      <FileName>PuttingAtJob.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BL.SelectorJob">
+    <Position X="8.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAhAAAgQAIIAhCAAEQAAMAAAFAAEgkECAAAAABA=</HashCode>
+      <FileName>SelectorJob.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BL.SendMail">
+    <Position X="1.75" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAAAAACAAAAAAgAIAAgAAAAAAAQAAAAAQAAA=</HashCode>
+      <FileName>SendMail.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BL.SmartAgentLogic">
+    <Position X="7" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAAAAYAAAAAAAAAABAAAAAgAAAAAAAAAAAAAA=</HashCode>
+      <FileName>SmartAgentLogic.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BL.UserLogic">
+    <Position X="10.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAQAAAgAAAAAQAAABAAgAAIAQAAACAEAEAAxAkAhg=</HashCode>
+      <FileName>UserLogic.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Bl.login.Login">
+    <Position X="7" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CQAAAAABAAAAAAAAAAAAAAAAAAAAAAAAIAEAAAAAAAg=</HashCode>
+      <FileName>login\Login.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

@@ -1,0 +1,1482 @@
+D:\ל סיון\C#IDEAL\SignalRChat\bin\Debug\SignalRChat.dll
+D:\ל סיון\C#IDEAL\SignalRChat\bin\Debug\SignalRChat.pdb
+D:\ל סיון\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNet.SignalR.Core.dll
+D:\ל סיון\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNet.SignalR.SystemWeb.dll
+D:\ל סיון\C#IDEAL\SignalRChat\bin\Debug\Microsoft.Owin.dll
+D:\ל סיון\C#IDEAL\SignalRChat\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+D:\ל סיון\C#IDEAL\SignalRChat\bin\Debug\Microsoft.Owin.Security.dll
+D:\ל סיון\C#IDEAL\SignalRChat\bin\Debug\Newtonsoft.Json.dll
+D:\ל סיון\C#IDEAL\SignalRChat\bin\Debug\Owin.dll
+D:\ל סיון\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNet.SignalR.Core.pdb
+D:\ל סיון\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNet.SignalR.Core.xml
+D:\ל סיון\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNet.SignalR.SystemWeb.pdb
+D:\ל סיון\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNet.SignalR.SystemWeb.xml
+D:\ל סיון\C#IDEAL\SignalRChat\bin\Debug\Microsoft.Owin.xml
+D:\ל סיון\C#IDEAL\SignalRChat\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+D:\ל סיון\C#IDEAL\SignalRChat\bin\Debug\Microsoft.Owin.Security.xml
+D:\ל סיון\C#IDEAL\SignalRChat\bin\Debug\Newtonsoft.Json.xml
+D:\ל סיון\C#IDEAL\SignalRChat\obj\Debug\SignalRChat.csprojAssemblyReference.cache
+D:\ל סיון\C#IDEAL\SignalRChat\obj\Debug\SignalRChat.csproj.CoreCompileInputs.cache
+D:\ל סיון\C#IDEAL\SignalRChat\obj\Debug\SignalRChat.csproj.CopyComplete
+D:\ל סיון\C#IDEAL\SignalRChat\obj\Debug\SignalRChat.dll
+D:\ל סיון\C#IDEAL\SignalRChat\obj\Debug\SignalRChat.pdb
+D:\ל סיון\C#IDEAL\SignalRChat\bin\Debug\SignalRChat.dll.config
+D:\ל סיון\C#IDEAL\SignalRChat\bin\Debug\Microsoft.Win32.Primitives.dll
+D:\ל סיון\C#IDEAL\SignalRChat\bin\Debug\netstandard.dll
+D:\ל סיון\C#IDEAL\SignalRChat\bin\Debug\System.AppContext.dll
+D:\ל סיון\C#IDEAL\SignalRChat\bin\Debug\System.Collections.Concurrent.dll
+D:\ל סיון\C#IDEAL\SignalRChat\bin\Debug\System.Collections.dll
+D:\ל סיון\C#IDEAL\SignalRChat\bin\Debug\System.Collections.NonGeneric.dll
+D:\ל סיון\C#IDEAL\SignalRChat\bin\Debug\System.Collections.Specialized.dll
+D:\ל סיון\C#IDEAL\SignalRChat\bin\Debug\System.ComponentModel.dll
+D:\ל סיון\C#IDEAL\SignalRChat\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+D:\ל סיון\C#IDEAL\SignalRChat\bin\Debug\System.ComponentModel.Primitives.dll
+D:\ל סיון\C#IDEAL\SignalRChat\bin\Debug\System.ComponentModel.TypeConverter.dll
+D:\ל סיון\C#IDEAL\SignalRChat\bin\Debug\System.Console.dll
+D:\ל סיון\C#IDEAL\SignalRChat\bin\Debug\System.Data.Common.dll
+D:\ל סיון\C#IDEAL\SignalRChat\bin\Debug\System.Diagnostics.Contracts.dll
+D:\ל סיון\C#IDEAL\SignalRChat\bin\Debug\System.Diagnostics.Debug.dll
+D:\ל סיון\C#IDEAL\SignalRChat\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+D:\ל סיון\C#IDEAL\SignalRChat\bin\Debug\System.Diagnostics.Process.dll
+D:\ל סיון\C#IDEAL\SignalRChat\bin\Debug\System.Diagnostics.StackTrace.dll
+D:\ל סיון\C#IDEAL\SignalRChat\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+D:\ל סיון\C#IDEAL\SignalRChat\bin\Debug\System.Diagnostics.Tools.dll
+D:\ל סיון\C#IDEAL\SignalRChat\bin\Debug\System.Diagnostics.TraceSource.dll
+D:\ל סיון\C#IDEAL\SignalRChat\bin\Debug\System.Diagnostics.Tracing.dll
+D:\ל סיון\C#IDEAL\SignalRChat\bin\Debug\System.Drawing.Primitives.dll
+D:\ל סיון\C#IDEAL\SignalRChat\bin\Debug\System.Dynamic.Runtime.dll
+D:\ל סיון\C#IDEAL\SignalRChat\bin\Debug\System.Globalization.Calendars.dll
+D:\ל סיון\C#IDEAL\SignalRChat\bin\Debug\System.Globalization.dll
+D:\ל סיון\C#IDEAL\SignalRChat\bin\Debug\System.Globalization.Extensions.dll
+D:\ל סיון\C#IDEAL\SignalRChat\bin\Debug\System.IO.Compression.dll
+D:\ל סיון\C#IDEAL\SignalRChat\bin\Debug\System.IO.Compression.ZipFile.dll
+D:\ל סיון\C#IDEAL\SignalRChat\bin\Debug\System.IO.dll
+D:\ל סיון\C#IDEAL\SignalRChat\bin\Debug\System.IO.FileSystem.dll
+D:\ל סיון\C#IDEAL\SignalRChat\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+D:\ל סיון\C#IDEAL\SignalRChat\bin\Debug\System.IO.FileSystem.Primitives.dll
+D:\ל סיון\C#IDEAL\SignalRChat\bin\Debug\System.IO.FileSystem.Watcher.dll
+D:\ל סיון\C#IDEAL\SignalRChat\bin\Debug\System.IO.IsolatedStorage.dll
+D:\ל סיון\C#IDEAL\SignalRChat\bin\Debug\System.IO.MemoryMappedFiles.dll
+D:\ל סיון\C#IDEAL\SignalRChat\bin\Debug\System.IO.Pipes.dll
+D:\ל סיון\C#IDEAL\SignalRChat\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+D:\ל סיון\C#IDEAL\SignalRChat\bin\Debug\System.Linq.dll
+D:\ל סיון\C#IDEAL\SignalRChat\bin\Debug\System.Linq.Expressions.dll
+D:\ל סיון\C#IDEAL\SignalRChat\bin\Debug\System.Linq.Parallel.dll
+D:\ל סיון\C#IDEAL\SignalRChat\bin\Debug\System.Linq.Queryable.dll
+D:\ל סיון\C#IDEAL\SignalRChat\bin\Debug\System.Net.Http.dll
+D:\ל סיון\C#IDEAL\SignalRChat\bin\Debug\System.Net.NameResolution.dll
+D:\ל סיון\C#IDEAL\SignalRChat\bin\Debug\System.Net.NetworkInformation.dll
+D:\ל סיון\C#IDEAL\SignalRChat\bin\Debug\System.Net.Ping.dll
+D:\ל סיון\C#IDEAL\SignalRChat\bin\Debug\System.Net.Primitives.dll
+D:\ל סיון\C#IDEAL\SignalRChat\bin\Debug\System.Net.Requests.dll
+D:\ל סיון\C#IDEAL\SignalRChat\bin\Debug\System.Net.Security.dll
+D:\ל סיון\C#IDEAL\SignalRChat\bin\Debug\System.Net.Sockets.dll
+D:\ל סיון\C#IDEAL\SignalRChat\bin\Debug\System.Net.WebHeaderCollection.dll
+D:\ל סיון\C#IDEAL\SignalRChat\bin\Debug\System.Net.WebSockets.Client.dll
+D:\ל סיון\C#IDEAL\SignalRChat\bin\Debug\System.Net.WebSockets.dll
+D:\ל סיון\C#IDEAL\SignalRChat\bin\Debug\System.ObjectModel.dll
+D:\ל סיון\C#IDEAL\SignalRChat\bin\Debug\System.Reflection.dll
+D:\ל סיון\C#IDEAL\SignalRChat\bin\Debug\System.Reflection.Extensions.dll
+D:\ל סיון\C#IDEAL\SignalRChat\bin\Debug\System.Reflection.Primitives.dll
+D:\ל סיון\C#IDEAL\SignalRChat\bin\Debug\System.Resources.Reader.dll
+D:\ל סיון\C#IDEAL\SignalRChat\bin\Debug\System.Resources.ResourceManager.dll
+D:\ל סיון\C#IDEAL\SignalRChat\bin\Debug\System.Resources.Writer.dll
+D:\ל סיון\C#IDEAL\SignalRChat\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+D:\ל סיון\C#IDEAL\SignalRChat\bin\Debug\System.Runtime.dll
+D:\ל סיון\C#IDEAL\SignalRChat\bin\Debug\System.Runtime.Extensions.dll
+D:\ל סיון\C#IDEAL\SignalRChat\bin\Debug\System.Runtime.Handles.dll
+D:\ל סיון\C#IDEAL\SignalRChat\bin\Debug\System.Runtime.InteropServices.dll
+D:\ל סיון\C#IDEAL\SignalRChat\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\ל סיון\C#IDEAL\SignalRChat\bin\Debug\System.Runtime.Numerics.dll
+D:\ל סיון\C#IDEAL\SignalRChat\bin\Debug\System.Runtime.Serialization.Formatters.dll
+D:\ל סיון\C#IDEAL\SignalRChat\bin\Debug\System.Runtime.Serialization.Json.dll
+D:\ל סיון\C#IDEAL\SignalRChat\bin\Debug\System.Runtime.Serialization.Primitives.dll
+D:\ל סיון\C#IDEAL\SignalRChat\bin\Debug\System.Runtime.Serialization.Xml.dll
+D:\ל סיון\C#IDEAL\SignalRChat\bin\Debug\System.Security.Claims.dll
+D:\ל סיון\C#IDEAL\SignalRChat\bin\Debug\System.Security.Cryptography.Algorithms.dll
+D:\ל סיון\C#IDEAL\SignalRChat\bin\Debug\System.Security.Cryptography.Csp.dll
+D:\ל סיון\C#IDEAL\SignalRChat\bin\Debug\System.Security.Cryptography.Encoding.dll
+D:\ל סיון\C#IDEAL\SignalRChat\bin\Debug\System.Security.Cryptography.Primitives.dll
+D:\ל סיון\C#IDEAL\SignalRChat\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\ל סיון\C#IDEAL\SignalRChat\bin\Debug\System.Security.Principal.dll
+D:\ל סיון\C#IDEAL\SignalRChat\bin\Debug\System.Security.SecureString.dll
+D:\ל סיון\C#IDEAL\SignalRChat\bin\Debug\System.Text.Encoding.dll
+D:\ל סיון\C#IDEAL\SignalRChat\bin\Debug\System.Text.Encoding.Extensions.dll
+D:\ל סיון\C#IDEAL\SignalRChat\bin\Debug\System.Text.RegularExpressions.dll
+D:\ל סיון\C#IDEAL\SignalRChat\bin\Debug\System.Threading.dll
+D:\ל סיון\C#IDEAL\SignalRChat\bin\Debug\System.Threading.Overlapped.dll
+D:\ל סיון\C#IDEAL\SignalRChat\bin\Debug\System.Threading.Tasks.dll
+D:\ל סיון\C#IDEAL\SignalRChat\bin\Debug\System.Threading.Tasks.Parallel.dll
+D:\ל סיון\C#IDEAL\SignalRChat\bin\Debug\System.Threading.Thread.dll
+D:\ל סיון\C#IDEAL\SignalRChat\bin\Debug\System.Threading.ThreadPool.dll
+D:\ל סיון\C#IDEAL\SignalRChat\bin\Debug\System.Threading.Timer.dll
+D:\ל סיון\C#IDEAL\SignalRChat\bin\Debug\System.ValueTuple.dll
+D:\ל סיון\C#IDEAL\SignalRChat\bin\Debug\System.Xml.ReaderWriter.dll
+D:\ל סיון\C#IDEAL\SignalRChat\bin\Debug\System.Xml.XDocument.dll
+D:\ל סיון\C#IDEAL\SignalRChat\bin\Debug\System.Xml.XmlDocument.dll
+D:\ל סיון\C#IDEAL\SignalRChat\bin\Debug\System.Xml.XmlSerializer.dll
+D:\ל סיון\C#IDEAL\SignalRChat\bin\Debug\System.Xml.XPath.dll
+D:\ל סיון\C#IDEAL\SignalRChat\bin\Debug\System.Xml.XPath.XDocument.dll
+D:\ל סיון\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNetCore.Authentication.Abstractions.dll
+D:\ל סיון\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNetCore.Authorization.dll
+D:\ל סיון\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNetCore.Authorization.Policy.dll
+D:\ל סיון\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNetCore.Connections.Abstractions.dll
+D:\ל סיון\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\ל סיון\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\ל סיון\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\ל סיון\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNetCore.Http.Connections.Common.dll
+D:\ל סיון\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNetCore.Http.Connections.dll
+D:\ל סיון\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNetCore.Http.dll
+D:\ל סיון\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNetCore.Http.Extensions.dll
+D:\ל סיון\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNetCore.Http.Features.dll
+D:\ל סיון\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNetCore.Routing.Abstractions.dll
+D:\ל סיון\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNetCore.Routing.dll
+D:\ל סיון\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNetCore.SignalR.Common.dll
+D:\ל סיון\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNetCore.SignalR.Core.dll
+D:\ל סיון\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNetCore.SignalR.dll
+D:\ל סיון\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+D:\ל סיון\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNetCore.WebSockets.dll
+D:\ל סיון\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNetCore.WebUtilities.dll
+D:\ל סיון\C#IDEAL\SignalRChat\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\ל סיון\C#IDEAL\SignalRChat\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\ל סיון\C#IDEAL\SignalRChat\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\ל סיון\C#IDEAL\SignalRChat\bin\Debug\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\ל סיון\C#IDEAL\SignalRChat\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\ל סיון\C#IDEAL\SignalRChat\bin\Debug\Microsoft.Extensions.ObjectPool.dll
+D:\ל סיון\C#IDEAL\SignalRChat\bin\Debug\Microsoft.Extensions.Options.dll
+D:\ל סיון\C#IDEAL\SignalRChat\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\ל סיון\C#IDEAL\SignalRChat\bin\Debug\Microsoft.Net.Http.Headers.dll
+D:\ל סיון\C#IDEAL\SignalRChat\bin\Debug\System.Buffers.dll
+D:\ל סיון\C#IDEAL\SignalRChat\bin\Debug\System.ComponentModel.Annotations.dll
+D:\ל סיון\C#IDEAL\SignalRChat\bin\Debug\System.IO.Pipelines.dll
+D:\ל סיון\C#IDEAL\SignalRChat\bin\Debug\System.Memory.dll
+D:\ל סיון\C#IDEAL\SignalRChat\bin\Debug\System.Net.WebSockets.WebSocketProtocol.dll
+D:\ל סיון\C#IDEAL\SignalRChat\bin\Debug\System.Numerics.Vectors.dll
+D:\ל סיון\C#IDEAL\SignalRChat\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\ל סיון\C#IDEAL\SignalRChat\bin\Debug\System.Security.Principal.Windows.dll
+D:\ל סיון\C#IDEAL\SignalRChat\bin\Debug\System.Text.Encodings.Web.dll
+D:\ל סיון\C#IDEAL\SignalRChat\bin\Debug\System.Threading.Channels.dll
+D:\ל סיון\C#IDEAL\SignalRChat\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\ל סיון\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNetCore.Authentication.Abstractions.xml
+D:\ל סיון\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNetCore.Authorization.xml
+D:\ל סיון\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNetCore.Authorization.Policy.xml
+D:\ל סיון\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNetCore.Connections.Abstractions.xml
+D:\ל סיון\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNetCore.Hosting.Abstractions.xml
+D:\ל סיון\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+D:\ל סיון\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNetCore.Http.xml
+D:\ל סיון\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.xml
+D:\ל סיון\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNetCore.Http.Connections.xml
+D:\ל סיון\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNetCore.Http.Connections.Common.xml
+D:\ל סיון\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNetCore.Http.Extensions.xml
+D:\ל סיון\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNetCore.Http.Features.xml
+D:\ל סיון\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNetCore.Routing.xml
+D:\ל סיון\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNetCore.Routing.Abstractions.xml
+D:\ל סיון\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNetCore.SignalR.xml
+D:\ל סיון\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNetCore.SignalR.Common.xml
+D:\ל סיון\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNetCore.SignalR.Core.xml
+D:\ל סיון\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNetCore.SignalR.Protocols.Json.xml
+D:\ל סיון\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNetCore.WebSockets.xml
+D:\ל סיון\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNetCore.WebUtilities.xml
+D:\ל סיון\C#IDEAL\SignalRChat\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\ל סיון\C#IDEAL\SignalRChat\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\ל סיון\C#IDEAL\SignalRChat\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+D:\ל סיון\C#IDEAL\SignalRChat\bin\Debug\Microsoft.Extensions.Hosting.Abstractions.xml
+D:\ל סיון\C#IDEAL\SignalRChat\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\ל סיון\C#IDEAL\SignalRChat\bin\Debug\Microsoft.Extensions.ObjectPool.xml
+D:\ל סיון\C#IDEAL\SignalRChat\bin\Debug\Microsoft.Extensions.Options.xml
+D:\ל סיון\C#IDEAL\SignalRChat\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\ל סיון\C#IDEAL\SignalRChat\bin\Debug\Microsoft.Net.Http.Headers.xml
+D:\ל סיון\C#IDEAL\SignalRChat\bin\Debug\System.Buffers.xml
+D:\ל סיון\C#IDEAL\SignalRChat\bin\Debug\System.IO.Pipelines.xml
+D:\ל סיון\C#IDEAL\SignalRChat\bin\Debug\System.Memory.xml
+D:\ל סיון\C#IDEAL\SignalRChat\bin\Debug\System.Numerics.Vectors.xml
+D:\ל סיון\C#IDEAL\SignalRChat\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\ל סיון\C#IDEAL\SignalRChat\bin\Debug\System.Text.Encodings.Web.xml
+D:\ל סיון\C#IDEAL\SignalRChat\bin\Debug\System.Threading.Channels.xml
+D:\ל סיון\C#IDEAL\SignalRChat\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\ל סיון\C#IDEAL\SignalRChat\bin\Debug\Microsoft.DiaSymReader.Native.x86.dll
+D:\ל סיון\C#IDEAL\SignalRChat\bin\Debug\Microsoft.DiaSymReader.Native.amd64.dll
+D:\ל סיון\C#IDEAL\SignalRChat\bin\Debug\AutoMapper.dll
+D:\ל סיון\C#IDEAL\SignalRChat\bin\Debug\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\ל סיון\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNetCore.Antiforgery.dll
+D:\ל סיון\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNetCore.Authentication.Core.dll
+D:\ל סיון\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNetCore.Cors.dll
+D:\ל סיון\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\ל סיון\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+D:\ל סיון\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNetCore.DataProtection.dll
+D:\ל סיון\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+D:\ל סיון\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNetCore.Html.Abstractions.dll
+D:\ל סיון\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNetCore.JsonPatch.dll
+D:\ל סיון\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNetCore.Localization.dll
+D:\ל סיון\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNetCore.Mvc.Abstractions.dll
+D:\ל סיון\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+D:\ל סיון\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNetCore.Mvc.Core.dll
+D:\ל סיון\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNetCore.Mvc.Cors.dll
+D:\ל סיון\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+D:\ל סיון\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+D:\ל סיון\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNetCore.Mvc.Localization.dll
+D:\ל סיון\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNetCore.Mvc.Razor.dll
+D:\ל סיון\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+D:\ל סיון\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNetCore.Mvc.RazorPages.dll
+D:\ל סיון\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+D:\ל סיון\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+D:\ל סיון\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNetCore.Razor.dll
+D:\ל סיון\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNetCore.Razor.Language.dll
+D:\ל סיון\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNetCore.Razor.Runtime.dll
+D:\ל סיון\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+D:\ל סיון\C#IDEAL\SignalRChat\bin\Debug\Microsoft.CodeAnalysis.CSharp.dll
+D:\ל סיון\C#IDEAL\SignalRChat\bin\Debug\Microsoft.CodeAnalysis.dll
+D:\ל סיון\C#IDEAL\SignalRChat\bin\Debug\Microsoft.CodeAnalysis.Razor.dll
+D:\ל סיון\C#IDEAL\SignalRChat\bin\Debug\Microsoft.DotNet.PlatformAbstractions.dll
+D:\ל סיון\C#IDEAL\SignalRChat\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+D:\ל סיון\C#IDEAL\SignalRChat\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+D:\ל סיון\C#IDEAL\SignalRChat\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+D:\ל סיון\C#IDEAL\SignalRChat\bin\Debug\Microsoft.Extensions.DependencyModel.dll
+D:\ל סיון\C#IDEAL\SignalRChat\bin\Debug\Microsoft.Extensions.FileProviders.Composite.dll
+D:\ל סיון\C#IDEAL\SignalRChat\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\ל סיון\C#IDEAL\SignalRChat\bin\Debug\Microsoft.Extensions.Localization.Abstractions.dll
+D:\ל סיון\C#IDEAL\SignalRChat\bin\Debug\Microsoft.Extensions.Localization.dll
+D:\ל סיון\C#IDEAL\SignalRChat\bin\Debug\Microsoft.Extensions.WebEncoders.dll
+D:\ל סיון\C#IDEAL\SignalRChat\bin\Debug\Microsoft.Win32.Registry.dll
+D:\ל סיון\C#IDEAL\SignalRChat\bin\Debug\Newtonsoft.Json.Bson.dll
+D:\ל סיון\C#IDEAL\SignalRChat\bin\Debug\System.Collections.Immutable.dll
+D:\ל סיון\C#IDEAL\SignalRChat\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\ל סיון\C#IDEAL\SignalRChat\bin\Debug\System.Reflection.Metadata.dll
+D:\ל סיון\C#IDEAL\SignalRChat\bin\Debug\System.Security.AccessControl.dll
+D:\ל סיון\C#IDEAL\SignalRChat\bin\Debug\System.Security.Cryptography.Xml.dll
+D:\ל סיון\C#IDEAL\SignalRChat\bin\Debug\System.Security.Permissions.dll
+D:\ל סיון\C#IDEAL\SignalRChat\bin\Debug\System.Text.Encoding.CodePages.dll
+D:\ל סיון\C#IDEAL\SignalRChat\bin\Debug\AutoMapper.pdb
+D:\ל סיון\C#IDEAL\SignalRChat\bin\Debug\AutoMapper.xml
+D:\ל סיון\C#IDEAL\SignalRChat\bin\Debug\AutoMapper.Extensions.Microsoft.DependencyInjection.pdb
+D:\ל סיון\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNetCore.Antiforgery.xml
+D:\ל סיון\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNetCore.Authentication.Core.xml
+D:\ל סיון\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNetCore.Cors.xml
+D:\ל סיון\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNetCore.Cryptography.Internal.xml
+D:\ל סיון\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNetCore.DataProtection.xml
+D:\ל סיון\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNetCore.DataProtection.Abstractions.xml
+D:\ל סיון\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNetCore.Diagnostics.Abstractions.xml
+D:\ל סיון\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNetCore.Html.Abstractions.xml
+D:\ל סיון\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNetCore.JsonPatch.xml
+D:\ל סיון\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNetCore.Localization.xml
+D:\ל סיון\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNetCore.Mvc.Abstractions.xml
+D:\ל סיון\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNetCore.Mvc.ApiExplorer.xml
+D:\ל סיון\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNetCore.Mvc.Core.xml
+D:\ל סיון\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNetCore.Mvc.Cors.xml
+D:\ל סיון\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNetCore.Mvc.DataAnnotations.xml
+D:\ל סיון\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNetCore.Mvc.Formatters.Json.xml
+D:\ל סיון\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNetCore.Mvc.Localization.xml
+D:\ל סיון\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNetCore.Mvc.Razor.xml
+D:\ל סיון\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNetCore.Mvc.Razor.Extensions.xml
+D:\ל סיון\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNetCore.Mvc.RazorPages.xml
+D:\ל סיון\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNetCore.Mvc.TagHelpers.xml
+D:\ל סיון\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNetCore.Mvc.ViewFeatures.xml
+D:\ל סיון\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNetCore.Razor.xml
+D:\ל סיון\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNetCore.Razor.Language.xml
+D:\ל סיון\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNetCore.Razor.Runtime.xml
+D:\ל סיון\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNetCore.ResponseCaching.Abstractions.xml
+D:\ל סיון\C#IDEAL\SignalRChat\bin\Debug\Microsoft.CodeAnalysis.pdb
+D:\ל סיון\C#IDEAL\SignalRChat\bin\Debug\Microsoft.CodeAnalysis.xml
+D:\ל סיון\C#IDEAL\SignalRChat\bin\Debug\Microsoft.CodeAnalysis.CSharp.pdb
+D:\ל סיון\C#IDEAL\SignalRChat\bin\Debug\Microsoft.CodeAnalysis.CSharp.xml
+D:\ל סיון\C#IDEAL\SignalRChat\bin\Debug\Microsoft.CodeAnalysis.Razor.xml
+D:\ל סיון\C#IDEAL\SignalRChat\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+D:\ל סיון\C#IDEAL\SignalRChat\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+D:\ל סיון\C#IDEAL\SignalRChat\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+D:\ל סיון\C#IDEAL\SignalRChat\bin\Debug\Microsoft.Extensions.FileProviders.Composite.xml
+D:\ל סיון\C#IDEAL\SignalRChat\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.xml
+D:\ל סיון\C#IDEAL\SignalRChat\bin\Debug\Microsoft.Extensions.Localization.xml
+D:\ל סיון\C#IDEAL\SignalRChat\bin\Debug\Microsoft.Extensions.Localization.Abstractions.xml
+D:\ל סיון\C#IDEAL\SignalRChat\bin\Debug\Microsoft.Extensions.WebEncoders.xml
+D:\ל סיון\C#IDEAL\SignalRChat\bin\Debug\Newtonsoft.Json.Bson.xml
+D:\ל סיון\C#IDEAL\SignalRChat\bin\Debug\System.Collections.Immutable.xml
+D:\ל סיון\C#IDEAL\SignalRChat\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\ל סיון\C#IDEAL\SignalRChat\bin\Debug\System.Reflection.Metadata.xml
+D:\יא תמוז\C#IDEAL\SignalRChat\bin\Debug\Microsoft.DiaSymReader.Native.x86.dll
+D:\יא תמוז\C#IDEAL\SignalRChat\bin\Debug\Microsoft.DiaSymReader.Native.amd64.dll
+D:\יא תמוז\C#IDEAL\SignalRChat\bin\Debug\SignalRChat.dll.config
+D:\יא תמוז\C#IDEAL\SignalRChat\bin\Debug\SignalRChat.dll
+D:\יא תמוז\C#IDEAL\SignalRChat\bin\Debug\SignalRChat.pdb
+D:\יא תמוז\C#IDEAL\SignalRChat\bin\Debug\Microsoft.Win32.Primitives.dll
+D:\יא תמוז\C#IDEAL\SignalRChat\bin\Debug\netstandard.dll
+D:\יא תמוז\C#IDEAL\SignalRChat\bin\Debug\System.AppContext.dll
+D:\יא תמוז\C#IDEAL\SignalRChat\bin\Debug\System.Collections.Concurrent.dll
+D:\יא תמוז\C#IDEAL\SignalRChat\bin\Debug\System.Collections.dll
+D:\יא תמוז\C#IDEAL\SignalRChat\bin\Debug\System.Collections.NonGeneric.dll
+D:\יא תמוז\C#IDEAL\SignalRChat\bin\Debug\System.Collections.Specialized.dll
+D:\יא תמוז\C#IDEAL\SignalRChat\bin\Debug\System.ComponentModel.dll
+D:\יא תמוז\C#IDEAL\SignalRChat\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+D:\יא תמוז\C#IDEAL\SignalRChat\bin\Debug\System.ComponentModel.Primitives.dll
+D:\יא תמוז\C#IDEAL\SignalRChat\bin\Debug\System.ComponentModel.TypeConverter.dll
+D:\יא תמוז\C#IDEAL\SignalRChat\bin\Debug\System.Console.dll
+D:\יא תמוז\C#IDEAL\SignalRChat\bin\Debug\System.Data.Common.dll
+D:\יא תמוז\C#IDEAL\SignalRChat\bin\Debug\System.Diagnostics.Contracts.dll
+D:\יא תמוז\C#IDEAL\SignalRChat\bin\Debug\System.Diagnostics.Debug.dll
+D:\יא תמוז\C#IDEAL\SignalRChat\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+D:\יא תמוז\C#IDEAL\SignalRChat\bin\Debug\System.Diagnostics.Process.dll
+D:\יא תמוז\C#IDEAL\SignalRChat\bin\Debug\System.Diagnostics.StackTrace.dll
+D:\יא תמוז\C#IDEAL\SignalRChat\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+D:\יא תמוז\C#IDEAL\SignalRChat\bin\Debug\System.Diagnostics.Tools.dll
+D:\יא תמוז\C#IDEAL\SignalRChat\bin\Debug\System.Diagnostics.TraceSource.dll
+D:\יא תמוז\C#IDEAL\SignalRChat\bin\Debug\System.Diagnostics.Tracing.dll
+D:\יא תמוז\C#IDEAL\SignalRChat\bin\Debug\System.Drawing.Primitives.dll
+D:\יא תמוז\C#IDEAL\SignalRChat\bin\Debug\System.Dynamic.Runtime.dll
+D:\יא תמוז\C#IDEAL\SignalRChat\bin\Debug\System.Globalization.Calendars.dll
+D:\יא תמוז\C#IDEAL\SignalRChat\bin\Debug\System.Globalization.dll
+D:\יא תמוז\C#IDEAL\SignalRChat\bin\Debug\System.Globalization.Extensions.dll
+D:\יא תמוז\C#IDEAL\SignalRChat\bin\Debug\System.IO.Compression.dll
+D:\יא תמוז\C#IDEAL\SignalRChat\bin\Debug\System.IO.Compression.ZipFile.dll
+D:\יא תמוז\C#IDEAL\SignalRChat\bin\Debug\System.IO.dll
+D:\יא תמוז\C#IDEAL\SignalRChat\bin\Debug\System.IO.FileSystem.dll
+D:\יא תמוז\C#IDEAL\SignalRChat\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+D:\יא תמוז\C#IDEAL\SignalRChat\bin\Debug\System.IO.FileSystem.Primitives.dll
+D:\יא תמוז\C#IDEAL\SignalRChat\bin\Debug\System.IO.FileSystem.Watcher.dll
+D:\יא תמוז\C#IDEAL\SignalRChat\bin\Debug\System.IO.IsolatedStorage.dll
+D:\יא תמוז\C#IDEAL\SignalRChat\bin\Debug\System.IO.MemoryMappedFiles.dll
+D:\יא תמוז\C#IDEAL\SignalRChat\bin\Debug\System.IO.Pipes.dll
+D:\יא תמוז\C#IDEAL\SignalRChat\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+D:\יא תמוז\C#IDEAL\SignalRChat\bin\Debug\System.Linq.dll
+D:\יא תמוז\C#IDEAL\SignalRChat\bin\Debug\System.Linq.Expressions.dll
+D:\יא תמוז\C#IDEAL\SignalRChat\bin\Debug\System.Linq.Parallel.dll
+D:\יא תמוז\C#IDEAL\SignalRChat\bin\Debug\System.Linq.Queryable.dll
+D:\יא תמוז\C#IDEAL\SignalRChat\bin\Debug\System.Net.Http.dll
+D:\יא תמוז\C#IDEAL\SignalRChat\bin\Debug\System.Net.NameResolution.dll
+D:\יא תמוז\C#IDEAL\SignalRChat\bin\Debug\System.Net.NetworkInformation.dll
+D:\יא תמוז\C#IDEAL\SignalRChat\bin\Debug\System.Net.Ping.dll
+D:\יא תמוז\C#IDEAL\SignalRChat\bin\Debug\System.Net.Primitives.dll
+D:\יא תמוז\C#IDEAL\SignalRChat\bin\Debug\System.Net.Requests.dll
+D:\יא תמוז\C#IDEAL\SignalRChat\bin\Debug\System.Net.Security.dll
+D:\יא תמוז\C#IDEAL\SignalRChat\bin\Debug\System.Net.Sockets.dll
+D:\יא תמוז\C#IDEAL\SignalRChat\bin\Debug\System.Net.WebHeaderCollection.dll
+D:\יא תמוז\C#IDEAL\SignalRChat\bin\Debug\System.Net.WebSockets.Client.dll
+D:\יא תמוז\C#IDEAL\SignalRChat\bin\Debug\System.Net.WebSockets.dll
+D:\יא תמוז\C#IDEAL\SignalRChat\bin\Debug\System.ObjectModel.dll
+D:\יא תמוז\C#IDEAL\SignalRChat\bin\Debug\System.Reflection.dll
+D:\יא תמוז\C#IDEAL\SignalRChat\bin\Debug\System.Reflection.Extensions.dll
+D:\יא תמוז\C#IDEAL\SignalRChat\bin\Debug\System.Reflection.Primitives.dll
+D:\יא תמוז\C#IDEAL\SignalRChat\bin\Debug\System.Resources.Reader.dll
+D:\יא תמוז\C#IDEAL\SignalRChat\bin\Debug\System.Resources.ResourceManager.dll
+D:\יא תמוז\C#IDEAL\SignalRChat\bin\Debug\System.Resources.Writer.dll
+D:\יא תמוז\C#IDEAL\SignalRChat\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+D:\יא תמוז\C#IDEAL\SignalRChat\bin\Debug\System.Runtime.dll
+D:\יא תמוז\C#IDEAL\SignalRChat\bin\Debug\System.Runtime.Extensions.dll
+D:\יא תמוז\C#IDEAL\SignalRChat\bin\Debug\System.Runtime.Handles.dll
+D:\יא תמוז\C#IDEAL\SignalRChat\bin\Debug\System.Runtime.InteropServices.dll
+D:\יא תמוז\C#IDEAL\SignalRChat\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\יא תמוז\C#IDEAL\SignalRChat\bin\Debug\System.Runtime.Numerics.dll
+D:\יא תמוז\C#IDEAL\SignalRChat\bin\Debug\System.Runtime.Serialization.Formatters.dll
+D:\יא תמוז\C#IDEAL\SignalRChat\bin\Debug\System.Runtime.Serialization.Json.dll
+D:\יא תמוז\C#IDEAL\SignalRChat\bin\Debug\System.Runtime.Serialization.Primitives.dll
+D:\יא תמוז\C#IDEAL\SignalRChat\bin\Debug\System.Runtime.Serialization.Xml.dll
+D:\יא תמוז\C#IDEAL\SignalRChat\bin\Debug\System.Security.Claims.dll
+D:\יא תמוז\C#IDEAL\SignalRChat\bin\Debug\System.Security.Cryptography.Algorithms.dll
+D:\יא תמוז\C#IDEAL\SignalRChat\bin\Debug\System.Security.Cryptography.Csp.dll
+D:\יא תמוז\C#IDEAL\SignalRChat\bin\Debug\System.Security.Cryptography.Encoding.dll
+D:\יא תמוז\C#IDEAL\SignalRChat\bin\Debug\System.Security.Cryptography.Primitives.dll
+D:\יא תמוז\C#IDEAL\SignalRChat\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\יא תמוז\C#IDEAL\SignalRChat\bin\Debug\System.Security.Principal.dll
+D:\יא תמוז\C#IDEAL\SignalRChat\bin\Debug\System.Security.SecureString.dll
+D:\יא תמוז\C#IDEAL\SignalRChat\bin\Debug\System.Text.Encoding.dll
+D:\יא תמוז\C#IDEAL\SignalRChat\bin\Debug\System.Text.Encoding.Extensions.dll
+D:\יא תמוז\C#IDEAL\SignalRChat\bin\Debug\System.Text.RegularExpressions.dll
+D:\יא תמוז\C#IDEAL\SignalRChat\bin\Debug\System.Threading.dll
+D:\יא תמוז\C#IDEAL\SignalRChat\bin\Debug\System.Threading.Overlapped.dll
+D:\יא תמוז\C#IDEAL\SignalRChat\bin\Debug\System.Threading.Tasks.dll
+D:\יא תמוז\C#IDEAL\SignalRChat\bin\Debug\System.Threading.Tasks.Parallel.dll
+D:\יא תמוז\C#IDEAL\SignalRChat\bin\Debug\System.Threading.Thread.dll
+D:\יא תמוז\C#IDEAL\SignalRChat\bin\Debug\System.Threading.ThreadPool.dll
+D:\יא תמוז\C#IDEAL\SignalRChat\bin\Debug\System.Threading.Timer.dll
+D:\יא תמוז\C#IDEAL\SignalRChat\bin\Debug\System.ValueTuple.dll
+D:\יא תמוז\C#IDEAL\SignalRChat\bin\Debug\System.Xml.ReaderWriter.dll
+D:\יא תמוז\C#IDEAL\SignalRChat\bin\Debug\System.Xml.XDocument.dll
+D:\יא תמוז\C#IDEAL\SignalRChat\bin\Debug\System.Xml.XmlDocument.dll
+D:\יא תמוז\C#IDEAL\SignalRChat\bin\Debug\System.Xml.XmlSerializer.dll
+D:\יא תמוז\C#IDEAL\SignalRChat\bin\Debug\System.Xml.XPath.dll
+D:\יא תמוז\C#IDEAL\SignalRChat\bin\Debug\System.Xml.XPath.XDocument.dll
+D:\יא תמוז\C#IDEAL\SignalRChat\bin\Debug\AutoMapper.dll
+D:\יא תמוז\C#IDEAL\SignalRChat\bin\Debug\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\יא תמוז\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNet.SignalR.Client.dll
+D:\יא תמוז\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNet.SignalR.Core.dll
+D:\יא תמוז\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNet.SignalR.SystemWeb.dll
+D:\יא תמוז\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNetCore.Antiforgery.dll
+D:\יא תמוז\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNetCore.Authentication.Abstractions.dll
+D:\יא תמוז\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNetCore.Authentication.Core.dll
+D:\יא תמוז\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNetCore.Authorization.dll
+D:\יא תמוז\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNetCore.Authorization.Policy.dll
+D:\יא תמוז\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNetCore.Connections.Abstractions.dll
+D:\יא תמוז\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNetCore.Cors.dll
+D:\יא תמוז\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\יא תמוז\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+D:\יא תמוז\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNetCore.DataProtection.dll
+D:\יא תמוז\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+D:\יא תמוז\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\יא תמוז\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\יא תמוז\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNetCore.Html.Abstractions.dll
+D:\יא תמוז\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\יא תמוז\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNetCore.Http.Connections.Common.dll
+D:\יא תמוז\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNetCore.Http.Connections.dll
+D:\יא תמוז\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNetCore.Http.dll
+D:\יא תמוז\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNetCore.Http.Extensions.dll
+D:\יא תמוז\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNetCore.Http.Features.dll
+D:\יא תמוז\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNetCore.JsonPatch.dll
+D:\יא תמוז\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNetCore.Localization.dll
+D:\יא תמוז\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNetCore.Mvc.Abstractions.dll
+D:\יא תמוז\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+D:\יא תמוז\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNetCore.Mvc.Core.dll
+D:\יא תמוז\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNetCore.Mvc.Cors.dll
+D:\יא תמוז\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+D:\יא תמוז\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+D:\יא תמוז\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNetCore.Mvc.Localization.dll
+D:\יא תמוז\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNetCore.Mvc.Razor.dll
+D:\יא תמוז\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+D:\יא תמוז\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNetCore.Mvc.RazorPages.dll
+D:\יא תמוז\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+D:\יא תמוז\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+D:\יא תמוז\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNetCore.Razor.dll
+D:\יא תמוז\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNetCore.Razor.Language.dll
+D:\יא תמוז\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNetCore.Razor.Runtime.dll
+D:\יא תמוז\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+D:\יא תמוז\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNetCore.Routing.Abstractions.dll
+D:\יא תמוז\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNetCore.Routing.dll
+D:\יא תמוז\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNetCore.SignalR.Common.dll
+D:\יא תמוז\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNetCore.SignalR.Core.dll
+D:\יא תמוז\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNetCore.SignalR.dll
+D:\יא תמוז\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+D:\יא תמוז\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNetCore.WebSockets.dll
+D:\יא תמוז\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNetCore.WebUtilities.dll
+D:\יא תמוז\C#IDEAL\SignalRChat\bin\Debug\Microsoft.CodeAnalysis.CSharp.dll
+D:\יא תמוז\C#IDEAL\SignalRChat\bin\Debug\Microsoft.CodeAnalysis.dll
+D:\יא תמוז\C#IDEAL\SignalRChat\bin\Debug\Microsoft.CodeAnalysis.Razor.dll
+D:\יא תמוז\C#IDEAL\SignalRChat\bin\Debug\Microsoft.DotNet.PlatformAbstractions.dll
+D:\יא תמוז\C#IDEAL\SignalRChat\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+D:\יא תמוז\C#IDEAL\SignalRChat\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+D:\יא תמוז\C#IDEAL\SignalRChat\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\יא תמוז\C#IDEAL\SignalRChat\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\יא תמוז\C#IDEAL\SignalRChat\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+D:\יא תמוז\C#IDEAL\SignalRChat\bin\Debug\Microsoft.Extensions.DependencyModel.dll
+D:\יא תמוז\C#IDEAL\SignalRChat\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\יא תמוז\C#IDEAL\SignalRChat\bin\Debug\Microsoft.Extensions.FileProviders.Composite.dll
+D:\יא תמוז\C#IDEAL\SignalRChat\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\יא תמוז\C#IDEAL\SignalRChat\bin\Debug\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\יא תמוז\C#IDEAL\SignalRChat\bin\Debug\Microsoft.Extensions.Localization.Abstractions.dll
+D:\יא תמוז\C#IDEAL\SignalRChat\bin\Debug\Microsoft.Extensions.Localization.dll
+D:\יא תמוז\C#IDEAL\SignalRChat\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\יא תמוז\C#IDEAL\SignalRChat\bin\Debug\Microsoft.Extensions.ObjectPool.dll
+D:\יא תמוז\C#IDEAL\SignalRChat\bin\Debug\Microsoft.Extensions.Options.dll
+D:\יא תמוז\C#IDEAL\SignalRChat\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\יא תמוז\C#IDEAL\SignalRChat\bin\Debug\Microsoft.Extensions.WebEncoders.dll
+D:\יא תמוז\C#IDEAL\SignalRChat\bin\Debug\Microsoft.Net.Http.Headers.dll
+D:\יא תמוז\C#IDEAL\SignalRChat\bin\Debug\Microsoft.Owin.dll
+D:\יא תמוז\C#IDEAL\SignalRChat\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+D:\יא תמוז\C#IDEAL\SignalRChat\bin\Debug\Microsoft.Owin.Security.dll
+D:\יא תמוז\C#IDEAL\SignalRChat\bin\Debug\Microsoft.Win32.Registry.dll
+D:\יא תמוז\C#IDEAL\SignalRChat\bin\Debug\Newtonsoft.Json.Bson.dll
+D:\יא תמוז\C#IDEAL\SignalRChat\bin\Debug\Newtonsoft.Json.dll
+D:\יא תמוז\C#IDEAL\SignalRChat\bin\Debug\Owin.dll
+D:\יא תמוז\C#IDEAL\SignalRChat\bin\Debug\System.Buffers.dll
+D:\יא תמוז\C#IDEAL\SignalRChat\bin\Debug\System.Collections.Immutable.dll
+D:\יא תמוז\C#IDEAL\SignalRChat\bin\Debug\System.ComponentModel.Annotations.dll
+D:\יא תמוז\C#IDEAL\SignalRChat\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\יא תמוז\C#IDEAL\SignalRChat\bin\Debug\System.IO.Pipelines.dll
+D:\יא תמוז\C#IDEAL\SignalRChat\bin\Debug\System.Memory.dll
+D:\יא תמוז\C#IDEAL\SignalRChat\bin\Debug\System.Net.WebSockets.WebSocketProtocol.dll
+D:\יא תמוז\C#IDEAL\SignalRChat\bin\Debug\System.Numerics.Vectors.dll
+D:\יא תמוז\C#IDEAL\SignalRChat\bin\Debug\System.Reflection.Metadata.dll
+D:\יא תמוז\C#IDEAL\SignalRChat\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\יא תמוז\C#IDEAL\SignalRChat\bin\Debug\System.Security.AccessControl.dll
+D:\יא תמוז\C#IDEAL\SignalRChat\bin\Debug\System.Security.Cryptography.Xml.dll
+D:\יא תמוז\C#IDEAL\SignalRChat\bin\Debug\System.Security.Permissions.dll
+D:\יא תמוז\C#IDEAL\SignalRChat\bin\Debug\System.Security.Principal.Windows.dll
+D:\יא תמוז\C#IDEAL\SignalRChat\bin\Debug\System.Text.Encoding.CodePages.dll
+D:\יא תמוז\C#IDEAL\SignalRChat\bin\Debug\System.Text.Encodings.Web.dll
+D:\יא תמוז\C#IDEAL\SignalRChat\bin\Debug\System.Threading.Channels.dll
+D:\יא תמוז\C#IDEAL\SignalRChat\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\יא תמוז\C#IDEAL\SignalRChat\bin\Debug\AutoMapper.pdb
+D:\יא תמוז\C#IDEAL\SignalRChat\bin\Debug\AutoMapper.xml
+D:\יא תמוז\C#IDEAL\SignalRChat\bin\Debug\AutoMapper.Extensions.Microsoft.DependencyInjection.pdb
+D:\יא תמוז\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNet.SignalR.Client.pdb
+D:\יא תמוז\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNet.SignalR.Client.xml
+D:\יא תמוז\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNet.SignalR.Core.pdb
+D:\יא תמוז\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNet.SignalR.Core.xml
+D:\יא תמוז\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNet.SignalR.SystemWeb.pdb
+D:\יא תמוז\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNet.SignalR.SystemWeb.xml
+D:\יא תמוז\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNetCore.Antiforgery.xml
+D:\יא תמוז\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNetCore.Authentication.Abstractions.xml
+D:\יא תמוז\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNetCore.Authentication.Core.xml
+D:\יא תמוז\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNetCore.Authorization.xml
+D:\יא תמוז\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNetCore.Authorization.Policy.xml
+D:\יא תמוז\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNetCore.Connections.Abstractions.xml
+D:\יא תמוז\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNetCore.Cors.xml
+D:\יא תמוז\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNetCore.Cryptography.Internal.xml
+D:\יא תמוז\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNetCore.DataProtection.xml
+D:\יא תמוז\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNetCore.DataProtection.Abstractions.xml
+D:\יא תמוז\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNetCore.Diagnostics.Abstractions.xml
+D:\יא תמוז\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNetCore.Hosting.Abstractions.xml
+D:\יא תמוז\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+D:\יא תמוז\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNetCore.Html.Abstractions.xml
+D:\יא תמוז\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNetCore.Http.xml
+D:\יא תמוז\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.xml
+D:\יא תמוז\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNetCore.Http.Connections.xml
+D:\יא תמוז\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNetCore.Http.Connections.Common.xml
+D:\יא תמוז\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNetCore.Http.Extensions.xml
+D:\יא תמוז\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNetCore.Http.Features.xml
+D:\יא תמוז\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNetCore.JsonPatch.xml
+D:\יא תמוז\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNetCore.Localization.xml
+D:\יא תמוז\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNetCore.Mvc.Abstractions.xml
+D:\יא תמוז\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNetCore.Mvc.ApiExplorer.xml
+D:\יא תמוז\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNetCore.Mvc.Core.xml
+D:\יא תמוז\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNetCore.Mvc.Cors.xml
+D:\יא תמוז\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNetCore.Mvc.DataAnnotations.xml
+D:\יא תמוז\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNetCore.Mvc.Formatters.Json.xml
+D:\יא תמוז\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNetCore.Mvc.Localization.xml
+D:\יא תמוז\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNetCore.Mvc.Razor.xml
+D:\יא תמוז\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNetCore.Mvc.Razor.Extensions.xml
+D:\יא תמוז\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNetCore.Mvc.RazorPages.xml
+D:\יא תמוז\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNetCore.Mvc.TagHelpers.xml
+D:\יא תמוז\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNetCore.Mvc.ViewFeatures.xml
+D:\יא תמוז\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNetCore.Razor.xml
+D:\יא תמוז\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNetCore.Razor.Language.xml
+D:\יא תמוז\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNetCore.Razor.Runtime.xml
+D:\יא תמוז\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNetCore.ResponseCaching.Abstractions.xml
+D:\יא תמוז\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNetCore.Routing.xml
+D:\יא תמוז\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNetCore.Routing.Abstractions.xml
+D:\יא תמוז\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNetCore.SignalR.xml
+D:\יא תמוז\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNetCore.SignalR.Common.xml
+D:\יא תמוז\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNetCore.SignalR.Core.xml
+D:\יא תמוז\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNetCore.SignalR.Protocols.Json.xml
+D:\יא תמוז\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNetCore.WebSockets.xml
+D:\יא תמוז\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNetCore.WebUtilities.xml
+D:\יא תמוז\C#IDEAL\SignalRChat\bin\Debug\Microsoft.CodeAnalysis.pdb
+D:\יא תמוז\C#IDEAL\SignalRChat\bin\Debug\Microsoft.CodeAnalysis.xml
+D:\יא תמוז\C#IDEAL\SignalRChat\bin\Debug\Microsoft.CodeAnalysis.CSharp.pdb
+D:\יא תמוז\C#IDEAL\SignalRChat\bin\Debug\Microsoft.CodeAnalysis.CSharp.xml
+D:\יא תמוז\C#IDEAL\SignalRChat\bin\Debug\Microsoft.CodeAnalysis.Razor.xml
+D:\יא תמוז\C#IDEAL\SignalRChat\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+D:\יא תמוז\C#IDEAL\SignalRChat\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+D:\יא תמוז\C#IDEAL\SignalRChat\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\יא תמוז\C#IDEAL\SignalRChat\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+D:\יא תמוז\C#IDEAL\SignalRChat\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\יא תמוז\C#IDEAL\SignalRChat\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+D:\יא תמוז\C#IDEAL\SignalRChat\bin\Debug\Microsoft.Extensions.FileProviders.Composite.xml
+D:\יא תמוז\C#IDEAL\SignalRChat\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.xml
+D:\יא תמוז\C#IDEAL\SignalRChat\bin\Debug\Microsoft.Extensions.Hosting.Abstractions.xml
+D:\יא תמוז\C#IDEAL\SignalRChat\bin\Debug\Microsoft.Extensions.Localization.xml
+D:\יא תמוז\C#IDEAL\SignalRChat\bin\Debug\Microsoft.Extensions.Localization.Abstractions.xml
+D:\יא תמוז\C#IDEAL\SignalRChat\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\יא תמוז\C#IDEAL\SignalRChat\bin\Debug\Microsoft.Extensions.ObjectPool.xml
+D:\יא תמוז\C#IDEAL\SignalRChat\bin\Debug\Microsoft.Extensions.Options.xml
+D:\יא תמוז\C#IDEAL\SignalRChat\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\יא תמוז\C#IDEAL\SignalRChat\bin\Debug\Microsoft.Extensions.WebEncoders.xml
+D:\יא תמוז\C#IDEAL\SignalRChat\bin\Debug\Microsoft.Net.Http.Headers.xml
+D:\יא תמוז\C#IDEAL\SignalRChat\bin\Debug\Microsoft.Owin.xml
+D:\יא תמוז\C#IDEAL\SignalRChat\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+D:\יא תמוז\C#IDEAL\SignalRChat\bin\Debug\Microsoft.Owin.Security.xml
+D:\יא תמוז\C#IDEAL\SignalRChat\bin\Debug\Newtonsoft.Json.xml
+D:\יא תמוז\C#IDEAL\SignalRChat\bin\Debug\Newtonsoft.Json.Bson.xml
+D:\יא תמוז\C#IDEAL\SignalRChat\bin\Debug\System.Buffers.xml
+D:\יא תמוז\C#IDEAL\SignalRChat\bin\Debug\System.Collections.Immutable.xml
+D:\יא תמוז\C#IDEAL\SignalRChat\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\יא תמוז\C#IDEAL\SignalRChat\bin\Debug\System.IO.Pipelines.xml
+D:\יא תמוז\C#IDEAL\SignalRChat\bin\Debug\System.Memory.xml
+D:\יא תמוז\C#IDEAL\SignalRChat\bin\Debug\System.Numerics.Vectors.xml
+D:\יא תמוז\C#IDEAL\SignalRChat\bin\Debug\System.Reflection.Metadata.xml
+D:\יא תמוז\C#IDEAL\SignalRChat\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\יא תמוז\C#IDEAL\SignalRChat\bin\Debug\System.Text.Encodings.Web.xml
+D:\יא תמוז\C#IDEAL\SignalRChat\bin\Debug\System.Threading.Channels.xml
+D:\יא תמוז\C#IDEAL\SignalRChat\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\יא תמוז\C#IDEAL\SignalRChat\obj\Debug\SignalRChat.csproj.CoreCompileInputs.cache
+D:\יא תמוז\C#IDEAL\SignalRChat\obj\Debug\SignalRChat.csproj.CopyComplete
+D:\יא תמוז\C#IDEAL\SignalRChat\obj\Debug\SignalRChat.dll
+D:\יא תמוז\C#IDEAL\SignalRChat\obj\Debug\SignalRChat.pdb
+D:\יא תמוז\C#IDEAL\SignalRChat\obj\Debug\SignalRChat.csprojAssemblyReference.cache
+D:\C#IDEAL\SignalRChat\bin\Debug\Microsoft.DiaSymReader.Native.x86.dll
+D:\C#IDEAL\SignalRChat\bin\Debug\Microsoft.DiaSymReader.Native.amd64.dll
+D:\C#IDEAL\SignalRChat\bin\Debug\SignalRChat.dll.config
+D:\C#IDEAL\SignalRChat\bin\Debug\SignalRChat.dll
+D:\C#IDEAL\SignalRChat\bin\Debug\SignalRChat.pdb
+D:\C#IDEAL\SignalRChat\bin\Debug\Microsoft.Win32.Primitives.dll
+D:\C#IDEAL\SignalRChat\bin\Debug\netstandard.dll
+D:\C#IDEAL\SignalRChat\bin\Debug\System.AppContext.dll
+D:\C#IDEAL\SignalRChat\bin\Debug\System.Collections.Concurrent.dll
+D:\C#IDEAL\SignalRChat\bin\Debug\System.Collections.dll
+D:\C#IDEAL\SignalRChat\bin\Debug\System.Collections.NonGeneric.dll
+D:\C#IDEAL\SignalRChat\bin\Debug\System.Collections.Specialized.dll
+D:\C#IDEAL\SignalRChat\bin\Debug\System.ComponentModel.dll
+D:\C#IDEAL\SignalRChat\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+D:\C#IDEAL\SignalRChat\bin\Debug\System.ComponentModel.Primitives.dll
+D:\C#IDEAL\SignalRChat\bin\Debug\System.ComponentModel.TypeConverter.dll
+D:\C#IDEAL\SignalRChat\bin\Debug\System.Console.dll
+D:\C#IDEAL\SignalRChat\bin\Debug\System.Data.Common.dll
+D:\C#IDEAL\SignalRChat\bin\Debug\System.Diagnostics.Contracts.dll
+D:\C#IDEAL\SignalRChat\bin\Debug\System.Diagnostics.Debug.dll
+D:\C#IDEAL\SignalRChat\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+D:\C#IDEAL\SignalRChat\bin\Debug\System.Diagnostics.Process.dll
+D:\C#IDEAL\SignalRChat\bin\Debug\System.Diagnostics.StackTrace.dll
+D:\C#IDEAL\SignalRChat\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+D:\C#IDEAL\SignalRChat\bin\Debug\System.Diagnostics.Tools.dll
+D:\C#IDEAL\SignalRChat\bin\Debug\System.Diagnostics.TraceSource.dll
+D:\C#IDEAL\SignalRChat\bin\Debug\System.Diagnostics.Tracing.dll
+D:\C#IDEAL\SignalRChat\bin\Debug\System.Drawing.Primitives.dll
+D:\C#IDEAL\SignalRChat\bin\Debug\System.Dynamic.Runtime.dll
+D:\C#IDEAL\SignalRChat\bin\Debug\System.Globalization.Calendars.dll
+D:\C#IDEAL\SignalRChat\bin\Debug\System.Globalization.dll
+D:\C#IDEAL\SignalRChat\bin\Debug\System.Globalization.Extensions.dll
+D:\C#IDEAL\SignalRChat\bin\Debug\System.IO.Compression.dll
+D:\C#IDEAL\SignalRChat\bin\Debug\System.IO.Compression.ZipFile.dll
+D:\C#IDEAL\SignalRChat\bin\Debug\System.IO.dll
+D:\C#IDEAL\SignalRChat\bin\Debug\System.IO.FileSystem.dll
+D:\C#IDEAL\SignalRChat\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+D:\C#IDEAL\SignalRChat\bin\Debug\System.IO.FileSystem.Primitives.dll
+D:\C#IDEAL\SignalRChat\bin\Debug\System.IO.FileSystem.Watcher.dll
+D:\C#IDEAL\SignalRChat\bin\Debug\System.IO.IsolatedStorage.dll
+D:\C#IDEAL\SignalRChat\bin\Debug\System.IO.MemoryMappedFiles.dll
+D:\C#IDEAL\SignalRChat\bin\Debug\System.IO.Pipes.dll
+D:\C#IDEAL\SignalRChat\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+D:\C#IDEAL\SignalRChat\bin\Debug\System.Linq.dll
+D:\C#IDEAL\SignalRChat\bin\Debug\System.Linq.Expressions.dll
+D:\C#IDEAL\SignalRChat\bin\Debug\System.Linq.Parallel.dll
+D:\C#IDEAL\SignalRChat\bin\Debug\System.Linq.Queryable.dll
+D:\C#IDEAL\SignalRChat\bin\Debug\System.Net.Http.dll
+D:\C#IDEAL\SignalRChat\bin\Debug\System.Net.NameResolution.dll
+D:\C#IDEAL\SignalRChat\bin\Debug\System.Net.NetworkInformation.dll
+D:\C#IDEAL\SignalRChat\bin\Debug\System.Net.Ping.dll
+D:\C#IDEAL\SignalRChat\bin\Debug\System.Net.Primitives.dll
+D:\C#IDEAL\SignalRChat\bin\Debug\System.Net.Requests.dll
+D:\C#IDEAL\SignalRChat\bin\Debug\System.Net.Security.dll
+D:\C#IDEAL\SignalRChat\bin\Debug\System.Net.Sockets.dll
+D:\C#IDEAL\SignalRChat\bin\Debug\System.Net.WebHeaderCollection.dll
+D:\C#IDEAL\SignalRChat\bin\Debug\System.Net.WebSockets.Client.dll
+D:\C#IDEAL\SignalRChat\bin\Debug\System.Net.WebSockets.dll
+D:\C#IDEAL\SignalRChat\bin\Debug\System.ObjectModel.dll
+D:\C#IDEAL\SignalRChat\bin\Debug\System.Reflection.dll
+D:\C#IDEAL\SignalRChat\bin\Debug\System.Reflection.Extensions.dll
+D:\C#IDEAL\SignalRChat\bin\Debug\System.Reflection.Primitives.dll
+D:\C#IDEAL\SignalRChat\bin\Debug\System.Resources.Reader.dll
+D:\C#IDEAL\SignalRChat\bin\Debug\System.Resources.ResourceManager.dll
+D:\C#IDEAL\SignalRChat\bin\Debug\System.Resources.Writer.dll
+D:\C#IDEAL\SignalRChat\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+D:\C#IDEAL\SignalRChat\bin\Debug\System.Runtime.dll
+D:\C#IDEAL\SignalRChat\bin\Debug\System.Runtime.Extensions.dll
+D:\C#IDEAL\SignalRChat\bin\Debug\System.Runtime.Handles.dll
+D:\C#IDEAL\SignalRChat\bin\Debug\System.Runtime.InteropServices.dll
+D:\C#IDEAL\SignalRChat\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\C#IDEAL\SignalRChat\bin\Debug\System.Runtime.Numerics.dll
+D:\C#IDEAL\SignalRChat\bin\Debug\System.Runtime.Serialization.Formatters.dll
+D:\C#IDEAL\SignalRChat\bin\Debug\System.Runtime.Serialization.Json.dll
+D:\C#IDEAL\SignalRChat\bin\Debug\System.Runtime.Serialization.Primitives.dll
+D:\C#IDEAL\SignalRChat\bin\Debug\System.Runtime.Serialization.Xml.dll
+D:\C#IDEAL\SignalRChat\bin\Debug\System.Security.Claims.dll
+D:\C#IDEAL\SignalRChat\bin\Debug\System.Security.Cryptography.Algorithms.dll
+D:\C#IDEAL\SignalRChat\bin\Debug\System.Security.Cryptography.Csp.dll
+D:\C#IDEAL\SignalRChat\bin\Debug\System.Security.Cryptography.Encoding.dll
+D:\C#IDEAL\SignalRChat\bin\Debug\System.Security.Cryptography.Primitives.dll
+D:\C#IDEAL\SignalRChat\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\C#IDEAL\SignalRChat\bin\Debug\System.Security.Principal.dll
+D:\C#IDEAL\SignalRChat\bin\Debug\System.Security.SecureString.dll
+D:\C#IDEAL\SignalRChat\bin\Debug\System.Text.Encoding.dll
+D:\C#IDEAL\SignalRChat\bin\Debug\System.Text.Encoding.Extensions.dll
+D:\C#IDEAL\SignalRChat\bin\Debug\System.Text.RegularExpressions.dll
+D:\C#IDEAL\SignalRChat\bin\Debug\System.Threading.dll
+D:\C#IDEAL\SignalRChat\bin\Debug\System.Threading.Overlapped.dll
+D:\C#IDEAL\SignalRChat\bin\Debug\System.Threading.Tasks.dll
+D:\C#IDEAL\SignalRChat\bin\Debug\System.Threading.Tasks.Parallel.dll
+D:\C#IDEAL\SignalRChat\bin\Debug\System.Threading.Thread.dll
+D:\C#IDEAL\SignalRChat\bin\Debug\System.Threading.ThreadPool.dll
+D:\C#IDEAL\SignalRChat\bin\Debug\System.Threading.Timer.dll
+D:\C#IDEAL\SignalRChat\bin\Debug\System.ValueTuple.dll
+D:\C#IDEAL\SignalRChat\bin\Debug\System.Xml.ReaderWriter.dll
+D:\C#IDEAL\SignalRChat\bin\Debug\System.Xml.XDocument.dll
+D:\C#IDEAL\SignalRChat\bin\Debug\System.Xml.XmlDocument.dll
+D:\C#IDEAL\SignalRChat\bin\Debug\System.Xml.XmlSerializer.dll
+D:\C#IDEAL\SignalRChat\bin\Debug\System.Xml.XPath.dll
+D:\C#IDEAL\SignalRChat\bin\Debug\System.Xml.XPath.XDocument.dll
+D:\C#IDEAL\SignalRChat\bin\Debug\AutoMapper.dll
+D:\C#IDEAL\SignalRChat\bin\Debug\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNet.SignalR.Client.dll
+D:\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNet.SignalR.Core.dll
+D:\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNet.SignalR.SystemWeb.dll
+D:\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNetCore.Antiforgery.dll
+D:\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNetCore.Authentication.Abstractions.dll
+D:\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNetCore.Authentication.Core.dll
+D:\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNetCore.Authorization.dll
+D:\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNetCore.Authorization.Policy.dll
+D:\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNetCore.Connections.Abstractions.dll
+D:\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNetCore.Cors.dll
+D:\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+D:\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNetCore.DataProtection.dll
+D:\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+D:\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNetCore.Html.Abstractions.dll
+D:\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNetCore.Http.Connections.Common.dll
+D:\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNetCore.Http.Connections.dll
+D:\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNetCore.Http.dll
+D:\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNetCore.Http.Extensions.dll
+D:\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNetCore.Http.Features.dll
+D:\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNetCore.JsonPatch.dll
+D:\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNetCore.Localization.dll
+D:\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNetCore.Mvc.Abstractions.dll
+D:\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+D:\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNetCore.Mvc.Core.dll
+D:\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNetCore.Mvc.Cors.dll
+D:\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+D:\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+D:\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNetCore.Mvc.Localization.dll
+D:\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNetCore.Mvc.Razor.dll
+D:\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+D:\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNetCore.Mvc.RazorPages.dll
+D:\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+D:\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+D:\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNetCore.Razor.dll
+D:\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNetCore.Razor.Language.dll
+D:\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNetCore.Razor.Runtime.dll
+D:\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+D:\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNetCore.Routing.Abstractions.dll
+D:\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNetCore.Routing.dll
+D:\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNetCore.SignalR.Common.dll
+D:\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNetCore.SignalR.Core.dll
+D:\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNetCore.SignalR.dll
+D:\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+D:\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNetCore.WebSockets.dll
+D:\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNetCore.WebUtilities.dll
+D:\C#IDEAL\SignalRChat\bin\Debug\Microsoft.CodeAnalysis.CSharp.dll
+D:\C#IDEAL\SignalRChat\bin\Debug\Microsoft.CodeAnalysis.dll
+D:\C#IDEAL\SignalRChat\bin\Debug\Microsoft.CodeAnalysis.Razor.dll
+D:\C#IDEAL\SignalRChat\bin\Debug\Microsoft.DotNet.PlatformAbstractions.dll
+D:\C#IDEAL\SignalRChat\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+D:\C#IDEAL\SignalRChat\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+D:\C#IDEAL\SignalRChat\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\C#IDEAL\SignalRChat\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\C#IDEAL\SignalRChat\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+D:\C#IDEAL\SignalRChat\bin\Debug\Microsoft.Extensions.DependencyModel.dll
+D:\C#IDEAL\SignalRChat\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\C#IDEAL\SignalRChat\bin\Debug\Microsoft.Extensions.FileProviders.Composite.dll
+D:\C#IDEAL\SignalRChat\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\C#IDEAL\SignalRChat\bin\Debug\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\C#IDEAL\SignalRChat\bin\Debug\Microsoft.Extensions.Localization.Abstractions.dll
+D:\C#IDEAL\SignalRChat\bin\Debug\Microsoft.Extensions.Localization.dll
+D:\C#IDEAL\SignalRChat\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\C#IDEAL\SignalRChat\bin\Debug\Microsoft.Extensions.ObjectPool.dll
+D:\C#IDEAL\SignalRChat\bin\Debug\Microsoft.Extensions.Options.dll
+D:\C#IDEAL\SignalRChat\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\C#IDEAL\SignalRChat\bin\Debug\Microsoft.Extensions.WebEncoders.dll
+D:\C#IDEAL\SignalRChat\bin\Debug\Microsoft.Net.Http.Headers.dll
+D:\C#IDEAL\SignalRChat\bin\Debug\Microsoft.Owin.dll
+D:\C#IDEAL\SignalRChat\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+D:\C#IDEAL\SignalRChat\bin\Debug\Microsoft.Owin.Security.dll
+D:\C#IDEAL\SignalRChat\bin\Debug\Microsoft.Win32.Registry.dll
+D:\C#IDEAL\SignalRChat\bin\Debug\Newtonsoft.Json.Bson.dll
+D:\C#IDEAL\SignalRChat\bin\Debug\Newtonsoft.Json.dll
+D:\C#IDEAL\SignalRChat\bin\Debug\Owin.dll
+D:\C#IDEAL\SignalRChat\bin\Debug\System.Buffers.dll
+D:\C#IDEAL\SignalRChat\bin\Debug\System.Collections.Immutable.dll
+D:\C#IDEAL\SignalRChat\bin\Debug\System.ComponentModel.Annotations.dll
+D:\C#IDEAL\SignalRChat\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\C#IDEAL\SignalRChat\bin\Debug\System.IO.Pipelines.dll
+D:\C#IDEAL\SignalRChat\bin\Debug\System.Memory.dll
+D:\C#IDEAL\SignalRChat\bin\Debug\System.Net.WebSockets.WebSocketProtocol.dll
+D:\C#IDEAL\SignalRChat\bin\Debug\System.Numerics.Vectors.dll
+D:\C#IDEAL\SignalRChat\bin\Debug\System.Reflection.Metadata.dll
+D:\C#IDEAL\SignalRChat\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\C#IDEAL\SignalRChat\bin\Debug\System.Security.AccessControl.dll
+D:\C#IDEAL\SignalRChat\bin\Debug\System.Security.Cryptography.Xml.dll
+D:\C#IDEAL\SignalRChat\bin\Debug\System.Security.Permissions.dll
+D:\C#IDEAL\SignalRChat\bin\Debug\System.Security.Principal.Windows.dll
+D:\C#IDEAL\SignalRChat\bin\Debug\System.Text.Encoding.CodePages.dll
+D:\C#IDEAL\SignalRChat\bin\Debug\System.Text.Encodings.Web.dll
+D:\C#IDEAL\SignalRChat\bin\Debug\System.Threading.Channels.dll
+D:\C#IDEAL\SignalRChat\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\C#IDEAL\SignalRChat\bin\Debug\AutoMapper.pdb
+D:\C#IDEAL\SignalRChat\bin\Debug\AutoMapper.xml
+D:\C#IDEAL\SignalRChat\bin\Debug\AutoMapper.Extensions.Microsoft.DependencyInjection.pdb
+D:\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNet.SignalR.Client.pdb
+D:\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNet.SignalR.Client.xml
+D:\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNet.SignalR.Core.pdb
+D:\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNet.SignalR.Core.xml
+D:\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNet.SignalR.SystemWeb.pdb
+D:\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNet.SignalR.SystemWeb.xml
+D:\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNetCore.Antiforgery.xml
+D:\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNetCore.Authentication.Abstractions.xml
+D:\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNetCore.Authentication.Core.xml
+D:\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNetCore.Authorization.xml
+D:\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNetCore.Authorization.Policy.xml
+D:\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNetCore.Connections.Abstractions.xml
+D:\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNetCore.Cors.xml
+D:\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNetCore.Cryptography.Internal.xml
+D:\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNetCore.DataProtection.xml
+D:\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNetCore.DataProtection.Abstractions.xml
+D:\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNetCore.Diagnostics.Abstractions.xml
+D:\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNetCore.Hosting.Abstractions.xml
+D:\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+D:\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNetCore.Html.Abstractions.xml
+D:\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNetCore.Http.xml
+D:\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.xml
+D:\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNetCore.Http.Connections.xml
+D:\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNetCore.Http.Connections.Common.xml
+D:\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNetCore.Http.Extensions.xml
+D:\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNetCore.Http.Features.xml
+D:\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNetCore.JsonPatch.xml
+D:\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNetCore.Localization.xml
+D:\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNetCore.Mvc.Abstractions.xml
+D:\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNetCore.Mvc.ApiExplorer.xml
+D:\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNetCore.Mvc.Core.xml
+D:\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNetCore.Mvc.Cors.xml
+D:\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNetCore.Mvc.DataAnnotations.xml
+D:\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNetCore.Mvc.Formatters.Json.xml
+D:\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNetCore.Mvc.Localization.xml
+D:\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNetCore.Mvc.Razor.xml
+D:\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNetCore.Mvc.Razor.Extensions.xml
+D:\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNetCore.Mvc.RazorPages.xml
+D:\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNetCore.Mvc.TagHelpers.xml
+D:\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNetCore.Mvc.ViewFeatures.xml
+D:\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNetCore.Razor.xml
+D:\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNetCore.Razor.Language.xml
+D:\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNetCore.Razor.Runtime.xml
+D:\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNetCore.ResponseCaching.Abstractions.xml
+D:\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNetCore.Routing.xml
+D:\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNetCore.Routing.Abstractions.xml
+D:\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNetCore.SignalR.xml
+D:\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNetCore.SignalR.Common.xml
+D:\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNetCore.SignalR.Core.xml
+D:\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNetCore.SignalR.Protocols.Json.xml
+D:\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNetCore.WebSockets.xml
+D:\C#IDEAL\SignalRChat\bin\Debug\Microsoft.AspNetCore.WebUtilities.xml
+D:\C#IDEAL\SignalRChat\bin\Debug\Microsoft.CodeAnalysis.pdb
+D:\C#IDEAL\SignalRChat\bin\Debug\Microsoft.CodeAnalysis.xml
+D:\C#IDEAL\SignalRChat\bin\Debug\Microsoft.CodeAnalysis.CSharp.pdb
+D:\C#IDEAL\SignalRChat\bin\Debug\Microsoft.CodeAnalysis.CSharp.xml
+D:\C#IDEAL\SignalRChat\bin\Debug\Microsoft.CodeAnalysis.Razor.xml
+D:\C#IDEAL\SignalRChat\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+D:\C#IDEAL\SignalRChat\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+D:\C#IDEAL\SignalRChat\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\C#IDEAL\SignalRChat\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+D:\C#IDEAL\SignalRChat\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\C#IDEAL\SignalRChat\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+D:\C#IDEAL\SignalRChat\bin\Debug\Microsoft.Extensions.FileProviders.Composite.xml
+D:\C#IDEAL\SignalRChat\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.xml
+D:\C#IDEAL\SignalRChat\bin\Debug\Microsoft.Extensions.Hosting.Abstractions.xml
+D:\C#IDEAL\SignalRChat\bin\Debug\Microsoft.Extensions.Localization.xml
+D:\C#IDEAL\SignalRChat\bin\Debug\Microsoft.Extensions.Localization.Abstractions.xml
+D:\C#IDEAL\SignalRChat\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\C#IDEAL\SignalRChat\bin\Debug\Microsoft.Extensions.ObjectPool.xml
+D:\C#IDEAL\SignalRChat\bin\Debug\Microsoft.Extensions.Options.xml
+D:\C#IDEAL\SignalRChat\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\C#IDEAL\SignalRChat\bin\Debug\Microsoft.Extensions.WebEncoders.xml
+D:\C#IDEAL\SignalRChat\bin\Debug\Microsoft.Net.Http.Headers.xml
+D:\C#IDEAL\SignalRChat\bin\Debug\Microsoft.Owin.xml
+D:\C#IDEAL\SignalRChat\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+D:\C#IDEAL\SignalRChat\bin\Debug\Microsoft.Owin.Security.xml
+D:\C#IDEAL\SignalRChat\bin\Debug\Newtonsoft.Json.xml
+D:\C#IDEAL\SignalRChat\bin\Debug\Newtonsoft.Json.Bson.xml
+D:\C#IDEAL\SignalRChat\bin\Debug\System.Buffers.xml
+D:\C#IDEAL\SignalRChat\bin\Debug\System.Collections.Immutable.xml
+D:\C#IDEAL\SignalRChat\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\C#IDEAL\SignalRChat\bin\Debug\System.IO.Pipelines.xml
+D:\C#IDEAL\SignalRChat\bin\Debug\System.Memory.xml
+D:\C#IDEAL\SignalRChat\bin\Debug\System.Numerics.Vectors.xml
+D:\C#IDEAL\SignalRChat\bin\Debug\System.Reflection.Metadata.xml
+D:\C#IDEAL\SignalRChat\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\C#IDEAL\SignalRChat\bin\Debug\System.Text.Encodings.Web.xml
+D:\C#IDEAL\SignalRChat\bin\Debug\System.Threading.Channels.xml
+D:\C#IDEAL\SignalRChat\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\C#IDEAL\SignalRChat\obj\Debug\SignalRChat.csprojAssemblyReference.cache
+D:\C#IDEAL\SignalRChat\obj\Debug\SignalRChat.csproj.CoreCompileInputs.cache
+D:\C#IDEAL\SignalRChat\obj\Debug\SignalRChat.csproj.CopyComplete
+D:\C#IDEAL\SignalRChat\obj\Debug\SignalRChat.dll
+D:\C#IDEAL\SignalRChat\obj\Debug\SignalRChat.pdb
+D:\Devora\ideal\IdealC#\SignalRChat\bin\Debug\Microsoft.DiaSymReader.Native.x86.dll
+D:\Devora\ideal\IdealC#\SignalRChat\bin\Debug\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Devora\ideal\IdealC#\SignalRChat\bin\Debug\SignalRChat.dll.config
+D:\Devora\ideal\IdealC#\SignalRChat\bin\Debug\SignalRChat.dll
+D:\Devora\ideal\IdealC#\SignalRChat\bin\Debug\SignalRChat.pdb
+D:\Devora\ideal\IdealC#\SignalRChat\bin\Debug\Microsoft.Win32.Primitives.dll
+D:\Devora\ideal\IdealC#\SignalRChat\bin\Debug\netstandard.dll
+D:\Devora\ideal\IdealC#\SignalRChat\bin\Debug\System.AppContext.dll
+D:\Devora\ideal\IdealC#\SignalRChat\bin\Debug\System.Collections.Concurrent.dll
+D:\Devora\ideal\IdealC#\SignalRChat\bin\Debug\System.Collections.dll
+D:\Devora\ideal\IdealC#\SignalRChat\bin\Debug\System.Collections.NonGeneric.dll
+D:\Devora\ideal\IdealC#\SignalRChat\bin\Debug\System.Collections.Specialized.dll
+D:\Devora\ideal\IdealC#\SignalRChat\bin\Debug\System.ComponentModel.dll
+D:\Devora\ideal\IdealC#\SignalRChat\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+D:\Devora\ideal\IdealC#\SignalRChat\bin\Debug\System.ComponentModel.Primitives.dll
+D:\Devora\ideal\IdealC#\SignalRChat\bin\Debug\System.ComponentModel.TypeConverter.dll
+D:\Devora\ideal\IdealC#\SignalRChat\bin\Debug\System.Console.dll
+D:\Devora\ideal\IdealC#\SignalRChat\bin\Debug\System.Data.Common.dll
+D:\Devora\ideal\IdealC#\SignalRChat\bin\Debug\System.Diagnostics.Contracts.dll
+D:\Devora\ideal\IdealC#\SignalRChat\bin\Debug\System.Diagnostics.Debug.dll
+D:\Devora\ideal\IdealC#\SignalRChat\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+D:\Devora\ideal\IdealC#\SignalRChat\bin\Debug\System.Diagnostics.Process.dll
+D:\Devora\ideal\IdealC#\SignalRChat\bin\Debug\System.Diagnostics.StackTrace.dll
+D:\Devora\ideal\IdealC#\SignalRChat\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+D:\Devora\ideal\IdealC#\SignalRChat\bin\Debug\System.Diagnostics.Tools.dll
+D:\Devora\ideal\IdealC#\SignalRChat\bin\Debug\System.Diagnostics.TraceSource.dll
+D:\Devora\ideal\IdealC#\SignalRChat\bin\Debug\System.Diagnostics.Tracing.dll
+D:\Devora\ideal\IdealC#\SignalRChat\bin\Debug\System.Drawing.Primitives.dll
+D:\Devora\ideal\IdealC#\SignalRChat\bin\Debug\System.Dynamic.Runtime.dll
+D:\Devora\ideal\IdealC#\SignalRChat\bin\Debug\System.Globalization.Calendars.dll
+D:\Devora\ideal\IdealC#\SignalRChat\bin\Debug\System.Globalization.dll
+D:\Devora\ideal\IdealC#\SignalRChat\bin\Debug\System.Globalization.Extensions.dll
+D:\Devora\ideal\IdealC#\SignalRChat\bin\Debug\System.IO.Compression.dll
+D:\Devora\ideal\IdealC#\SignalRChat\bin\Debug\System.IO.Compression.ZipFile.dll
+D:\Devora\ideal\IdealC#\SignalRChat\bin\Debug\System.IO.dll
+D:\Devora\ideal\IdealC#\SignalRChat\bin\Debug\System.IO.FileSystem.dll
+D:\Devora\ideal\IdealC#\SignalRChat\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+D:\Devora\ideal\IdealC#\SignalRChat\bin\Debug\System.IO.FileSystem.Primitives.dll
+D:\Devora\ideal\IdealC#\SignalRChat\bin\Debug\System.IO.FileSystem.Watcher.dll
+D:\Devora\ideal\IdealC#\SignalRChat\bin\Debug\System.IO.IsolatedStorage.dll
+D:\Devora\ideal\IdealC#\SignalRChat\bin\Debug\System.IO.MemoryMappedFiles.dll
+D:\Devora\ideal\IdealC#\SignalRChat\bin\Debug\System.IO.Pipes.dll
+D:\Devora\ideal\IdealC#\SignalRChat\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+D:\Devora\ideal\IdealC#\SignalRChat\bin\Debug\System.Linq.dll
+D:\Devora\ideal\IdealC#\SignalRChat\bin\Debug\System.Linq.Expressions.dll
+D:\Devora\ideal\IdealC#\SignalRChat\bin\Debug\System.Linq.Parallel.dll
+D:\Devora\ideal\IdealC#\SignalRChat\bin\Debug\System.Linq.Queryable.dll
+D:\Devora\ideal\IdealC#\SignalRChat\bin\Debug\System.Net.Http.dll
+D:\Devora\ideal\IdealC#\SignalRChat\bin\Debug\System.Net.NameResolution.dll
+D:\Devora\ideal\IdealC#\SignalRChat\bin\Debug\System.Net.NetworkInformation.dll
+D:\Devora\ideal\IdealC#\SignalRChat\bin\Debug\System.Net.Ping.dll
+D:\Devora\ideal\IdealC#\SignalRChat\bin\Debug\System.Net.Primitives.dll
+D:\Devora\ideal\IdealC#\SignalRChat\bin\Debug\System.Net.Requests.dll
+D:\Devora\ideal\IdealC#\SignalRChat\bin\Debug\System.Net.Security.dll
+D:\Devora\ideal\IdealC#\SignalRChat\bin\Debug\System.Net.Sockets.dll
+D:\Devora\ideal\IdealC#\SignalRChat\bin\Debug\System.Net.WebHeaderCollection.dll
+D:\Devora\ideal\IdealC#\SignalRChat\bin\Debug\System.Net.WebSockets.Client.dll
+D:\Devora\ideal\IdealC#\SignalRChat\bin\Debug\System.Net.WebSockets.dll
+D:\Devora\ideal\IdealC#\SignalRChat\bin\Debug\System.ObjectModel.dll
+D:\Devora\ideal\IdealC#\SignalRChat\bin\Debug\System.Reflection.dll
+D:\Devora\ideal\IdealC#\SignalRChat\bin\Debug\System.Reflection.Extensions.dll
+D:\Devora\ideal\IdealC#\SignalRChat\bin\Debug\System.Reflection.Primitives.dll
+D:\Devora\ideal\IdealC#\SignalRChat\bin\Debug\System.Resources.Reader.dll
+D:\Devora\ideal\IdealC#\SignalRChat\bin\Debug\System.Resources.ResourceManager.dll
+D:\Devora\ideal\IdealC#\SignalRChat\bin\Debug\System.Resources.Writer.dll
+D:\Devora\ideal\IdealC#\SignalRChat\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+D:\Devora\ideal\IdealC#\SignalRChat\bin\Debug\System.Runtime.dll
+D:\Devora\ideal\IdealC#\SignalRChat\bin\Debug\System.Runtime.Extensions.dll
+D:\Devora\ideal\IdealC#\SignalRChat\bin\Debug\System.Runtime.Handles.dll
+D:\Devora\ideal\IdealC#\SignalRChat\bin\Debug\System.Runtime.InteropServices.dll
+D:\Devora\ideal\IdealC#\SignalRChat\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Devora\ideal\IdealC#\SignalRChat\bin\Debug\System.Runtime.Numerics.dll
+D:\Devora\ideal\IdealC#\SignalRChat\bin\Debug\System.Runtime.Serialization.Formatters.dll
+D:\Devora\ideal\IdealC#\SignalRChat\bin\Debug\System.Runtime.Serialization.Json.dll
+D:\Devora\ideal\IdealC#\SignalRChat\bin\Debug\System.Runtime.Serialization.Primitives.dll
+D:\Devora\ideal\IdealC#\SignalRChat\bin\Debug\System.Runtime.Serialization.Xml.dll
+D:\Devora\ideal\IdealC#\SignalRChat\bin\Debug\System.Security.Claims.dll
+D:\Devora\ideal\IdealC#\SignalRChat\bin\Debug\System.Security.Cryptography.Algorithms.dll
+D:\Devora\ideal\IdealC#\SignalRChat\bin\Debug\System.Security.Cryptography.Csp.dll
+D:\Devora\ideal\IdealC#\SignalRChat\bin\Debug\System.Security.Cryptography.Encoding.dll
+D:\Devora\ideal\IdealC#\SignalRChat\bin\Debug\System.Security.Cryptography.Primitives.dll
+D:\Devora\ideal\IdealC#\SignalRChat\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\Devora\ideal\IdealC#\SignalRChat\bin\Debug\System.Security.Principal.dll
+D:\Devora\ideal\IdealC#\SignalRChat\bin\Debug\System.Security.SecureString.dll
+D:\Devora\ideal\IdealC#\SignalRChat\bin\Debug\System.Text.Encoding.dll
+D:\Devora\ideal\IdealC#\SignalRChat\bin\Debug\System.Text.Encoding.Extensions.dll
+D:\Devora\ideal\IdealC#\SignalRChat\bin\Debug\System.Text.RegularExpressions.dll
+D:\Devora\ideal\IdealC#\SignalRChat\bin\Debug\System.Threading.dll
+D:\Devora\ideal\IdealC#\SignalRChat\bin\Debug\System.Threading.Overlapped.dll
+D:\Devora\ideal\IdealC#\SignalRChat\bin\Debug\System.Threading.Tasks.dll
+D:\Devora\ideal\IdealC#\SignalRChat\bin\Debug\System.Threading.Tasks.Parallel.dll
+D:\Devora\ideal\IdealC#\SignalRChat\bin\Debug\System.Threading.Thread.dll
+D:\Devora\ideal\IdealC#\SignalRChat\bin\Debug\System.Threading.ThreadPool.dll
+D:\Devora\ideal\IdealC#\SignalRChat\bin\Debug\System.Threading.Timer.dll
+D:\Devora\ideal\IdealC#\SignalRChat\bin\Debug\System.ValueTuple.dll
+D:\Devora\ideal\IdealC#\SignalRChat\bin\Debug\System.Xml.ReaderWriter.dll
+D:\Devora\ideal\IdealC#\SignalRChat\bin\Debug\System.Xml.XDocument.dll
+D:\Devora\ideal\IdealC#\SignalRChat\bin\Debug\System.Xml.XmlDocument.dll
+D:\Devora\ideal\IdealC#\SignalRChat\bin\Debug\System.Xml.XmlSerializer.dll
+D:\Devora\ideal\IdealC#\SignalRChat\bin\Debug\System.Xml.XPath.dll
+D:\Devora\ideal\IdealC#\SignalRChat\bin\Debug\System.Xml.XPath.XDocument.dll
+D:\Devora\ideal\IdealC#\SignalRChat\bin\Debug\AutoMapper.dll
+D:\Devora\ideal\IdealC#\SignalRChat\bin\Debug\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Devora\ideal\IdealC#\SignalRChat\bin\Debug\Microsoft.AspNet.SignalR.Client.dll
+D:\Devora\ideal\IdealC#\SignalRChat\bin\Debug\Microsoft.AspNet.SignalR.Core.dll
+D:\Devora\ideal\IdealC#\SignalRChat\bin\Debug\Microsoft.AspNet.SignalR.SystemWeb.dll
+D:\Devora\ideal\IdealC#\SignalRChat\bin\Debug\Microsoft.AspNetCore.Antiforgery.dll
+D:\Devora\ideal\IdealC#\SignalRChat\bin\Debug\Microsoft.AspNetCore.Authentication.Abstractions.dll
+D:\Devora\ideal\IdealC#\SignalRChat\bin\Debug\Microsoft.AspNetCore.Authentication.Core.dll
+D:\Devora\ideal\IdealC#\SignalRChat\bin\Debug\Microsoft.AspNetCore.Authorization.dll
+D:\Devora\ideal\IdealC#\SignalRChat\bin\Debug\Microsoft.AspNetCore.Authorization.Policy.dll
+D:\Devora\ideal\IdealC#\SignalRChat\bin\Debug\Microsoft.AspNetCore.Connections.Abstractions.dll
+D:\Devora\ideal\IdealC#\SignalRChat\bin\Debug\Microsoft.AspNetCore.Cors.dll
+D:\Devora\ideal\IdealC#\SignalRChat\bin\Debug\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Devora\ideal\IdealC#\SignalRChat\bin\Debug\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+D:\Devora\ideal\IdealC#\SignalRChat\bin\Debug\Microsoft.AspNetCore.DataProtection.dll
+D:\Devora\ideal\IdealC#\SignalRChat\bin\Debug\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+D:\Devora\ideal\IdealC#\SignalRChat\bin\Debug\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\Devora\ideal\IdealC#\SignalRChat\bin\Debug\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\Devora\ideal\IdealC#\SignalRChat\bin\Debug\Microsoft.AspNetCore.Html.Abstractions.dll
+D:\Devora\ideal\IdealC#\SignalRChat\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\Devora\ideal\IdealC#\SignalRChat\bin\Debug\Microsoft.AspNetCore.Http.Connections.Common.dll
+D:\Devora\ideal\IdealC#\SignalRChat\bin\Debug\Microsoft.AspNetCore.Http.Connections.dll
+D:\Devora\ideal\IdealC#\SignalRChat\bin\Debug\Microsoft.AspNetCore.Http.dll
+D:\Devora\ideal\IdealC#\SignalRChat\bin\Debug\Microsoft.AspNetCore.Http.Extensions.dll
+D:\Devora\ideal\IdealC#\SignalRChat\bin\Debug\Microsoft.AspNetCore.Http.Features.dll
+D:\Devora\ideal\IdealC#\SignalRChat\bin\Debug\Microsoft.AspNetCore.JsonPatch.dll
+D:\Devora\ideal\IdealC#\SignalRChat\bin\Debug\Microsoft.AspNetCore.Localization.dll
+D:\Devora\ideal\IdealC#\SignalRChat\bin\Debug\Microsoft.AspNetCore.Mvc.Abstractions.dll
+D:\Devora\ideal\IdealC#\SignalRChat\bin\Debug\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+D:\Devora\ideal\IdealC#\SignalRChat\bin\Debug\Microsoft.AspNetCore.Mvc.Core.dll
+D:\Devora\ideal\IdealC#\SignalRChat\bin\Debug\Microsoft.AspNetCore.Mvc.Cors.dll
+D:\Devora\ideal\IdealC#\SignalRChat\bin\Debug\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+D:\Devora\ideal\IdealC#\SignalRChat\bin\Debug\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+D:\Devora\ideal\IdealC#\SignalRChat\bin\Debug\Microsoft.AspNetCore.Mvc.Localization.dll
+D:\Devora\ideal\IdealC#\SignalRChat\bin\Debug\Microsoft.AspNetCore.Mvc.Razor.dll
+D:\Devora\ideal\IdealC#\SignalRChat\bin\Debug\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+D:\Devora\ideal\IdealC#\SignalRChat\bin\Debug\Microsoft.AspNetCore.Mvc.RazorPages.dll
+D:\Devora\ideal\IdealC#\SignalRChat\bin\Debug\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+D:\Devora\ideal\IdealC#\SignalRChat\bin\Debug\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+D:\Devora\ideal\IdealC#\SignalRChat\bin\Debug\Microsoft.AspNetCore.Razor.dll
+D:\Devora\ideal\IdealC#\SignalRChat\bin\Debug\Microsoft.AspNetCore.Razor.Language.dll
+D:\Devora\ideal\IdealC#\SignalRChat\bin\Debug\Microsoft.AspNetCore.Razor.Runtime.dll
+D:\Devora\ideal\IdealC#\SignalRChat\bin\Debug\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+D:\Devora\ideal\IdealC#\SignalRChat\bin\Debug\Microsoft.AspNetCore.Routing.Abstractions.dll
+D:\Devora\ideal\IdealC#\SignalRChat\bin\Debug\Microsoft.AspNetCore.Routing.dll
+D:\Devora\ideal\IdealC#\SignalRChat\bin\Debug\Microsoft.AspNetCore.SignalR.Common.dll
+D:\Devora\ideal\IdealC#\SignalRChat\bin\Debug\Microsoft.AspNetCore.SignalR.Core.dll
+D:\Devora\ideal\IdealC#\SignalRChat\bin\Debug\Microsoft.AspNetCore.SignalR.dll
+D:\Devora\ideal\IdealC#\SignalRChat\bin\Debug\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+D:\Devora\ideal\IdealC#\SignalRChat\bin\Debug\Microsoft.AspNetCore.WebSockets.dll
+D:\Devora\ideal\IdealC#\SignalRChat\bin\Debug\Microsoft.AspNetCore.WebUtilities.dll
+D:\Devora\ideal\IdealC#\SignalRChat\bin\Debug\Microsoft.CodeAnalysis.CSharp.dll
+D:\Devora\ideal\IdealC#\SignalRChat\bin\Debug\Microsoft.CodeAnalysis.dll
+D:\Devora\ideal\IdealC#\SignalRChat\bin\Debug\Microsoft.CodeAnalysis.Razor.dll
+D:\Devora\ideal\IdealC#\SignalRChat\bin\Debug\Microsoft.DotNet.PlatformAbstractions.dll
+D:\Devora\ideal\IdealC#\SignalRChat\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Devora\ideal\IdealC#\SignalRChat\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+D:\Devora\ideal\IdealC#\SignalRChat\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Devora\ideal\IdealC#\SignalRChat\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Devora\ideal\IdealC#\SignalRChat\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+D:\Devora\ideal\IdealC#\SignalRChat\bin\Debug\Microsoft.Extensions.DependencyModel.dll
+D:\Devora\ideal\IdealC#\SignalRChat\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Devora\ideal\IdealC#\SignalRChat\bin\Debug\Microsoft.Extensions.FileProviders.Composite.dll
+D:\Devora\ideal\IdealC#\SignalRChat\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Devora\ideal\IdealC#\SignalRChat\bin\Debug\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\Devora\ideal\IdealC#\SignalRChat\bin\Debug\Microsoft.Extensions.Localization.Abstractions.dll
+D:\Devora\ideal\IdealC#\SignalRChat\bin\Debug\Microsoft.Extensions.Localization.dll
+D:\Devora\ideal\IdealC#\SignalRChat\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Devora\ideal\IdealC#\SignalRChat\bin\Debug\Microsoft.Extensions.ObjectPool.dll
+D:\Devora\ideal\IdealC#\SignalRChat\bin\Debug\Microsoft.Extensions.Options.dll
+D:\Devora\ideal\IdealC#\SignalRChat\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\Devora\ideal\IdealC#\SignalRChat\bin\Debug\Microsoft.Extensions.WebEncoders.dll
+D:\Devora\ideal\IdealC#\SignalRChat\bin\Debug\Microsoft.Net.Http.Headers.dll
+D:\Devora\ideal\IdealC#\SignalRChat\bin\Debug\Microsoft.Owin.dll
+D:\Devora\ideal\IdealC#\SignalRChat\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+D:\Devora\ideal\IdealC#\SignalRChat\bin\Debug\Microsoft.Owin.Security.dll
+D:\Devora\ideal\IdealC#\SignalRChat\bin\Debug\Microsoft.Win32.Registry.dll
+D:\Devora\ideal\IdealC#\SignalRChat\bin\Debug\Newtonsoft.Json.Bson.dll
+D:\Devora\ideal\IdealC#\SignalRChat\bin\Debug\Newtonsoft.Json.dll
+D:\Devora\ideal\IdealC#\SignalRChat\bin\Debug\Owin.dll
+D:\Devora\ideal\IdealC#\SignalRChat\bin\Debug\System.Buffers.dll
+D:\Devora\ideal\IdealC#\SignalRChat\bin\Debug\System.Collections.Immutable.dll
+D:\Devora\ideal\IdealC#\SignalRChat\bin\Debug\System.ComponentModel.Annotations.dll
+D:\Devora\ideal\IdealC#\SignalRChat\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Devora\ideal\IdealC#\SignalRChat\bin\Debug\System.IO.Pipelines.dll
+D:\Devora\ideal\IdealC#\SignalRChat\bin\Debug\System.Memory.dll
+D:\Devora\ideal\IdealC#\SignalRChat\bin\Debug\System.Net.WebSockets.WebSocketProtocol.dll
+D:\Devora\ideal\IdealC#\SignalRChat\bin\Debug\System.Numerics.Vectors.dll
+D:\Devora\ideal\IdealC#\SignalRChat\bin\Debug\System.Reflection.Metadata.dll
+D:\Devora\ideal\IdealC#\SignalRChat\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Devora\ideal\IdealC#\SignalRChat\bin\Debug\System.Security.AccessControl.dll
+D:\Devora\ideal\IdealC#\SignalRChat\bin\Debug\System.Security.Cryptography.Xml.dll
+D:\Devora\ideal\IdealC#\SignalRChat\bin\Debug\System.Security.Permissions.dll
+D:\Devora\ideal\IdealC#\SignalRChat\bin\Debug\System.Security.Principal.Windows.dll
+D:\Devora\ideal\IdealC#\SignalRChat\bin\Debug\System.Text.Encoding.CodePages.dll
+D:\Devora\ideal\IdealC#\SignalRChat\bin\Debug\System.Text.Encodings.Web.dll
+D:\Devora\ideal\IdealC#\SignalRChat\bin\Debug\System.Threading.Channels.dll
+D:\Devora\ideal\IdealC#\SignalRChat\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Devora\ideal\IdealC#\SignalRChat\bin\Debug\AutoMapper.pdb
+D:\Devora\ideal\IdealC#\SignalRChat\bin\Debug\AutoMapper.xml
+D:\Devora\ideal\IdealC#\SignalRChat\bin\Debug\AutoMapper.Extensions.Microsoft.DependencyInjection.pdb
+D:\Devora\ideal\IdealC#\SignalRChat\bin\Debug\Microsoft.AspNet.SignalR.Client.pdb
+D:\Devora\ideal\IdealC#\SignalRChat\bin\Debug\Microsoft.AspNet.SignalR.Client.xml
+D:\Devora\ideal\IdealC#\SignalRChat\bin\Debug\Microsoft.AspNet.SignalR.Core.pdb
+D:\Devora\ideal\IdealC#\SignalRChat\bin\Debug\Microsoft.AspNet.SignalR.Core.xml
+D:\Devora\ideal\IdealC#\SignalRChat\bin\Debug\Microsoft.AspNet.SignalR.SystemWeb.pdb
+D:\Devora\ideal\IdealC#\SignalRChat\bin\Debug\Microsoft.AspNet.SignalR.SystemWeb.xml
+D:\Devora\ideal\IdealC#\SignalRChat\bin\Debug\Microsoft.AspNetCore.Antiforgery.xml
+D:\Devora\ideal\IdealC#\SignalRChat\bin\Debug\Microsoft.AspNetCore.Authentication.Abstractions.xml
+D:\Devora\ideal\IdealC#\SignalRChat\bin\Debug\Microsoft.AspNetCore.Authentication.Core.xml
+D:\Devora\ideal\IdealC#\SignalRChat\bin\Debug\Microsoft.AspNetCore.Authorization.xml
+D:\Devora\ideal\IdealC#\SignalRChat\bin\Debug\Microsoft.AspNetCore.Authorization.Policy.xml
+D:\Devora\ideal\IdealC#\SignalRChat\bin\Debug\Microsoft.AspNetCore.Connections.Abstractions.xml
+D:\Devora\ideal\IdealC#\SignalRChat\bin\Debug\Microsoft.AspNetCore.Cors.xml
+D:\Devora\ideal\IdealC#\SignalRChat\bin\Debug\Microsoft.AspNetCore.Cryptography.Internal.xml
+D:\Devora\ideal\IdealC#\SignalRChat\bin\Debug\Microsoft.AspNetCore.DataProtection.xml
+D:\Devora\ideal\IdealC#\SignalRChat\bin\Debug\Microsoft.AspNetCore.DataProtection.Abstractions.xml
+D:\Devora\ideal\IdealC#\SignalRChat\bin\Debug\Microsoft.AspNetCore.Diagnostics.Abstractions.xml
+D:\Devora\ideal\IdealC#\SignalRChat\bin\Debug\Microsoft.AspNetCore.Hosting.Abstractions.xml
+D:\Devora\ideal\IdealC#\SignalRChat\bin\Debug\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+D:\Devora\ideal\IdealC#\SignalRChat\bin\Debug\Microsoft.AspNetCore.Html.Abstractions.xml
+D:\Devora\ideal\IdealC#\SignalRChat\bin\Debug\Microsoft.AspNetCore.Http.xml
+D:\Devora\ideal\IdealC#\SignalRChat\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.xml
+D:\Devora\ideal\IdealC#\SignalRChat\bin\Debug\Microsoft.AspNetCore.Http.Connections.xml
+D:\Devora\ideal\IdealC#\SignalRChat\bin\Debug\Microsoft.AspNetCore.Http.Connections.Common.xml
+D:\Devora\ideal\IdealC#\SignalRChat\bin\Debug\Microsoft.AspNetCore.Http.Extensions.xml
+D:\Devora\ideal\IdealC#\SignalRChat\bin\Debug\Microsoft.AspNetCore.Http.Features.xml
+D:\Devora\ideal\IdealC#\SignalRChat\bin\Debug\Microsoft.AspNetCore.JsonPatch.xml
+D:\Devora\ideal\IdealC#\SignalRChat\bin\Debug\Microsoft.AspNetCore.Localization.xml
+D:\Devora\ideal\IdealC#\SignalRChat\bin\Debug\Microsoft.AspNetCore.Mvc.Abstractions.xml
+D:\Devora\ideal\IdealC#\SignalRChat\bin\Debug\Microsoft.AspNetCore.Mvc.ApiExplorer.xml
+D:\Devora\ideal\IdealC#\SignalRChat\bin\Debug\Microsoft.AspNetCore.Mvc.Core.xml
+D:\Devora\ideal\IdealC#\SignalRChat\bin\Debug\Microsoft.AspNetCore.Mvc.Cors.xml
+D:\Devora\ideal\IdealC#\SignalRChat\bin\Debug\Microsoft.AspNetCore.Mvc.DataAnnotations.xml
+D:\Devora\ideal\IdealC#\SignalRChat\bin\Debug\Microsoft.AspNetCore.Mvc.Formatters.Json.xml
+D:\Devora\ideal\IdealC#\SignalRChat\bin\Debug\Microsoft.AspNetCore.Mvc.Localization.xml
+D:\Devora\ideal\IdealC#\SignalRChat\bin\Debug\Microsoft.AspNetCore.Mvc.Razor.xml
+D:\Devora\ideal\IdealC#\SignalRChat\bin\Debug\Microsoft.AspNetCore.Mvc.Razor.Extensions.xml
+D:\Devora\ideal\IdealC#\SignalRChat\bin\Debug\Microsoft.AspNetCore.Mvc.RazorPages.xml
+D:\Devora\ideal\IdealC#\SignalRChat\bin\Debug\Microsoft.AspNetCore.Mvc.TagHelpers.xml
+D:\Devora\ideal\IdealC#\SignalRChat\bin\Debug\Microsoft.AspNetCore.Mvc.ViewFeatures.xml
+D:\Devora\ideal\IdealC#\SignalRChat\bin\Debug\Microsoft.AspNetCore.Razor.xml
+D:\Devora\ideal\IdealC#\SignalRChat\bin\Debug\Microsoft.AspNetCore.Razor.Language.xml
+D:\Devora\ideal\IdealC#\SignalRChat\bin\Debug\Microsoft.AspNetCore.Razor.Runtime.xml
+D:\Devora\ideal\IdealC#\SignalRChat\bin\Debug\Microsoft.AspNetCore.ResponseCaching.Abstractions.xml
+D:\Devora\ideal\IdealC#\SignalRChat\bin\Debug\Microsoft.AspNetCore.Routing.xml
+D:\Devora\ideal\IdealC#\SignalRChat\bin\Debug\Microsoft.AspNetCore.Routing.Abstractions.xml
+D:\Devora\ideal\IdealC#\SignalRChat\bin\Debug\Microsoft.AspNetCore.SignalR.xml
+D:\Devora\ideal\IdealC#\SignalRChat\bin\Debug\Microsoft.AspNetCore.SignalR.Common.xml
+D:\Devora\ideal\IdealC#\SignalRChat\bin\Debug\Microsoft.AspNetCore.SignalR.Core.xml
+D:\Devora\ideal\IdealC#\SignalRChat\bin\Debug\Microsoft.AspNetCore.SignalR.Protocols.Json.xml
+D:\Devora\ideal\IdealC#\SignalRChat\bin\Debug\Microsoft.AspNetCore.WebSockets.xml
+D:\Devora\ideal\IdealC#\SignalRChat\bin\Debug\Microsoft.AspNetCore.WebUtilities.xml
+D:\Devora\ideal\IdealC#\SignalRChat\bin\Debug\Microsoft.CodeAnalysis.pdb
+D:\Devora\ideal\IdealC#\SignalRChat\bin\Debug\Microsoft.CodeAnalysis.xml
+D:\Devora\ideal\IdealC#\SignalRChat\bin\Debug\Microsoft.CodeAnalysis.CSharp.pdb
+D:\Devora\ideal\IdealC#\SignalRChat\bin\Debug\Microsoft.CodeAnalysis.CSharp.xml
+D:\Devora\ideal\IdealC#\SignalRChat\bin\Debug\Microsoft.CodeAnalysis.Razor.xml
+D:\Devora\ideal\IdealC#\SignalRChat\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+D:\Devora\ideal\IdealC#\SignalRChat\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+D:\Devora\ideal\IdealC#\SignalRChat\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\Devora\ideal\IdealC#\SignalRChat\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+D:\Devora\ideal\IdealC#\SignalRChat\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\Devora\ideal\IdealC#\SignalRChat\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+D:\Devora\ideal\IdealC#\SignalRChat\bin\Debug\Microsoft.Extensions.FileProviders.Composite.xml
+D:\Devora\ideal\IdealC#\SignalRChat\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.xml
+D:\Devora\ideal\IdealC#\SignalRChat\bin\Debug\Microsoft.Extensions.Hosting.Abstractions.xml
+D:\Devora\ideal\IdealC#\SignalRChat\bin\Debug\Microsoft.Extensions.Localization.xml
+D:\Devora\ideal\IdealC#\SignalRChat\bin\Debug\Microsoft.Extensions.Localization.Abstractions.xml
+D:\Devora\ideal\IdealC#\SignalRChat\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\Devora\ideal\IdealC#\SignalRChat\bin\Debug\Microsoft.Extensions.ObjectPool.xml
+D:\Devora\ideal\IdealC#\SignalRChat\bin\Debug\Microsoft.Extensions.Options.xml
+D:\Devora\ideal\IdealC#\SignalRChat\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\Devora\ideal\IdealC#\SignalRChat\bin\Debug\Microsoft.Extensions.WebEncoders.xml
+D:\Devora\ideal\IdealC#\SignalRChat\bin\Debug\Microsoft.Net.Http.Headers.xml
+D:\Devora\ideal\IdealC#\SignalRChat\bin\Debug\Microsoft.Owin.xml
+D:\Devora\ideal\IdealC#\SignalRChat\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+D:\Devora\ideal\IdealC#\SignalRChat\bin\Debug\Microsoft.Owin.Security.xml
+D:\Devora\ideal\IdealC#\SignalRChat\bin\Debug\Newtonsoft.Json.xml
+D:\Devora\ideal\IdealC#\SignalRChat\bin\Debug\Newtonsoft.Json.Bson.xml
+D:\Devora\ideal\IdealC#\SignalRChat\bin\Debug\System.Buffers.xml
+D:\Devora\ideal\IdealC#\SignalRChat\bin\Debug\System.Collections.Immutable.xml
+D:\Devora\ideal\IdealC#\SignalRChat\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Devora\ideal\IdealC#\SignalRChat\bin\Debug\System.IO.Pipelines.xml
+D:\Devora\ideal\IdealC#\SignalRChat\bin\Debug\System.Memory.xml
+D:\Devora\ideal\IdealC#\SignalRChat\bin\Debug\System.Numerics.Vectors.xml
+D:\Devora\ideal\IdealC#\SignalRChat\bin\Debug\System.Reflection.Metadata.xml
+D:\Devora\ideal\IdealC#\SignalRChat\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Devora\ideal\IdealC#\SignalRChat\bin\Debug\System.Text.Encodings.Web.xml
+D:\Devora\ideal\IdealC#\SignalRChat\bin\Debug\System.Threading.Channels.xml
+D:\Devora\ideal\IdealC#\SignalRChat\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Devora\ideal\IdealC#\SignalRChat\obj\Debug\SignalRChat.csproj.CoreCompileInputs.cache
+D:\Devora\ideal\IdealC#\SignalRChat\obj\Debug\SignalRChat.csproj.CopyComplete
+D:\Devora\ideal\IdealC#\SignalRChat\obj\Debug\SignalRChat.dll
+D:\Devora\ideal\IdealC#\SignalRChat\obj\Debug\SignalRChat.pdb
+D:\Devora\ideal\IdealC#\SignalRChat\obj\Debug\SignalRChat.csprojAssemblyReference.cache
+C:\shmura\IdealC#\SignalRChat\bin\Debug\Microsoft.DiaSymReader.Native.x86.dll
+C:\shmura\IdealC#\SignalRChat\bin\Debug\Microsoft.DiaSymReader.Native.amd64.dll
+C:\shmura\IdealC#\SignalRChat\bin\Debug\SignalRChat.dll.config
+C:\shmura\IdealC#\SignalRChat\bin\Debug\SignalRChat.dll
+C:\shmura\IdealC#\SignalRChat\bin\Debug\SignalRChat.pdb
+C:\shmura\IdealC#\SignalRChat\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\shmura\IdealC#\SignalRChat\bin\Debug\netstandard.dll
+C:\shmura\IdealC#\SignalRChat\bin\Debug\System.AppContext.dll
+C:\shmura\IdealC#\SignalRChat\bin\Debug\System.Collections.Concurrent.dll
+C:\shmura\IdealC#\SignalRChat\bin\Debug\System.Collections.dll
+C:\shmura\IdealC#\SignalRChat\bin\Debug\System.Collections.NonGeneric.dll
+C:\shmura\IdealC#\SignalRChat\bin\Debug\System.Collections.Specialized.dll
+C:\shmura\IdealC#\SignalRChat\bin\Debug\System.ComponentModel.dll
+C:\shmura\IdealC#\SignalRChat\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\shmura\IdealC#\SignalRChat\bin\Debug\System.ComponentModel.Primitives.dll
+C:\shmura\IdealC#\SignalRChat\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\shmura\IdealC#\SignalRChat\bin\Debug\System.Console.dll
+C:\shmura\IdealC#\SignalRChat\bin\Debug\System.Data.Common.dll
+C:\shmura\IdealC#\SignalRChat\bin\Debug\System.Diagnostics.Contracts.dll
+C:\shmura\IdealC#\SignalRChat\bin\Debug\System.Diagnostics.Debug.dll
+C:\shmura\IdealC#\SignalRChat\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\shmura\IdealC#\SignalRChat\bin\Debug\System.Diagnostics.Process.dll
+C:\shmura\IdealC#\SignalRChat\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\shmura\IdealC#\SignalRChat\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\shmura\IdealC#\SignalRChat\bin\Debug\System.Diagnostics.Tools.dll
+C:\shmura\IdealC#\SignalRChat\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\shmura\IdealC#\SignalRChat\bin\Debug\System.Diagnostics.Tracing.dll
+C:\shmura\IdealC#\SignalRChat\bin\Debug\System.Drawing.Primitives.dll
+C:\shmura\IdealC#\SignalRChat\bin\Debug\System.Dynamic.Runtime.dll
+C:\shmura\IdealC#\SignalRChat\bin\Debug\System.Globalization.Calendars.dll
+C:\shmura\IdealC#\SignalRChat\bin\Debug\System.Globalization.dll
+C:\shmura\IdealC#\SignalRChat\bin\Debug\System.Globalization.Extensions.dll
+C:\shmura\IdealC#\SignalRChat\bin\Debug\System.IO.Compression.dll
+C:\shmura\IdealC#\SignalRChat\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\shmura\IdealC#\SignalRChat\bin\Debug\System.IO.dll
+C:\shmura\IdealC#\SignalRChat\bin\Debug\System.IO.FileSystem.dll
+C:\shmura\IdealC#\SignalRChat\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\shmura\IdealC#\SignalRChat\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\shmura\IdealC#\SignalRChat\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\shmura\IdealC#\SignalRChat\bin\Debug\System.IO.IsolatedStorage.dll
+C:\shmura\IdealC#\SignalRChat\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\shmura\IdealC#\SignalRChat\bin\Debug\System.IO.Pipes.dll
+C:\shmura\IdealC#\SignalRChat\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\shmura\IdealC#\SignalRChat\bin\Debug\System.Linq.dll
+C:\shmura\IdealC#\SignalRChat\bin\Debug\System.Linq.Expressions.dll
+C:\shmura\IdealC#\SignalRChat\bin\Debug\System.Linq.Parallel.dll
+C:\shmura\IdealC#\SignalRChat\bin\Debug\System.Linq.Queryable.dll
+C:\shmura\IdealC#\SignalRChat\bin\Debug\System.Net.Http.dll
+C:\shmura\IdealC#\SignalRChat\bin\Debug\System.Net.NameResolution.dll
+C:\shmura\IdealC#\SignalRChat\bin\Debug\System.Net.NetworkInformation.dll
+C:\shmura\IdealC#\SignalRChat\bin\Debug\System.Net.Ping.dll
+C:\shmura\IdealC#\SignalRChat\bin\Debug\System.Net.Primitives.dll
+C:\shmura\IdealC#\SignalRChat\bin\Debug\System.Net.Requests.dll
+C:\shmura\IdealC#\SignalRChat\bin\Debug\System.Net.Security.dll
+C:\shmura\IdealC#\SignalRChat\bin\Debug\System.Net.Sockets.dll
+C:\shmura\IdealC#\SignalRChat\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\shmura\IdealC#\SignalRChat\bin\Debug\System.Net.WebSockets.Client.dll
+C:\shmura\IdealC#\SignalRChat\bin\Debug\System.Net.WebSockets.dll
+C:\shmura\IdealC#\SignalRChat\bin\Debug\System.ObjectModel.dll
+C:\shmura\IdealC#\SignalRChat\bin\Debug\System.Reflection.dll
+C:\shmura\IdealC#\SignalRChat\bin\Debug\System.Reflection.Extensions.dll
+C:\shmura\IdealC#\SignalRChat\bin\Debug\System.Reflection.Primitives.dll
+C:\shmura\IdealC#\SignalRChat\bin\Debug\System.Resources.Reader.dll
+C:\shmura\IdealC#\SignalRChat\bin\Debug\System.Resources.ResourceManager.dll
+C:\shmura\IdealC#\SignalRChat\bin\Debug\System.Resources.Writer.dll
+C:\shmura\IdealC#\SignalRChat\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\shmura\IdealC#\SignalRChat\bin\Debug\System.Runtime.dll
+C:\shmura\IdealC#\SignalRChat\bin\Debug\System.Runtime.Extensions.dll
+C:\shmura\IdealC#\SignalRChat\bin\Debug\System.Runtime.Handles.dll
+C:\shmura\IdealC#\SignalRChat\bin\Debug\System.Runtime.InteropServices.dll
+C:\shmura\IdealC#\SignalRChat\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\shmura\IdealC#\SignalRChat\bin\Debug\System.Runtime.Numerics.dll
+C:\shmura\IdealC#\SignalRChat\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\shmura\IdealC#\SignalRChat\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\shmura\IdealC#\SignalRChat\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\shmura\IdealC#\SignalRChat\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\shmura\IdealC#\SignalRChat\bin\Debug\System.Security.Claims.dll
+C:\shmura\IdealC#\SignalRChat\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\shmura\IdealC#\SignalRChat\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\shmura\IdealC#\SignalRChat\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\shmura\IdealC#\SignalRChat\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\shmura\IdealC#\SignalRChat\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\shmura\IdealC#\SignalRChat\bin\Debug\System.Security.Principal.dll
+C:\shmura\IdealC#\SignalRChat\bin\Debug\System.Security.SecureString.dll
+C:\shmura\IdealC#\SignalRChat\bin\Debug\System.Text.Encoding.dll
+C:\shmura\IdealC#\SignalRChat\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\shmura\IdealC#\SignalRChat\bin\Debug\System.Text.RegularExpressions.dll
+C:\shmura\IdealC#\SignalRChat\bin\Debug\System.Threading.dll
+C:\shmura\IdealC#\SignalRChat\bin\Debug\System.Threading.Overlapped.dll
+C:\shmura\IdealC#\SignalRChat\bin\Debug\System.Threading.Tasks.dll
+C:\shmura\IdealC#\SignalRChat\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\shmura\IdealC#\SignalRChat\bin\Debug\System.Threading.Thread.dll
+C:\shmura\IdealC#\SignalRChat\bin\Debug\System.Threading.ThreadPool.dll
+C:\shmura\IdealC#\SignalRChat\bin\Debug\System.Threading.Timer.dll
+C:\shmura\IdealC#\SignalRChat\bin\Debug\System.ValueTuple.dll
+C:\shmura\IdealC#\SignalRChat\bin\Debug\System.Xml.ReaderWriter.dll
+C:\shmura\IdealC#\SignalRChat\bin\Debug\System.Xml.XDocument.dll
+C:\shmura\IdealC#\SignalRChat\bin\Debug\System.Xml.XmlDocument.dll
+C:\shmura\IdealC#\SignalRChat\bin\Debug\System.Xml.XmlSerializer.dll
+C:\shmura\IdealC#\SignalRChat\bin\Debug\System.Xml.XPath.dll
+C:\shmura\IdealC#\SignalRChat\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\shmura\IdealC#\SignalRChat\bin\Debug\AutoMapper.dll
+C:\shmura\IdealC#\SignalRChat\bin\Debug\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\shmura\IdealC#\SignalRChat\bin\Debug\Microsoft.AspNet.SignalR.Client.dll
+C:\shmura\IdealC#\SignalRChat\bin\Debug\Microsoft.AspNet.SignalR.Core.dll
+C:\shmura\IdealC#\SignalRChat\bin\Debug\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\shmura\IdealC#\SignalRChat\bin\Debug\Microsoft.AspNetCore.Antiforgery.dll
+C:\shmura\IdealC#\SignalRChat\bin\Debug\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\shmura\IdealC#\SignalRChat\bin\Debug\Microsoft.AspNetCore.Authentication.Core.dll
+C:\shmura\IdealC#\SignalRChat\bin\Debug\Microsoft.AspNetCore.Authorization.dll
+C:\shmura\IdealC#\SignalRChat\bin\Debug\Microsoft.AspNetCore.Authorization.Policy.dll
+C:\shmura\IdealC#\SignalRChat\bin\Debug\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\shmura\IdealC#\SignalRChat\bin\Debug\Microsoft.AspNetCore.Cors.dll
+C:\shmura\IdealC#\SignalRChat\bin\Debug\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\shmura\IdealC#\SignalRChat\bin\Debug\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+C:\shmura\IdealC#\SignalRChat\bin\Debug\Microsoft.AspNetCore.DataProtection.dll
+C:\shmura\IdealC#\SignalRChat\bin\Debug\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+C:\shmura\IdealC#\SignalRChat\bin\Debug\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\shmura\IdealC#\SignalRChat\bin\Debug\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\shmura\IdealC#\SignalRChat\bin\Debug\Microsoft.AspNetCore.Html.Abstractions.dll
+C:\shmura\IdealC#\SignalRChat\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\shmura\IdealC#\SignalRChat\bin\Debug\Microsoft.AspNetCore.Http.Connections.Common.dll
+C:\shmura\IdealC#\SignalRChat\bin\Debug\Microsoft.AspNetCore.Http.Connections.dll
+C:\shmura\IdealC#\SignalRChat\bin\Debug\Microsoft.AspNetCore.Http.dll
+C:\shmura\IdealC#\SignalRChat\bin\Debug\Microsoft.AspNetCore.Http.Extensions.dll
+C:\shmura\IdealC#\SignalRChat\bin\Debug\Microsoft.AspNetCore.Http.Features.dll
+C:\shmura\IdealC#\SignalRChat\bin\Debug\Microsoft.AspNetCore.JsonPatch.dll
+C:\shmura\IdealC#\SignalRChat\bin\Debug\Microsoft.AspNetCore.Localization.dll
+C:\shmura\IdealC#\SignalRChat\bin\Debug\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\shmura\IdealC#\SignalRChat\bin\Debug\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+C:\shmura\IdealC#\SignalRChat\bin\Debug\Microsoft.AspNetCore.Mvc.Core.dll
+C:\shmura\IdealC#\SignalRChat\bin\Debug\Microsoft.AspNetCore.Mvc.Cors.dll
+C:\shmura\IdealC#\SignalRChat\bin\Debug\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+C:\shmura\IdealC#\SignalRChat\bin\Debug\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+C:\shmura\IdealC#\SignalRChat\bin\Debug\Microsoft.AspNetCore.Mvc.Localization.dll
+C:\shmura\IdealC#\SignalRChat\bin\Debug\Microsoft.AspNetCore.Mvc.Razor.dll
+C:\shmura\IdealC#\SignalRChat\bin\Debug\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\shmura\IdealC#\SignalRChat\bin\Debug\Microsoft.AspNetCore.Mvc.RazorPages.dll
+C:\shmura\IdealC#\SignalRChat\bin\Debug\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+C:\shmura\IdealC#\SignalRChat\bin\Debug\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+C:\shmura\IdealC#\SignalRChat\bin\Debug\Microsoft.AspNetCore.Razor.dll
+C:\shmura\IdealC#\SignalRChat\bin\Debug\Microsoft.AspNetCore.Razor.Language.dll
+C:\shmura\IdealC#\SignalRChat\bin\Debug\Microsoft.AspNetCore.Razor.Runtime.dll
+C:\shmura\IdealC#\SignalRChat\bin\Debug\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+C:\shmura\IdealC#\SignalRChat\bin\Debug\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\shmura\IdealC#\SignalRChat\bin\Debug\Microsoft.AspNetCore.Routing.dll
+C:\shmura\IdealC#\SignalRChat\bin\Debug\Microsoft.AspNetCore.SignalR.Common.dll
+C:\shmura\IdealC#\SignalRChat\bin\Debug\Microsoft.AspNetCore.SignalR.Core.dll
+C:\shmura\IdealC#\SignalRChat\bin\Debug\Microsoft.AspNetCore.SignalR.dll
+C:\shmura\IdealC#\SignalRChat\bin\Debug\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+C:\shmura\IdealC#\SignalRChat\bin\Debug\Microsoft.AspNetCore.WebSockets.dll
+C:\shmura\IdealC#\SignalRChat\bin\Debug\Microsoft.AspNetCore.WebUtilities.dll
+C:\shmura\IdealC#\SignalRChat\bin\Debug\Microsoft.CodeAnalysis.CSharp.dll
+C:\shmura\IdealC#\SignalRChat\bin\Debug\Microsoft.CodeAnalysis.dll
+C:\shmura\IdealC#\SignalRChat\bin\Debug\Microsoft.CodeAnalysis.Razor.dll
+C:\shmura\IdealC#\SignalRChat\bin\Debug\Microsoft.DotNet.PlatformAbstractions.dll
+C:\shmura\IdealC#\SignalRChat\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\shmura\IdealC#\SignalRChat\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\shmura\IdealC#\SignalRChat\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\shmura\IdealC#\SignalRChat\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\shmura\IdealC#\SignalRChat\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\shmura\IdealC#\SignalRChat\bin\Debug\Microsoft.Extensions.DependencyModel.dll
+C:\shmura\IdealC#\SignalRChat\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\shmura\IdealC#\SignalRChat\bin\Debug\Microsoft.Extensions.FileProviders.Composite.dll
+C:\shmura\IdealC#\SignalRChat\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\shmura\IdealC#\SignalRChat\bin\Debug\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\shmura\IdealC#\SignalRChat\bin\Debug\Microsoft.Extensions.Localization.Abstractions.dll
+C:\shmura\IdealC#\SignalRChat\bin\Debug\Microsoft.Extensions.Localization.dll
+C:\shmura\IdealC#\SignalRChat\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\shmura\IdealC#\SignalRChat\bin\Debug\Microsoft.Extensions.ObjectPool.dll
+C:\shmura\IdealC#\SignalRChat\bin\Debug\Microsoft.Extensions.Options.dll
+C:\shmura\IdealC#\SignalRChat\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\shmura\IdealC#\SignalRChat\bin\Debug\Microsoft.Extensions.WebEncoders.dll
+C:\shmura\IdealC#\SignalRChat\bin\Debug\Microsoft.Net.Http.Headers.dll
+C:\shmura\IdealC#\SignalRChat\bin\Debug\Microsoft.Owin.dll
+C:\shmura\IdealC#\SignalRChat\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+C:\shmura\IdealC#\SignalRChat\bin\Debug\Microsoft.Owin.Security.dll
+C:\shmura\IdealC#\SignalRChat\bin\Debug\Microsoft.Win32.Registry.dll
+C:\shmura\IdealC#\SignalRChat\bin\Debug\Newtonsoft.Json.Bson.dll
+C:\shmura\IdealC#\SignalRChat\bin\Debug\Newtonsoft.Json.dll
+C:\shmura\IdealC#\SignalRChat\bin\Debug\Owin.dll
+C:\shmura\IdealC#\SignalRChat\bin\Debug\System.Buffers.dll
+C:\shmura\IdealC#\SignalRChat\bin\Debug\System.Collections.Immutable.dll
+C:\shmura\IdealC#\SignalRChat\bin\Debug\System.ComponentModel.Annotations.dll
+C:\shmura\IdealC#\SignalRChat\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\shmura\IdealC#\SignalRChat\bin\Debug\System.IO.Pipelines.dll
+C:\shmura\IdealC#\SignalRChat\bin\Debug\System.Memory.dll
+C:\shmura\IdealC#\SignalRChat\bin\Debug\System.Net.WebSockets.WebSocketProtocol.dll
+C:\shmura\IdealC#\SignalRChat\bin\Debug\System.Numerics.Vectors.dll
+C:\shmura\IdealC#\SignalRChat\bin\Debug\System.Reflection.Metadata.dll
+C:\shmura\IdealC#\SignalRChat\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\shmura\IdealC#\SignalRChat\bin\Debug\System.Security.AccessControl.dll
+C:\shmura\IdealC#\SignalRChat\bin\Debug\System.Security.Cryptography.Xml.dll
+C:\shmura\IdealC#\SignalRChat\bin\Debug\System.Security.Permissions.dll
+C:\shmura\IdealC#\SignalRChat\bin\Debug\System.Security.Principal.Windows.dll
+C:\shmura\IdealC#\SignalRChat\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\shmura\IdealC#\SignalRChat\bin\Debug\System.Text.Encodings.Web.dll
+C:\shmura\IdealC#\SignalRChat\bin\Debug\System.Threading.Channels.dll
+C:\shmura\IdealC#\SignalRChat\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\shmura\IdealC#\SignalRChat\bin\Debug\AutoMapper.pdb
+C:\shmura\IdealC#\SignalRChat\bin\Debug\AutoMapper.xml
+C:\shmura\IdealC#\SignalRChat\bin\Debug\AutoMapper.Extensions.Microsoft.DependencyInjection.pdb
+C:\shmura\IdealC#\SignalRChat\bin\Debug\Microsoft.AspNet.SignalR.Client.pdb
+C:\shmura\IdealC#\SignalRChat\bin\Debug\Microsoft.AspNet.SignalR.Client.xml
+C:\shmura\IdealC#\SignalRChat\bin\Debug\Microsoft.AspNet.SignalR.Core.pdb
+C:\shmura\IdealC#\SignalRChat\bin\Debug\Microsoft.AspNet.SignalR.Core.xml
+C:\shmura\IdealC#\SignalRChat\bin\Debug\Microsoft.AspNet.SignalR.SystemWeb.pdb
+C:\shmura\IdealC#\SignalRChat\bin\Debug\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\shmura\IdealC#\SignalRChat\bin\Debug\Microsoft.AspNetCore.Antiforgery.xml
+C:\shmura\IdealC#\SignalRChat\bin\Debug\Microsoft.AspNetCore.Authentication.Abstractions.xml
+C:\shmura\IdealC#\SignalRChat\bin\Debug\Microsoft.AspNetCore.Authentication.Core.xml
+C:\shmura\IdealC#\SignalRChat\bin\Debug\Microsoft.AspNetCore.Authorization.xml
+C:\shmura\IdealC#\SignalRChat\bin\Debug\Microsoft.AspNetCore.Authorization.Policy.xml
+C:\shmura\IdealC#\SignalRChat\bin\Debug\Microsoft.AspNetCore.Connections.Abstractions.xml
+C:\shmura\IdealC#\SignalRChat\bin\Debug\Microsoft.AspNetCore.Cors.xml
+C:\shmura\IdealC#\SignalRChat\bin\Debug\Microsoft.AspNetCore.Cryptography.Internal.xml
+C:\shmura\IdealC#\SignalRChat\bin\Debug\Microsoft.AspNetCore.DataProtection.xml
+C:\shmura\IdealC#\SignalRChat\bin\Debug\Microsoft.AspNetCore.DataProtection.Abstractions.xml
+C:\shmura\IdealC#\SignalRChat\bin\Debug\Microsoft.AspNetCore.Diagnostics.Abstractions.xml
+C:\shmura\IdealC#\SignalRChat\bin\Debug\Microsoft.AspNetCore.Hosting.Abstractions.xml
+C:\shmura\IdealC#\SignalRChat\bin\Debug\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+C:\shmura\IdealC#\SignalRChat\bin\Debug\Microsoft.AspNetCore.Html.Abstractions.xml
+C:\shmura\IdealC#\SignalRChat\bin\Debug\Microsoft.AspNetCore.Http.xml
+C:\shmura\IdealC#\SignalRChat\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\shmura\IdealC#\SignalRChat\bin\Debug\Microsoft.AspNetCore.Http.Connections.xml
+C:\shmura\IdealC#\SignalRChat\bin\Debug\Microsoft.AspNetCore.Http.Connections.Common.xml
+C:\shmura\IdealC#\SignalRChat\bin\Debug\Microsoft.AspNetCore.Http.Extensions.xml
+C:\shmura\IdealC#\SignalRChat\bin\Debug\Microsoft.AspNetCore.Http.Features.xml
+C:\shmura\IdealC#\SignalRChat\bin\Debug\Microsoft.AspNetCore.JsonPatch.xml
+C:\shmura\IdealC#\SignalRChat\bin\Debug\Microsoft.AspNetCore.Localization.xml
+C:\shmura\IdealC#\SignalRChat\bin\Debug\Microsoft.AspNetCore.Mvc.Abstractions.xml
+C:\shmura\IdealC#\SignalRChat\bin\Debug\Microsoft.AspNetCore.Mvc.ApiExplorer.xml
+C:\shmura\IdealC#\SignalRChat\bin\Debug\Microsoft.AspNetCore.Mvc.Core.xml
+C:\shmura\IdealC#\SignalRChat\bin\Debug\Microsoft.AspNetCore.Mvc.Cors.xml
+C:\shmura\IdealC#\SignalRChat\bin\Debug\Microsoft.AspNetCore.Mvc.DataAnnotations.xml
+C:\shmura\IdealC#\SignalRChat\bin\Debug\Microsoft.AspNetCore.Mvc.Formatters.Json.xml
+C:\shmura\IdealC#\SignalRChat\bin\Debug\Microsoft.AspNetCore.Mvc.Localization.xml
+C:\shmura\IdealC#\SignalRChat\bin\Debug\Microsoft.AspNetCore.Mvc.Razor.xml
+C:\shmura\IdealC#\SignalRChat\bin\Debug\Microsoft.AspNetCore.Mvc.Razor.Extensions.xml
+C:\shmura\IdealC#\SignalRChat\bin\Debug\Microsoft.AspNetCore.Mvc.RazorPages.xml
+C:\shmura\IdealC#\SignalRChat\bin\Debug\Microsoft.AspNetCore.Mvc.TagHelpers.xml
+C:\shmura\IdealC#\SignalRChat\bin\Debug\Microsoft.AspNetCore.Mvc.ViewFeatures.xml
+C:\shmura\IdealC#\SignalRChat\bin\Debug\Microsoft.AspNetCore.Razor.xml
+C:\shmura\IdealC#\SignalRChat\bin\Debug\Microsoft.AspNetCore.Razor.Language.xml
+C:\shmura\IdealC#\SignalRChat\bin\Debug\Microsoft.AspNetCore.Razor.Runtime.xml
+C:\shmura\IdealC#\SignalRChat\bin\Debug\Microsoft.AspNetCore.ResponseCaching.Abstractions.xml
+C:\shmura\IdealC#\SignalRChat\bin\Debug\Microsoft.AspNetCore.Routing.xml
+C:\shmura\IdealC#\SignalRChat\bin\Debug\Microsoft.AspNetCore.Routing.Abstractions.xml
+C:\shmura\IdealC#\SignalRChat\bin\Debug\Microsoft.AspNetCore.SignalR.xml
+C:\shmura\IdealC#\SignalRChat\bin\Debug\Microsoft.AspNetCore.SignalR.Common.xml
+C:\shmura\IdealC#\SignalRChat\bin\Debug\Microsoft.AspNetCore.SignalR.Core.xml
+C:\shmura\IdealC#\SignalRChat\bin\Debug\Microsoft.AspNetCore.SignalR.Protocols.Json.xml
+C:\shmura\IdealC#\SignalRChat\bin\Debug\Microsoft.AspNetCore.WebSockets.xml
+C:\shmura\IdealC#\SignalRChat\bin\Debug\Microsoft.AspNetCore.WebUtilities.xml
+C:\shmura\IdealC#\SignalRChat\bin\Debug\Microsoft.CodeAnalysis.pdb
+C:\shmura\IdealC#\SignalRChat\bin\Debug\Microsoft.CodeAnalysis.xml
+C:\shmura\IdealC#\SignalRChat\bin\Debug\Microsoft.CodeAnalysis.CSharp.pdb
+C:\shmura\IdealC#\SignalRChat\bin\Debug\Microsoft.CodeAnalysis.CSharp.xml
+C:\shmura\IdealC#\SignalRChat\bin\Debug\Microsoft.CodeAnalysis.Razor.xml
+C:\shmura\IdealC#\SignalRChat\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\shmura\IdealC#\SignalRChat\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\shmura\IdealC#\SignalRChat\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\shmura\IdealC#\SignalRChat\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\shmura\IdealC#\SignalRChat\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\shmura\IdealC#\SignalRChat\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\shmura\IdealC#\SignalRChat\bin\Debug\Microsoft.Extensions.FileProviders.Composite.xml
+C:\shmura\IdealC#\SignalRChat\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.xml
+C:\shmura\IdealC#\SignalRChat\bin\Debug\Microsoft.Extensions.Hosting.Abstractions.xml
+C:\shmura\IdealC#\SignalRChat\bin\Debug\Microsoft.Extensions.Localization.xml
+C:\shmura\IdealC#\SignalRChat\bin\Debug\Microsoft.Extensions.Localization.Abstractions.xml
+C:\shmura\IdealC#\SignalRChat\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\shmura\IdealC#\SignalRChat\bin\Debug\Microsoft.Extensions.ObjectPool.xml
+C:\shmura\IdealC#\SignalRChat\bin\Debug\Microsoft.Extensions.Options.xml
+C:\shmura\IdealC#\SignalRChat\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\shmura\IdealC#\SignalRChat\bin\Debug\Microsoft.Extensions.WebEncoders.xml
+C:\shmura\IdealC#\SignalRChat\bin\Debug\Microsoft.Net.Http.Headers.xml
+C:\shmura\IdealC#\SignalRChat\bin\Debug\Microsoft.Owin.xml
+C:\shmura\IdealC#\SignalRChat\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+C:\shmura\IdealC#\SignalRChat\bin\Debug\Microsoft.Owin.Security.xml
+C:\shmura\IdealC#\SignalRChat\bin\Debug\Newtonsoft.Json.xml
+C:\shmura\IdealC#\SignalRChat\bin\Debug\Newtonsoft.Json.Bson.xml
+C:\shmura\IdealC#\SignalRChat\bin\Debug\System.Buffers.xml
+C:\shmura\IdealC#\SignalRChat\bin\Debug\System.Collections.Immutable.xml
+C:\shmura\IdealC#\SignalRChat\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\shmura\IdealC#\SignalRChat\bin\Debug\System.IO.Pipelines.xml
+C:\shmura\IdealC#\SignalRChat\bin\Debug\System.Memory.xml
+C:\shmura\IdealC#\SignalRChat\bin\Debug\System.Numerics.Vectors.xml
+C:\shmura\IdealC#\SignalRChat\bin\Debug\System.Reflection.Metadata.xml
+C:\shmura\IdealC#\SignalRChat\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\shmura\IdealC#\SignalRChat\bin\Debug\System.Text.Encodings.Web.xml
+C:\shmura\IdealC#\SignalRChat\bin\Debug\System.Threading.Channels.xml
+C:\shmura\IdealC#\SignalRChat\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\shmura\IdealC#\SignalRChat\obj\Debug\SignalRChat.csprojAssemblyReference.cache
+C:\shmura\IdealC#\SignalRChat\obj\Debug\SignalRChat.csproj.CoreCompileInputs.cache
+C:\shmura\IdealC#\SignalRChat\obj\Debug\SignalRChat.csproj.CopyComplete
+C:\shmura\IdealC#\SignalRChat\obj\Debug\SignalRChat.dll
+C:\shmura\IdealC#\SignalRChat\obj\Debug\SignalRChat.pdb

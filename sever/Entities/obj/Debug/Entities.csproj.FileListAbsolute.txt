@@ -1,0 +1,525 @@
+Y:\group 1 תשעט\קיסטר דבורה\הפרויקט גמר\Idial\Entities\bin\Debug\Entities.dll
+Y:\group 1 תשעט\קיסטר דבורה\הפרויקט גמר\Idial\Entities\bin\Debug\Entities.pdb
+Y:\group 1 תשעט\קיסטר דבורה\הפרויקט גמר\Idial\Entities\obj\Debug\Entities.dll
+Y:\group 1 תשעט\קיסטר דבורה\הפרויקט גמר\Idial\Entities\obj\Debug\Entities.pdb
+Y:\group 1 תשעט\קיסטר דבורה\הפרויקט גמר\Idial\Entities\bin\Debug\DAL.dll
+Y:\group 1 תשעט\קיסטר דבורה\הפרויקט גמר\Idial\Entities\bin\Debug\EntityFramework.dll
+Y:\group 1 תשעט\קיסטר דבורה\הפרויקט גמר\Idial\Entities\bin\Debug\DAL.pdb
+Y:\group 1 תשעט\קיסטר דבורה\הפרויקט גמר\Idial\Entities\bin\Debug\DAL.dll.config
+Y:\group 1 תשעט\קיסטר דבורה\הפרויקט גמר\Idial\Entities\bin\Debug\EntityFramework.xml
+Y:\group 1 תשעט\קיסטר דבורה\הפרויקט גמר\Idial\Entities\obj\Debug\Entities.csprojAssemblyReference.cache
+Y:\group 1 תשעט\קיסטר דבורה\הפרויקט גמר\Idial\Entities\obj\Debug\Entities.csproj.CoreCompileInputs.cache
+Y:\group 1 תשעט\קיסטר דבורה\הפרויקט גמר\Idial\Entities\obj\Debug\Entities.csproj.CopyComplete
+Y:\group 1 תשעט\קיסטר דבורה\הפרויקט גמר\Idial\Entities\bin\Debug\Newtonsoft.Json.dll
+Y:\group 1 תשעט\קיסטר דבורה\הפרויקט גמר\Idial\Entities\bin\Debug\System.Net.Http.Formatting.dll
+Y:\group 1 תשעט\קיסטר דבורה\הפרויקט גמר\Idial\Entities\bin\Debug\System.Web.Cors.dll
+Y:\group 1 תשעט\קיסטר דבורה\הפרויקט גמר\Idial\Entities\bin\Debug\System.Web.Http.Cors.dll
+Y:\group 1 תשעט\קיסטר דבורה\הפרויקט גמר\Idial\Entities\bin\Debug\System.Web.Http.dll
+Y:\group 1 תשעט\קיסטר דבורה\הפרויקט גמר\Idial\Entities\bin\Debug\Newtonsoft.Json.xml
+Y:\group 1 תשעט\קיסטר דבורה\הפרויקט גמר\Idial\Entities\bin\Debug\System.Net.Http.Formatting.xml
+Y:\group 1 תשעט\קיסטר דבורה\הפרויקט גמר\Idial\Entities\bin\Debug\System.Web.Http.xml
+Y:\group 1 תשעט\קיסטר דבורה\הפרויקט גמר\Idial\Entities\bin\Debug\System.Web.Http.Cors.xml
+G:\Idial\Entities\bin\Debug\Entities.dll
+G:\Idial\Entities\bin\Debug\Entities.pdb
+G:\Idial\Entities\bin\Debug\DAL.dll
+G:\Idial\Entities\bin\Debug\Newtonsoft.Json.dll
+G:\Idial\Entities\bin\Debug\System.Net.Http.Formatting.dll
+G:\Idial\Entities\bin\Debug\System.Web.Cors.dll
+G:\Idial\Entities\bin\Debug\System.Web.Http.Cors.dll
+G:\Idial\Entities\bin\Debug\System.Web.Http.dll
+G:\Idial\Entities\bin\Debug\EntityFramework.dll
+G:\Idial\Entities\bin\Debug\DAL.pdb
+G:\Idial\Entities\bin\Debug\DAL.dll.config
+G:\Idial\Entities\bin\Debug\Newtonsoft.Json.xml
+G:\Idial\Entities\bin\Debug\System.Net.Http.Formatting.xml
+G:\Idial\Entities\bin\Debug\System.Web.Http.xml
+G:\Idial\Entities\bin\Debug\System.Web.Http.Cors.xml
+G:\Idial\Entities\bin\Debug\EntityFramework.xml
+G:\Idial\Entities\obj\Debug\Entities.csprojAssemblyReference.cache
+G:\Idial\Entities\obj\Debug\Entities.csproj.CoreCompileInputs.cache
+G:\Idial\Entities\obj\Debug\Entities.csproj.CopyComplete
+G:\Idial\Entities\obj\Debug\Entities.dll
+G:\Idial\Entities\obj\Debug\Entities.pdb
+Y:\group 1 תשעט\קיסטר דבורה\כג אייר\Idial\Entities\bin\Debug\Entities.dll
+Y:\group 1 תשעט\קיסטר דבורה\כג אייר\Idial\Entities\bin\Debug\Entities.pdb
+Y:\group 1 תשעט\קיסטר דבורה\כג אייר\Idial\Entities\bin\Debug\DAL.dll
+Y:\group 1 תשעט\קיסטר דבורה\כג אייר\Idial\Entities\bin\Debug\Newtonsoft.Json.dll
+Y:\group 1 תשעט\קיסטר דבורה\כג אייר\Idial\Entities\bin\Debug\System.Net.Http.Formatting.dll
+Y:\group 1 תשעט\קיסטר דבורה\כג אייר\Idial\Entities\bin\Debug\System.Web.Cors.dll
+Y:\group 1 תשעט\קיסטר דבורה\כג אייר\Idial\Entities\bin\Debug\System.Web.Http.Cors.dll
+Y:\group 1 תשעט\קיסטר דבורה\כג אייר\Idial\Entities\bin\Debug\System.Web.Http.dll
+Y:\group 1 תשעט\קיסטר דבורה\כג אייר\Idial\Entities\bin\Debug\EntityFramework.dll
+Y:\group 1 תשעט\קיסטר דבורה\כג אייר\Idial\Entities\bin\Debug\DAL.pdb
+Y:\group 1 תשעט\קיסטר דבורה\כג אייר\Idial\Entities\bin\Debug\DAL.dll.config
+Y:\group 1 תשעט\קיסטר דבורה\כג אייר\Idial\Entities\bin\Debug\Newtonsoft.Json.xml
+Y:\group 1 תשעט\קיסטר דבורה\כג אייר\Idial\Entities\bin\Debug\System.Net.Http.Formatting.xml
+Y:\group 1 תשעט\קיסטר דבורה\כג אייר\Idial\Entities\bin\Debug\System.Web.Http.xml
+Y:\group 1 תשעט\קיסטר דבורה\כג אייר\Idial\Entities\bin\Debug\System.Web.Http.Cors.xml
+Y:\group 1 תשעט\קיסטר דבורה\כג אייר\Idial\Entities\bin\Debug\EntityFramework.xml
+Y:\group 1 תשעט\קיסטר דבורה\כג אייר\Idial\Entities\obj\Debug\Entities.csprojAssemblyReference.cache
+Y:\group 1 תשעט\קיסטר דבורה\כג אייר\Idial\Entities\obj\Debug\Entities.csproj.CoreCompileInputs.cache
+Y:\group 1 תשעט\קיסטר דבורה\כג אייר\Idial\Entities\obj\Debug\Entities.csproj.CopyComplete
+Y:\group 1 תשעט\קיסטר דבורה\כג אייר\Idial\Entities\obj\Debug\Entities.dll
+Y:\group 1 תשעט\קיסטר דבורה\כג אייר\Idial\Entities\obj\Debug\Entities.pdb
+D:\כג אייר\Idial\Entities\obj\Debug\Entities.csprojAssemblyReference.cache
+D:\כג אייר\Idial\Entities\obj\Debug\Entities.csproj.CoreCompileInputs.cache
+D:\כג אייר\Idial\Entities\obj\Debug\Entities.dll
+D:\כג אייר\Idial\Entities\obj\Debug\Entities.pdb
+D:\כג אייר\Idial\Entities\bin\Debug\Entities.dll
+D:\כג אייר\Idial\Entities\bin\Debug\Entities.pdb
+D:\כג אייר\Idial\Entities\bin\Debug\DAL.dll
+D:\כג אייר\Idial\Entities\bin\Debug\Newtonsoft.Json.dll
+D:\כג אייר\Idial\Entities\bin\Debug\System.Net.Http.Formatting.dll
+D:\כג אייר\Idial\Entities\bin\Debug\System.Web.Cors.dll
+D:\כג אייר\Idial\Entities\bin\Debug\System.Web.Http.Cors.dll
+D:\כג אייר\Idial\Entities\bin\Debug\System.Web.Http.dll
+D:\כג אייר\Idial\Entities\bin\Debug\EntityFramework.dll
+D:\כג אייר\Idial\Entities\bin\Debug\DAL.pdb
+D:\כג אייר\Idial\Entities\bin\Debug\DAL.dll.config
+D:\כג אייר\Idial\Entities\bin\Debug\Newtonsoft.Json.xml
+D:\כג אייר\Idial\Entities\bin\Debug\System.Net.Http.Formatting.xml
+D:\כג אייר\Idial\Entities\bin\Debug\System.Web.Http.xml
+D:\כג אייר\Idial\Entities\bin\Debug\System.Web.Http.Cors.xml
+D:\כג אייר\Idial\Entities\bin\Debug\EntityFramework.xml
+D:\כג אייר\Idial\Entities\obj\Debug\Entities.csproj.CopyComplete
+D:\ראש חודש סיוון בשורות טובות\Idial\Entities\bin\Debug\Entities.dll
+D:\ראש חודש סיוון בשורות טובות\Idial\Entities\bin\Debug\Entities.pdb
+D:\ראש חודש סיוון בשורות טובות\Idial\Entities\bin\Debug\DAL.dll
+D:\ראש חודש סיוון בשורות טובות\Idial\Entities\bin\Debug\Newtonsoft.Json.dll
+D:\ראש חודש סיוון בשורות טובות\Idial\Entities\bin\Debug\System.Net.Http.Formatting.dll
+D:\ראש חודש סיוון בשורות טובות\Idial\Entities\bin\Debug\System.Web.Cors.dll
+D:\ראש חודש סיוון בשורות טובות\Idial\Entities\bin\Debug\System.Web.Http.Cors.dll
+D:\ראש חודש סיוון בשורות טובות\Idial\Entities\bin\Debug\System.Web.Http.dll
+D:\ראש חודש סיוון בשורות טובות\Idial\Entities\bin\Debug\EntityFramework.dll
+D:\ראש חודש סיוון בשורות טובות\Idial\Entities\bin\Debug\DAL.pdb
+D:\ראש חודש סיוון בשורות טובות\Idial\Entities\bin\Debug\DAL.dll.config
+D:\ראש חודש סיוון בשורות טובות\Idial\Entities\bin\Debug\Newtonsoft.Json.xml
+D:\ראש חודש סיוון בשורות טובות\Idial\Entities\bin\Debug\System.Net.Http.Formatting.xml
+D:\ראש חודש סיוון בשורות טובות\Idial\Entities\bin\Debug\System.Web.Http.xml
+D:\ראש חודש סיוון בשורות טובות\Idial\Entities\bin\Debug\System.Web.Http.Cors.xml
+D:\ראש חודש סיוון בשורות טובות\Idial\Entities\bin\Debug\EntityFramework.xml
+D:\ראש חודש סיוון בשורות טובות\Idial\Entities\obj\Debug\Entities.csprojAssemblyReference.cache
+D:\ראש חודש סיוון בשורות טובות\Idial\Entities\obj\Debug\Entities.csproj.CoreCompileInputs.cache
+D:\ראש חודש סיוון בשורות טובות\Idial\Entities\obj\Debug\Entities.csproj.CopyComplete
+D:\ראש חודש סיוון בשורות טובות\Idial\Entities\obj\Debug\Entities.dll
+D:\ראש חודש סיוון בשורות טובות\Idial\Entities\obj\Debug\Entities.pdb
+Y:\group 1 תשעט\יעקובוביץ דינה\project2\ראש חודש סיוון בשורות טובות\Idial\Entities\bin\Debug\Entities.dll
+Y:\group 1 תשעט\יעקובוביץ דינה\project2\ראש חודש סיוון בשורות טובות\Idial\Entities\bin\Debug\Entities.pdb
+Y:\group 1 תשעט\יעקובוביץ דינה\project2\ראש חודש סיוון בשורות טובות\Idial\Entities\bin\Debug\DAL.dll
+Y:\group 1 תשעט\יעקובוביץ דינה\project2\ראש חודש סיוון בשורות טובות\Idial\Entities\bin\Debug\Newtonsoft.Json.dll
+Y:\group 1 תשעט\יעקובוביץ דינה\project2\ראש חודש סיוון בשורות טובות\Idial\Entities\bin\Debug\System.Net.Http.Formatting.dll
+Y:\group 1 תשעט\יעקובוביץ דינה\project2\ראש חודש סיוון בשורות טובות\Idial\Entities\bin\Debug\System.Web.Cors.dll
+Y:\group 1 תשעט\יעקובוביץ דינה\project2\ראש חודש סיוון בשורות טובות\Idial\Entities\bin\Debug\System.Web.Http.Cors.dll
+Y:\group 1 תשעט\יעקובוביץ דינה\project2\ראש חודש סיוון בשורות טובות\Idial\Entities\bin\Debug\System.Web.Http.dll
+Y:\group 1 תשעט\יעקובוביץ דינה\project2\ראש חודש סיוון בשורות טובות\Idial\Entities\bin\Debug\EntityFramework.dll
+Y:\group 1 תשעט\יעקובוביץ דינה\project2\ראש חודש סיוון בשורות טובות\Idial\Entities\bin\Debug\DAL.pdb
+Y:\group 1 תשעט\יעקובוביץ דינה\project2\ראש חודש סיוון בשורות טובות\Idial\Entities\bin\Debug\DAL.dll.config
+Y:\group 1 תשעט\יעקובוביץ דינה\project2\ראש חודש סיוון בשורות טובות\Idial\Entities\bin\Debug\Newtonsoft.Json.xml
+Y:\group 1 תשעט\יעקובוביץ דינה\project2\ראש חודש סיוון בשורות טובות\Idial\Entities\bin\Debug\System.Net.Http.Formatting.xml
+Y:\group 1 תשעט\יעקובוביץ דינה\project2\ראש חודש סיוון בשורות טובות\Idial\Entities\bin\Debug\System.Web.Http.xml
+Y:\group 1 תשעט\יעקובוביץ דינה\project2\ראש חודש סיוון בשורות טובות\Idial\Entities\bin\Debug\System.Web.Http.Cors.xml
+Y:\group 1 תשעט\יעקובוביץ דינה\project2\ראש חודש סיוון בשורות טובות\Idial\Entities\bin\Debug\EntityFramework.xml
+Y:\group 1 תשעט\יעקובוביץ דינה\project2\ראש חודש סיוון בשורות טובות\Idial\Entities\obj\Debug\Entities.csprojAssemblyReference.cache
+Y:\group 1 תשעט\יעקובוביץ דינה\project2\ראש חודש סיוון בשורות טובות\Idial\Entities\obj\Debug\Entities.csproj.CoreCompileInputs.cache
+Y:\group 1 תשעט\יעקובוביץ דינה\project2\ראש חודש סיוון בשורות טובות\Idial\Entities\obj\Debug\Entities.csproj.CopyComplete
+Y:\group 1 תשעט\יעקובוביץ דינה\project2\ראש חודש סיוון בשורות טובות\Idial\Entities\obj\Debug\Entities.dll
+Y:\group 1 תשעט\יעקובוביץ דינה\project2\ראש חודש סיוון בשורות טובות\Idial\Entities\obj\Debug\Entities.pdb
+D:\Idial\Entities\bin\Debug\Entities.dll
+D:\Idial\Entities\bin\Debug\Entities.pdb
+D:\Idial\Entities\bin\Debug\DAL.dll
+D:\Idial\Entities\bin\Debug\Newtonsoft.Json.dll
+D:\Idial\Entities\bin\Debug\System.Net.Http.Formatting.dll
+D:\Idial\Entities\bin\Debug\System.Web.Cors.dll
+D:\Idial\Entities\bin\Debug\System.Web.Http.Cors.dll
+D:\Idial\Entities\bin\Debug\System.Web.Http.dll
+D:\Idial\Entities\bin\Debug\EntityFramework.dll
+D:\Idial\Entities\bin\Debug\DAL.pdb
+D:\Idial\Entities\bin\Debug\DAL.dll.config
+D:\Idial\Entities\bin\Debug\Newtonsoft.Json.xml
+D:\Idial\Entities\bin\Debug\System.Net.Http.Formatting.xml
+D:\Idial\Entities\bin\Debug\System.Web.Http.xml
+D:\Idial\Entities\bin\Debug\System.Web.Http.Cors.xml
+D:\Idial\Entities\bin\Debug\EntityFramework.xml
+D:\Idial\Entities\obj\Debug\Entities.csprojAssemblyReference.cache
+D:\Idial\Entities\obj\Debug\Entities.csproj.CoreCompileInputs.cache
+D:\Idial\Entities\obj\Debug\Entities.csproj.CopyComplete
+D:\Idial\Entities\obj\Debug\Entities.dll
+D:\Idial\Entities\obj\Debug\Entities.pdb
+D:\C#IDEAL\Entities\bin\Debug\Entities.dll
+D:\C#IDEAL\Entities\bin\Debug\Entities.pdb
+D:\C#IDEAL\Entities\bin\Debug\DAL.dll
+D:\C#IDEAL\Entities\bin\Debug\Newtonsoft.Json.dll
+D:\C#IDEAL\Entities\bin\Debug\System.Net.Http.Formatting.dll
+D:\C#IDEAL\Entities\bin\Debug\System.Web.Cors.dll
+D:\C#IDEAL\Entities\bin\Debug\System.Web.Http.Cors.dll
+D:\C#IDEAL\Entities\bin\Debug\System.Web.Http.dll
+D:\C#IDEAL\Entities\bin\Debug\EntityFramework.dll
+D:\C#IDEAL\Entities\bin\Debug\DAL.pdb
+D:\C#IDEAL\Entities\bin\Debug\DAL.dll.config
+D:\C#IDEAL\Entities\bin\Debug\Newtonsoft.Json.xml
+D:\C#IDEAL\Entities\bin\Debug\System.Net.Http.Formatting.xml
+D:\C#IDEAL\Entities\bin\Debug\System.Web.Http.xml
+D:\C#IDEAL\Entities\bin\Debug\System.Web.Http.Cors.xml
+D:\C#IDEAL\Entities\bin\Debug\EntityFramework.xml
+D:\C#IDEAL\Entities\obj\Debug\Entities.csprojAssemblyReference.cache
+D:\C#IDEAL\Entities\obj\Debug\Entities.csproj.CoreCompileInputs.cache
+D:\C#IDEAL\Entities\obj\Debug\Entities.csproj.CopyComplete
+D:\C#IDEAL\Entities\obj\Debug\Entities.dll
+D:\C#IDEAL\Entities\obj\Debug\Entities.pdb
+D:\יג סיון\C#IDEAL\Entities\bin\Debug\Entities.dll
+D:\יג סיון\C#IDEAL\Entities\bin\Debug\Entities.pdb
+D:\יג סיון\C#IDEAL\Entities\bin\Debug\DAL.dll
+D:\יג סיון\C#IDEAL\Entities\bin\Debug\Newtonsoft.Json.dll
+D:\יג סיון\C#IDEAL\Entities\bin\Debug\System.Net.Http.Formatting.dll
+D:\יג סיון\C#IDEAL\Entities\bin\Debug\System.Web.Cors.dll
+D:\יג סיון\C#IDEAL\Entities\bin\Debug\System.Web.Http.Cors.dll
+D:\יג סיון\C#IDEAL\Entities\bin\Debug\System.Web.Http.dll
+D:\יג סיון\C#IDEAL\Entities\bin\Debug\EntityFramework.dll
+D:\יג סיון\C#IDEAL\Entities\bin\Debug\DAL.pdb
+D:\יג סיון\C#IDEAL\Entities\bin\Debug\DAL.dll.config
+D:\יג סיון\C#IDEAL\Entities\bin\Debug\Newtonsoft.Json.xml
+D:\יג סיון\C#IDEAL\Entities\bin\Debug\System.Net.Http.Formatting.xml
+D:\יג סיון\C#IDEAL\Entities\bin\Debug\System.Web.Http.xml
+D:\יג סיון\C#IDEAL\Entities\bin\Debug\System.Web.Http.Cors.xml
+D:\יג סיון\C#IDEAL\Entities\bin\Debug\EntityFramework.xml
+D:\יג סיון\C#IDEAL\Entities\obj\Debug\Entities.csprojAssemblyReference.cache
+D:\יג סיון\C#IDEAL\Entities\obj\Debug\Entities.csproj.CoreCompileInputs.cache
+D:\יג סיון\C#IDEAL\Entities\obj\Debug\Entities.csproj.CopyComplete
+D:\יג סיון\C#IDEAL\Entities\obj\Debug\Entities.dll
+D:\יג סיון\C#IDEAL\Entities\obj\Debug\Entities.pdb
+Y:\group 1 תשעט\יעקובוביץ דינה\project2\כז סיון\C#IDEAL\Entities\bin\Debug\Entities.dll
+Y:\group 1 תשעט\יעקובוביץ דינה\project2\כז סיון\C#IDEAL\Entities\bin\Debug\Entities.pdb
+Y:\group 1 תשעט\יעקובוביץ דינה\project2\כז סיון\C#IDEAL\Entities\bin\Debug\DAL.dll
+Y:\group 1 תשעט\יעקובוביץ דינה\project2\כז סיון\C#IDEAL\Entities\bin\Debug\Newtonsoft.Json.dll
+Y:\group 1 תשעט\יעקובוביץ דינה\project2\כז סיון\C#IDEAL\Entities\bin\Debug\System.Net.Http.Formatting.dll
+Y:\group 1 תשעט\יעקובוביץ דינה\project2\כז סיון\C#IDEAL\Entities\bin\Debug\System.Web.Cors.dll
+Y:\group 1 תשעט\יעקובוביץ דינה\project2\כז סיון\C#IDEAL\Entities\bin\Debug\System.Web.Http.Cors.dll
+Y:\group 1 תשעט\יעקובוביץ דינה\project2\כז סיון\C#IDEAL\Entities\bin\Debug\System.Web.Http.dll
+Y:\group 1 תשעט\יעקובוביץ דינה\project2\כז סיון\C#IDEAL\Entities\bin\Debug\EntityFramework.dll
+Y:\group 1 תשעט\יעקובוביץ דינה\project2\כז סיון\C#IDEAL\Entities\bin\Debug\DAL.pdb
+Y:\group 1 תשעט\יעקובוביץ דינה\project2\כז סיון\C#IDEAL\Entities\bin\Debug\DAL.dll.config
+Y:\group 1 תשעט\יעקובוביץ דינה\project2\כז סיון\C#IDEAL\Entities\bin\Debug\Newtonsoft.Json.xml
+Y:\group 1 תשעט\יעקובוביץ דינה\project2\כז סיון\C#IDEAL\Entities\bin\Debug\System.Net.Http.Formatting.xml
+Y:\group 1 תשעט\יעקובוביץ דינה\project2\כז סיון\C#IDEAL\Entities\bin\Debug\System.Web.Http.xml
+Y:\group 1 תשעט\יעקובוביץ דינה\project2\כז סיון\C#IDEAL\Entities\bin\Debug\System.Web.Http.Cors.xml
+Y:\group 1 תשעט\יעקובוביץ דינה\project2\כז סיון\C#IDEAL\Entities\bin\Debug\EntityFramework.xml
+Y:\group 1 תשעט\יעקובוביץ דינה\project2\כז סיון\C#IDEAL\Entities\obj\Debug\Entities.csprojAssemblyReference.cache
+Y:\group 1 תשעט\יעקובוביץ דינה\project2\כז סיון\C#IDEAL\Entities\obj\Debug\Entities.csproj.CoreCompileInputs.cache
+Y:\group 1 תשעט\יעקובוביץ דינה\project2\כז סיון\C#IDEAL\Entities\obj\Debug\Entities.csproj.CopyComplete
+Y:\group 1 תשעט\יעקובוביץ דינה\project2\כז סיון\C#IDEAL\Entities\obj\Debug\Entities.dll
+Y:\group 1 תשעט\יעקובוביץ דינה\project2\כז סיון\C#IDEAL\Entities\obj\Debug\Entities.pdb
+D:\כח סיון\C#IDEAL\Entities\bin\Debug\Entities.dll
+D:\כח סיון\C#IDEAL\Entities\bin\Debug\Entities.pdb
+D:\כח סיון\C#IDEAL\Entities\bin\Debug\DAL.dll
+D:\כח סיון\C#IDEAL\Entities\bin\Debug\Newtonsoft.Json.dll
+D:\כח סיון\C#IDEAL\Entities\bin\Debug\System.Net.Http.Formatting.dll
+D:\כח סיון\C#IDEAL\Entities\bin\Debug\System.Web.Cors.dll
+D:\כח סיון\C#IDEAL\Entities\bin\Debug\System.Web.Http.Cors.dll
+D:\כח סיון\C#IDEAL\Entities\bin\Debug\System.Web.Http.dll
+D:\כח סיון\C#IDEAL\Entities\bin\Debug\EntityFramework.dll
+D:\כח סיון\C#IDEAL\Entities\bin\Debug\DAL.pdb
+D:\כח סיון\C#IDEAL\Entities\bin\Debug\DAL.dll.config
+D:\כח סיון\C#IDEAL\Entities\bin\Debug\Newtonsoft.Json.xml
+D:\כח סיון\C#IDEAL\Entities\bin\Debug\System.Net.Http.Formatting.xml
+D:\כח סיון\C#IDEAL\Entities\bin\Debug\System.Web.Http.xml
+D:\כח סיון\C#IDEAL\Entities\bin\Debug\System.Web.Http.Cors.xml
+D:\כח סיון\C#IDEAL\Entities\bin\Debug\EntityFramework.xml
+D:\כח סיון\C#IDEAL\Entities\obj\Debug\Entities.csprojAssemblyReference.cache
+D:\כח סיון\C#IDEAL\Entities\obj\Debug\Entities.csproj.CoreCompileInputs.cache
+D:\כח סיון\C#IDEAL\Entities\obj\Debug\Entities.csproj.CopyComplete
+D:\כח סיון\C#IDEAL\Entities\obj\Debug\Entities.dll
+D:\כח סיון\C#IDEAL\Entities\obj\Debug\Entities.pdb
+Y:\group 1 תשעט\יעקובוביץ דינה\project2\כט סיון\C#IDEAL\Entities\bin\Debug\Entities.dll
+Y:\group 1 תשעט\יעקובוביץ דינה\project2\כט סיון\C#IDEAL\Entities\bin\Debug\Entities.pdb
+Y:\group 1 תשעט\יעקובוביץ דינה\project2\כט סיון\C#IDEAL\Entities\bin\Debug\DAL.dll
+Y:\group 1 תשעט\יעקובוביץ דינה\project2\כט סיון\C#IDEAL\Entities\bin\Debug\Newtonsoft.Json.dll
+Y:\group 1 תשעט\יעקובוביץ דינה\project2\כט סיון\C#IDEAL\Entities\bin\Debug\System.Net.Http.Formatting.dll
+Y:\group 1 תשעט\יעקובוביץ דינה\project2\כט סיון\C#IDEAL\Entities\bin\Debug\System.Web.Cors.dll
+Y:\group 1 תשעט\יעקובוביץ דינה\project2\כט סיון\C#IDEAL\Entities\bin\Debug\System.Web.Http.Cors.dll
+Y:\group 1 תשעט\יעקובוביץ דינה\project2\כט סיון\C#IDEAL\Entities\bin\Debug\System.Web.Http.dll
+Y:\group 1 תשעט\יעקובוביץ דינה\project2\כט סיון\C#IDEAL\Entities\bin\Debug\EntityFramework.dll
+Y:\group 1 תשעט\יעקובוביץ דינה\project2\כט סיון\C#IDEAL\Entities\bin\Debug\DAL.pdb
+Y:\group 1 תשעט\יעקובוביץ דינה\project2\כט סיון\C#IDEAL\Entities\bin\Debug\DAL.dll.config
+Y:\group 1 תשעט\יעקובוביץ דינה\project2\כט סיון\C#IDEAL\Entities\bin\Debug\Newtonsoft.Json.xml
+Y:\group 1 תשעט\יעקובוביץ דינה\project2\כט סיון\C#IDEAL\Entities\bin\Debug\System.Net.Http.Formatting.xml
+Y:\group 1 תשעט\יעקובוביץ דינה\project2\כט סיון\C#IDEAL\Entities\bin\Debug\System.Web.Http.xml
+Y:\group 1 תשעט\יעקובוביץ דינה\project2\כט סיון\C#IDEAL\Entities\bin\Debug\System.Web.Http.Cors.xml
+Y:\group 1 תשעט\יעקובוביץ דינה\project2\כט סיון\C#IDEAL\Entities\bin\Debug\EntityFramework.xml
+Y:\group 1 תשעט\יעקובוביץ דינה\project2\כט סיון\C#IDEAL\Entities\obj\Debug\Entities.csprojAssemblyReference.cache
+Y:\group 1 תשעט\יעקובוביץ דינה\project2\כט סיון\C#IDEAL\Entities\obj\Debug\Entities.csproj.CoreCompileInputs.cache
+Y:\group 1 תשעט\יעקובוביץ דינה\project2\כט סיון\C#IDEAL\Entities\obj\Debug\Entities.csproj.CopyComplete
+Y:\group 1 תשעט\יעקובוביץ דינה\project2\כט סיון\C#IDEAL\Entities\obj\Debug\Entities.dll
+Y:\group 1 תשעט\יעקובוביץ דינה\project2\כט סיון\C#IDEAL\Entities\obj\Debug\Entities.pdb
+D:\ל סיון\C#IDEAL\Entities\bin\Debug\Entities.dll
+D:\ל סיון\C#IDEAL\Entities\bin\Debug\Entities.pdb
+D:\ל סיון\C#IDEAL\Entities\bin\Debug\DAL.dll
+D:\ל סיון\C#IDEAL\Entities\bin\Debug\Newtonsoft.Json.dll
+D:\ל סיון\C#IDEAL\Entities\bin\Debug\System.Net.Http.Formatting.dll
+D:\ל סיון\C#IDEAL\Entities\bin\Debug\System.Web.Cors.dll
+D:\ל סיון\C#IDEAL\Entities\bin\Debug\System.Web.Http.Cors.dll
+D:\ל סיון\C#IDEAL\Entities\bin\Debug\System.Web.Http.dll
+D:\ל סיון\C#IDEAL\Entities\bin\Debug\EntityFramework.dll
+D:\ל סיון\C#IDEAL\Entities\bin\Debug\DAL.pdb
+D:\ל סיון\C#IDEAL\Entities\bin\Debug\DAL.dll.config
+D:\ל סיון\C#IDEAL\Entities\bin\Debug\Newtonsoft.Json.xml
+D:\ל סיון\C#IDEAL\Entities\bin\Debug\System.Net.Http.Formatting.xml
+D:\ל סיון\C#IDEAL\Entities\bin\Debug\System.Web.Http.xml
+D:\ל סיון\C#IDEAL\Entities\bin\Debug\System.Web.Http.Cors.xml
+D:\ל סיון\C#IDEAL\Entities\bin\Debug\EntityFramework.xml
+D:\ל סיון\C#IDEAL\Entities\obj\Debug\Entities.csprojAssemblyReference.cache
+D:\ל סיון\C#IDEAL\Entities\obj\Debug\Entities.csproj.CoreCompileInputs.cache
+D:\ל סיון\C#IDEAL\Entities\obj\Debug\Entities.csproj.CopyComplete
+D:\ל סיון\C#IDEAL\Entities\obj\Debug\Entities.dll
+D:\ל סיון\C#IDEAL\Entities\obj\Debug\Entities.pdb
+D:\ו תמוז\C#IDEAL\Entities\bin\Debug\Entities.dll
+D:\ו תמוז\C#IDEAL\Entities\bin\Debug\Entities.pdb
+D:\ו תמוז\C#IDEAL\Entities\bin\Debug\DAL.dll
+D:\ו תמוז\C#IDEAL\Entities\bin\Debug\Newtonsoft.Json.dll
+D:\ו תמוז\C#IDEAL\Entities\bin\Debug\System.Net.Http.Formatting.dll
+D:\ו תמוז\C#IDEAL\Entities\bin\Debug\System.Web.Cors.dll
+D:\ו תמוז\C#IDEAL\Entities\bin\Debug\System.Web.Http.Cors.dll
+D:\ו תמוז\C#IDEAL\Entities\bin\Debug\System.Web.Http.dll
+D:\ו תמוז\C#IDEAL\Entities\bin\Debug\EntityFramework.dll
+D:\ו תמוז\C#IDEAL\Entities\bin\Debug\DAL.pdb
+D:\ו תמוז\C#IDEAL\Entities\bin\Debug\DAL.dll.config
+D:\ו תמוז\C#IDEAL\Entities\bin\Debug\Newtonsoft.Json.xml
+D:\ו תמוז\C#IDEAL\Entities\bin\Debug\System.Net.Http.Formatting.xml
+D:\ו תמוז\C#IDEAL\Entities\bin\Debug\System.Web.Http.xml
+D:\ו תמוז\C#IDEAL\Entities\bin\Debug\System.Web.Http.Cors.xml
+D:\ו תמוז\C#IDEAL\Entities\bin\Debug\EntityFramework.xml
+D:\ו תמוז\C#IDEAL\Entities\obj\Debug\Entities.csprojAssemblyReference.cache
+D:\ו תמוז\C#IDEAL\Entities\obj\Debug\Entities.csproj.CoreCompileInputs.cache
+D:\ו תמוז\C#IDEAL\Entities\obj\Debug\Entities.csproj.CopyComplete
+D:\ו תמוז\C#IDEAL\Entities\obj\Debug\Entities.dll
+D:\ו תמוז\C#IDEAL\Entities\obj\Debug\Entities.pdb
+D:\יא תמוז\C#IDEAL\Entities\bin\Debug\Entities.dll
+D:\יא תמוז\C#IDEAL\Entities\bin\Debug\Entities.pdb
+D:\יא תמוז\C#IDEAL\Entities\bin\Debug\DAL.dll
+D:\יא תמוז\C#IDEAL\Entities\bin\Debug\Newtonsoft.Json.dll
+D:\יא תמוז\C#IDEAL\Entities\bin\Debug\System.Net.Http.Formatting.dll
+D:\יא תמוז\C#IDEAL\Entities\bin\Debug\System.Web.Cors.dll
+D:\יא תמוז\C#IDEAL\Entities\bin\Debug\System.Web.Http.Cors.dll
+D:\יא תמוז\C#IDEAL\Entities\bin\Debug\System.Web.Http.dll
+D:\יא תמוז\C#IDEAL\Entities\bin\Debug\EntityFramework.dll
+D:\יא תמוז\C#IDEAL\Entities\bin\Debug\DAL.pdb
+D:\יא תמוז\C#IDEAL\Entities\bin\Debug\DAL.dll.config
+D:\יא תמוז\C#IDEAL\Entities\bin\Debug\Newtonsoft.Json.xml
+D:\יא תמוז\C#IDEAL\Entities\bin\Debug\System.Net.Http.Formatting.xml
+D:\יא תמוז\C#IDEAL\Entities\bin\Debug\System.Web.Http.xml
+D:\יא תמוז\C#IDEAL\Entities\bin\Debug\System.Web.Http.Cors.xml
+D:\יא תמוז\C#IDEAL\Entities\bin\Debug\EntityFramework.xml
+D:\יא תמוז\C#IDEAL\Entities\obj\Debug\Entities.csprojAssemblyReference.cache
+D:\יא תמוז\C#IDEAL\Entities\obj\Debug\Entities.csproj.CoreCompileInputs.cache
+D:\יא תמוז\C#IDEAL\Entities\obj\Debug\Entities.csproj.CopyComplete
+D:\יא תמוז\C#IDEAL\Entities\obj\Debug\Entities.dll
+D:\יא תמוז\C#IDEAL\Entities\obj\Debug\Entities.pdb
+D:\כה תמוז\C#IDEAL\Entities\bin\Debug\Entities.dll
+D:\כה תמוז\C#IDEAL\Entities\bin\Debug\Entities.pdb
+D:\כה תמוז\C#IDEAL\Entities\bin\Debug\DAL.dll
+D:\כה תמוז\C#IDEAL\Entities\bin\Debug\Newtonsoft.Json.dll
+D:\כה תמוז\C#IDEAL\Entities\bin\Debug\System.Net.Http.Formatting.dll
+D:\כה תמוז\C#IDEAL\Entities\bin\Debug\System.Web.Cors.dll
+D:\כה תמוז\C#IDEAL\Entities\bin\Debug\System.Web.Http.Cors.dll
+D:\כה תמוז\C#IDEAL\Entities\bin\Debug\System.Web.Http.dll
+D:\כה תמוז\C#IDEAL\Entities\bin\Debug\EntityFramework.dll
+D:\כה תמוז\C#IDEAL\Entities\bin\Debug\DAL.pdb
+D:\כה תמוז\C#IDEAL\Entities\bin\Debug\DAL.dll.config
+D:\כה תמוז\C#IDEAL\Entities\bin\Debug\Newtonsoft.Json.xml
+D:\כה תמוז\C#IDEAL\Entities\bin\Debug\System.Net.Http.Formatting.xml
+D:\כה תמוז\C#IDEAL\Entities\bin\Debug\System.Web.Http.xml
+D:\כה תמוז\C#IDEAL\Entities\bin\Debug\System.Web.Http.Cors.xml
+D:\כה תמוז\C#IDEAL\Entities\bin\Debug\EntityFramework.xml
+D:\כה תמוז\C#IDEAL\Entities\obj\Debug\Entities.csprojAssemblyReference.cache
+D:\כה תמוז\C#IDEAL\Entities\obj\Debug\Entities.csproj.CoreCompileInputs.cache
+D:\כה תמוז\C#IDEAL\Entities\obj\Debug\Entities.csproj.CopyComplete
+D:\כה תמוז\C#IDEAL\Entities\obj\Debug\Entities.dll
+D:\כה תמוז\C#IDEAL\Entities\obj\Debug\Entities.pdb
+D:\אור לכו תמוז\C#IDEAL-דבורהלה\Entities\bin\Debug\Entities.dll
+D:\אור לכו תמוז\C#IDEAL-דבורהלה\Entities\bin\Debug\Entities.pdb
+D:\אור לכו תמוז\C#IDEAL-דבורהלה\Entities\bin\Debug\DAL.dll
+D:\אור לכו תמוז\C#IDEAL-דבורהלה\Entities\bin\Debug\Newtonsoft.Json.dll
+D:\אור לכו תמוז\C#IDEAL-דבורהלה\Entities\bin\Debug\System.Net.Http.Formatting.dll
+D:\אור לכו תמוז\C#IDEAL-דבורהלה\Entities\bin\Debug\System.Web.Cors.dll
+D:\אור לכו תמוז\C#IDEAL-דבורהלה\Entities\bin\Debug\System.Web.Http.Cors.dll
+D:\אור לכו תמוז\C#IDEAL-דבורהלה\Entities\bin\Debug\System.Web.Http.dll
+D:\אור לכו תמוז\C#IDEAL-דבורהלה\Entities\bin\Debug\EntityFramework.dll
+D:\אור לכו תמוז\C#IDEAL-דבורהלה\Entities\bin\Debug\DAL.pdb
+D:\אור לכו תמוז\C#IDEAL-דבורהלה\Entities\bin\Debug\DAL.dll.config
+D:\אור לכו תמוז\C#IDEAL-דבורהלה\Entities\bin\Debug\Newtonsoft.Json.xml
+D:\אור לכו תמוז\C#IDEAL-דבורהלה\Entities\bin\Debug\System.Net.Http.Formatting.xml
+D:\אור לכו תמוז\C#IDEAL-דבורהלה\Entities\bin\Debug\System.Web.Http.xml
+D:\אור לכו תמוז\C#IDEAL-דבורהלה\Entities\bin\Debug\System.Web.Http.Cors.xml
+D:\אור לכו תמוז\C#IDEAL-דבורהלה\Entities\bin\Debug\EntityFramework.xml
+D:\אור לכו תמוז\C#IDEAL-דבורהלה\Entities\obj\Debug\Entities.csprojAssemblyReference.cache
+D:\אור לכו תמוז\C#IDEAL-דבורהלה\Entities\obj\Debug\Entities.csproj.CoreCompileInputs.cache
+D:\אור לכו תמוז\C#IDEAL-דבורהלה\Entities\obj\Debug\Entities.csproj.CopyComplete
+D:\אור לכו תמוז\C#IDEAL-דבורהלה\Entities\obj\Debug\Entities.dll
+D:\אור לכו תמוז\C#IDEAL-דבורהלה\Entities\obj\Debug\Entities.pdb
+Y:\group 1 תשעט\קיסטר דבורה\הפרויקט גמר\אור לכו תמוז\C#IDEAL-דבורהלה\Entities\bin\Debug\Entities.dll
+Y:\group 1 תשעט\קיסטר דבורה\הפרויקט גמר\אור לכו תמוז\C#IDEAL-דבורהלה\Entities\bin\Debug\Entities.pdb
+Y:\group 1 תשעט\קיסטר דבורה\הפרויקט גמר\אור לכו תמוז\C#IDEAL-דבורהלה\Entities\bin\Debug\DAL.dll
+Y:\group 1 תשעט\קיסטר דבורה\הפרויקט גמר\אור לכו תמוז\C#IDEAL-דבורהלה\Entities\bin\Debug\Newtonsoft.Json.dll
+Y:\group 1 תשעט\קיסטר דבורה\הפרויקט גמר\אור לכו תמוז\C#IDEAL-דבורהלה\Entities\bin\Debug\System.Net.Http.Formatting.dll
+Y:\group 1 תשעט\קיסטר דבורה\הפרויקט גמר\אור לכו תמוז\C#IDEAL-דבורהלה\Entities\bin\Debug\System.Web.Cors.dll
+Y:\group 1 תשעט\קיסטר דבורה\הפרויקט גמר\אור לכו תמוז\C#IDEAL-דבורהלה\Entities\bin\Debug\System.Web.Http.Cors.dll
+Y:\group 1 תשעט\קיסטר דבורה\הפרויקט גמר\אור לכו תמוז\C#IDEAL-דבורהלה\Entities\bin\Debug\System.Web.Http.dll
+Y:\group 1 תשעט\קיסטר דבורה\הפרויקט גמר\אור לכו תמוז\C#IDEAL-דבורהלה\Entities\bin\Debug\EntityFramework.dll
+Y:\group 1 תשעט\קיסטר דבורה\הפרויקט גמר\אור לכו תמוז\C#IDEAL-דבורהלה\Entities\bin\Debug\DAL.pdb
+Y:\group 1 תשעט\קיסטר דבורה\הפרויקט גמר\אור לכו תמוז\C#IDEAL-דבורהלה\Entities\bin\Debug\DAL.dll.config
+Y:\group 1 תשעט\קיסטר דבורה\הפרויקט גמר\אור לכו תמוז\C#IDEAL-דבורהלה\Entities\bin\Debug\Newtonsoft.Json.xml
+Y:\group 1 תשעט\קיסטר דבורה\הפרויקט גמר\אור לכו תמוז\C#IDEAL-דבורהלה\Entities\bin\Debug\System.Net.Http.Formatting.xml
+Y:\group 1 תשעט\קיסטר דבורה\הפרויקט גמר\אור לכו תמוז\C#IDEAL-דבורהלה\Entities\bin\Debug\System.Web.Http.xml
+Y:\group 1 תשעט\קיסטר דבורה\הפרויקט גמר\אור לכו תמוז\C#IDEAL-דבורהלה\Entities\bin\Debug\System.Web.Http.Cors.xml
+Y:\group 1 תשעט\קיסטר דבורה\הפרויקט גמר\אור לכו תמוז\C#IDEAL-דבורהלה\Entities\bin\Debug\EntityFramework.xml
+Y:\group 1 תשעט\קיסטר דבורה\הפרויקט גמר\אור לכו תמוז\C#IDEAL-דבורהלה\Entities\obj\Debug\Entities.csprojAssemblyReference.cache
+Y:\group 1 תשעט\קיסטר דבורה\הפרויקט גמר\אור לכו תמוז\C#IDEAL-דבורהלה\Entities\obj\Debug\Entities.csproj.CoreCompileInputs.cache
+Y:\group 1 תשעט\קיסטר דבורה\הפרויקט גמר\אור לכו תמוז\C#IDEAL-דבורהלה\Entities\obj\Debug\Entities.csproj.CopyComplete
+Y:\group 1 תשעט\קיסטר דבורה\הפרויקט גמר\אור לכו תמוז\C#IDEAL-דבורהלה\Entities\obj\Debug\Entities.dll
+Y:\group 1 תשעט\קיסטר דבורה\הפרויקט גמר\אור לכו תמוז\C#IDEAL-דבורהלה\Entities\obj\Debug\Entities.pdb
+Y:\group 1 תשעט\קיסטר דבורה\הפרויקט גמר\דינה כז תמוז\Entities\bin\Debug\Entities.dll
+Y:\group 1 תשעט\קיסטר דבורה\הפרויקט גמר\דינה כז תמוז\Entities\bin\Debug\Entities.pdb
+Y:\group 1 תשעט\קיסטר דבורה\הפרויקט גמר\דינה כז תמוז\Entities\bin\Debug\DAL.dll
+Y:\group 1 תשעט\קיסטר דבורה\הפרויקט גמר\דינה כז תמוז\Entities\bin\Debug\Newtonsoft.Json.dll
+Y:\group 1 תשעט\קיסטר דבורה\הפרויקט גמר\דינה כז תמוז\Entities\bin\Debug\System.Net.Http.Formatting.dll
+Y:\group 1 תשעט\קיסטר דבורה\הפרויקט גמר\דינה כז תמוז\Entities\bin\Debug\System.Web.Cors.dll
+Y:\group 1 תשעט\קיסטר דבורה\הפרויקט גמר\דינה כז תמוז\Entities\bin\Debug\System.Web.Http.Cors.dll
+Y:\group 1 תשעט\קיסטר דבורה\הפרויקט גמר\דינה כז תמוז\Entities\bin\Debug\System.Web.Http.dll
+Y:\group 1 תשעט\קיסטר דבורה\הפרויקט גמר\דינה כז תמוז\Entities\bin\Debug\EntityFramework.dll
+Y:\group 1 תשעט\קיסטר דבורה\הפרויקט גמר\דינה כז תמוז\Entities\bin\Debug\DAL.pdb
+Y:\group 1 תשעט\קיסטר דבורה\הפרויקט גמר\דינה כז תמוז\Entities\bin\Debug\DAL.dll.config
+Y:\group 1 תשעט\קיסטר דבורה\הפרויקט גמר\דינה כז תמוז\Entities\bin\Debug\Newtonsoft.Json.xml
+Y:\group 1 תשעט\קיסטר דבורה\הפרויקט גמר\דינה כז תמוז\Entities\bin\Debug\System.Net.Http.Formatting.xml
+Y:\group 1 תשעט\קיסטר דבורה\הפרויקט גמר\דינה כז תמוז\Entities\bin\Debug\System.Web.Http.xml
+Y:\group 1 תשעט\קיסטר דבורה\הפרויקט גמר\דינה כז תמוז\Entities\bin\Debug\System.Web.Http.Cors.xml
+Y:\group 1 תשעט\קיסטר דבורה\הפרויקט גמר\דינה כז תמוז\Entities\bin\Debug\EntityFramework.xml
+Y:\group 1 תשעט\קיסטר דבורה\הפרויקט גמר\דינה כז תמוז\Entities\obj\Debug\Entities.csprojAssemblyReference.cache
+Y:\group 1 תשעט\קיסטר דבורה\הפרויקט גמר\דינה כז תמוז\Entities\obj\Debug\Entities.csproj.CoreCompileInputs.cache
+Y:\group 1 תשעט\קיסטר דבורה\הפרויקט גמר\דינה כז תמוז\Entities\obj\Debug\Entities.csproj.CopyComplete
+Y:\group 1 תשעט\קיסטר דבורה\הפרויקט גמר\דינה כז תמוז\Entities\obj\Debug\Entities.dll
+Y:\group 1 תשעט\קיסטר דבורה\הפרויקט גמר\דינה כז תמוז\Entities\obj\Debug\Entities.pdb
+D:\אבבבבבבבבבבבבב\דינה כז תמוז\Entities\bin\Debug\Entities.dll
+D:\אבבבבבבבבבבבבב\דינה כז תמוז\Entities\bin\Debug\Entities.pdb
+D:\אבבבבבבבבבבבבב\דינה כז תמוז\Entities\bin\Debug\DAL.dll
+D:\אבבבבבבבבבבבבב\דינה כז תמוז\Entities\bin\Debug\Newtonsoft.Json.dll
+D:\אבבבבבבבבבבבבב\דינה כז תמוז\Entities\bin\Debug\System.Net.Http.Formatting.dll
+D:\אבבבבבבבבבבבבב\דינה כז תמוז\Entities\bin\Debug\System.Web.Cors.dll
+D:\אבבבבבבבבבבבבב\דינה כז תמוז\Entities\bin\Debug\System.Web.Http.Cors.dll
+D:\אבבבבבבבבבבבבב\דינה כז תמוז\Entities\bin\Debug\System.Web.Http.dll
+D:\אבבבבבבבבבבבבב\דינה כז תמוז\Entities\bin\Debug\EntityFramework.dll
+D:\אבבבבבבבבבבבבב\דינה כז תמוז\Entities\bin\Debug\DAL.pdb
+D:\אבבבבבבבבבבבבב\דינה כז תמוז\Entities\bin\Debug\DAL.dll.config
+D:\אבבבבבבבבבבבבב\דינה כז תמוז\Entities\bin\Debug\Newtonsoft.Json.xml
+D:\אבבבבבבבבבבבבב\דינה כז תמוז\Entities\bin\Debug\System.Net.Http.Formatting.xml
+D:\אבבבבבבבבבבבבב\דינה כז תמוז\Entities\bin\Debug\System.Web.Http.xml
+D:\אבבבבבבבבבבבבב\דינה כז תמוז\Entities\bin\Debug\System.Web.Http.Cors.xml
+D:\אבבבבבבבבבבבבב\דינה כז תמוז\Entities\bin\Debug\EntityFramework.xml
+D:\אבבבבבבבבבבבבב\דינה כז תמוז\Entities\obj\Debug\Entities.csprojAssemblyReference.cache
+D:\אבבבבבבבבבבבבב\דינה כז תמוז\Entities\obj\Debug\Entities.csproj.CoreCompileInputs.cache
+D:\אבבבבבבבבבבבבב\דינה כז תמוז\Entities\obj\Debug\Entities.csproj.CopyComplete
+D:\אבבבבבבבבבבבבב\דינה כז תמוז\Entities\obj\Debug\Entities.dll
+D:\אבבבבבבבבבבבבב\דינה כז תמוז\Entities\obj\Debug\Entities.pdb
+Y:\group 1 תשעט\קיסטר דבורה\הפרויקט גמר\ג אב דבורה\דינה כז תמוז\Entities\bin\Debug\Entities.dll
+Y:\group 1 תשעט\קיסטר דבורה\הפרויקט גמר\ג אב דבורה\דינה כז תמוז\Entities\bin\Debug\Entities.pdb
+Y:\group 1 תשעט\קיסטר דבורה\הפרויקט גמר\ג אב דבורה\דינה כז תמוז\Entities\bin\Debug\DAL.dll
+Y:\group 1 תשעט\קיסטר דבורה\הפרויקט גמר\ג אב דבורה\דינה כז תמוז\Entities\bin\Debug\Newtonsoft.Json.dll
+Y:\group 1 תשעט\קיסטר דבורה\הפרויקט גמר\ג אב דבורה\דינה כז תמוז\Entities\bin\Debug\System.Net.Http.Formatting.dll
+Y:\group 1 תשעט\קיסטר דבורה\הפרויקט גמר\ג אב דבורה\דינה כז תמוז\Entities\bin\Debug\System.Web.Cors.dll
+Y:\group 1 תשעט\קיסטר דבורה\הפרויקט גמר\ג אב דבורה\דינה כז תמוז\Entities\bin\Debug\System.Web.Http.Cors.dll
+Y:\group 1 תשעט\קיסטר דבורה\הפרויקט גמר\ג אב דבורה\דינה כז תמוז\Entities\bin\Debug\System.Web.Http.dll
+Y:\group 1 תשעט\קיסטר דבורה\הפרויקט גמר\ג אב דבורה\דינה כז תמוז\Entities\bin\Debug\EntityFramework.dll
+Y:\group 1 תשעט\קיסטר דבורה\הפרויקט גמר\ג אב דבורה\דינה כז תמוז\Entities\bin\Debug\DAL.pdb
+Y:\group 1 תשעט\קיסטר דבורה\הפרויקט גמר\ג אב דבורה\דינה כז תמוז\Entities\bin\Debug\DAL.dll.config
+Y:\group 1 תשעט\קיסטר דבורה\הפרויקט גמר\ג אב דבורה\דינה כז תמוז\Entities\bin\Debug\Newtonsoft.Json.xml
+Y:\group 1 תשעט\קיסטר דבורה\הפרויקט גמר\ג אב דבורה\דינה כז תמוז\Entities\bin\Debug\System.Net.Http.Formatting.xml
+Y:\group 1 תשעט\קיסטר דבורה\הפרויקט גמר\ג אב דבורה\דינה כז תמוז\Entities\bin\Debug\System.Web.Http.xml
+Y:\group 1 תשעט\קיסטר דבורה\הפרויקט גמר\ג אב דבורה\דינה כז תמוז\Entities\bin\Debug\System.Web.Http.Cors.xml
+Y:\group 1 תשעט\קיסטר דבורה\הפרויקט גמר\ג אב דבורה\דינה כז תמוז\Entities\bin\Debug\EntityFramework.xml
+Y:\group 1 תשעט\קיסטר דבורה\הפרויקט גמר\ג אב דבורה\דינה כז תמוז\Entities\obj\Debug\Entities.csprojAssemblyReference.cache
+Y:\group 1 תשעט\קיסטר דבורה\הפרויקט גמר\ג אב דבורה\דינה כז תמוז\Entities\obj\Debug\Entities.csproj.CoreCompileInputs.cache
+Y:\group 1 תשעט\קיסטר דבורה\הפרויקט גמר\ג אב דבורה\דינה כז תמוז\Entities\obj\Debug\Entities.csproj.CopyComplete
+Y:\group 1 תשעט\קיסטר דבורה\הפרויקט גמר\ג אב דבורה\דינה כז תמוז\Entities\obj\Debug\Entities.dll
+Y:\group 1 תשעט\קיסטר דבורה\הפרויקט גמר\ג אב דבורה\דינה כז תמוז\Entities\obj\Debug\Entities.pdb
+D:\ה אב מעודכן אידיאל\IdealC#\Entities\bin\Debug\Entities.dll
+D:\ה אב מעודכן אידיאל\IdealC#\Entities\bin\Debug\Entities.pdb
+D:\ה אב מעודכן אידיאל\IdealC#\Entities\bin\Debug\DAL.dll
+D:\ה אב מעודכן אידיאל\IdealC#\Entities\bin\Debug\Newtonsoft.Json.dll
+D:\ה אב מעודכן אידיאל\IdealC#\Entities\bin\Debug\System.Net.Http.Formatting.dll
+D:\ה אב מעודכן אידיאל\IdealC#\Entities\bin\Debug\System.Web.Cors.dll
+D:\ה אב מעודכן אידיאל\IdealC#\Entities\bin\Debug\System.Web.Http.Cors.dll
+D:\ה אב מעודכן אידיאל\IdealC#\Entities\bin\Debug\System.Web.Http.dll
+D:\ה אב מעודכן אידיאל\IdealC#\Entities\bin\Debug\EntityFramework.dll
+D:\ה אב מעודכן אידיאל\IdealC#\Entities\bin\Debug\DAL.pdb
+D:\ה אב מעודכן אידיאל\IdealC#\Entities\bin\Debug\DAL.dll.config
+D:\ה אב מעודכן אידיאל\IdealC#\Entities\bin\Debug\Newtonsoft.Json.xml
+D:\ה אב מעודכן אידיאל\IdealC#\Entities\bin\Debug\System.Net.Http.Formatting.xml
+D:\ה אב מעודכן אידיאל\IdealC#\Entities\bin\Debug\System.Web.Http.xml
+D:\ה אב מעודכן אידיאל\IdealC#\Entities\bin\Debug\System.Web.Http.Cors.xml
+D:\ה אב מעודכן אידיאל\IdealC#\Entities\bin\Debug\EntityFramework.xml
+D:\ה אב מעודכן אידיאל\IdealC#\Entities\obj\Debug\Entities.csprojAssemblyReference.cache
+D:\ה אב מעודכן אידיאל\IdealC#\Entities\obj\Debug\Entities.csproj.CoreCompileInputs.cache
+D:\ה אב מעודכן אידיאל\IdealC#\Entities\obj\Debug\Entities.csproj.CopyComplete
+D:\ה אב מעודכן אידיאל\IdealC#\Entities\obj\Debug\Entities.dll
+D:\ה אב מעודכן אידיאל\IdealC#\Entities\obj\Debug\Entities.pdb
+C:\Users\i5\Documents\דבורה\אור לו אב דבורה\IdealC#\Entities\bin\Debug\Entities.dll
+C:\Users\i5\Documents\דבורה\אור לו אב דבורה\IdealC#\Entities\bin\Debug\Entities.pdb
+C:\Users\i5\Documents\דבורה\אור לו אב דבורה\IdealC#\Entities\bin\Debug\DAL.dll
+C:\Users\i5\Documents\דבורה\אור לו אב דבורה\IdealC#\Entities\bin\Debug\Newtonsoft.Json.dll
+C:\Users\i5\Documents\דבורה\אור לו אב דבורה\IdealC#\Entities\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\i5\Documents\דבורה\אור לו אב דבורה\IdealC#\Entities\bin\Debug\System.Web.Cors.dll
+C:\Users\i5\Documents\דבורה\אור לו אב דבורה\IdealC#\Entities\bin\Debug\System.Web.Http.Cors.dll
+C:\Users\i5\Documents\דבורה\אור לו אב דבורה\IdealC#\Entities\bin\Debug\System.Web.Http.dll
+C:\Users\i5\Documents\דבורה\אור לו אב דבורה\IdealC#\Entities\bin\Debug\EntityFramework.dll
+C:\Users\i5\Documents\דבורה\אור לו אב דבורה\IdealC#\Entities\bin\Debug\DAL.pdb
+C:\Users\i5\Documents\דבורה\אור לו אב דבורה\IdealC#\Entities\bin\Debug\DAL.dll.config
+C:\Users\i5\Documents\דבורה\אור לו אב דבורה\IdealC#\Entities\bin\Debug\Newtonsoft.Json.xml
+C:\Users\i5\Documents\דבורה\אור לו אב דבורה\IdealC#\Entities\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\i5\Documents\דבורה\אור לו אב דבורה\IdealC#\Entities\bin\Debug\System.Web.Http.xml
+C:\Users\i5\Documents\דבורה\אור לו אב דבורה\IdealC#\Entities\bin\Debug\System.Web.Http.Cors.xml
+C:\Users\i5\Documents\דבורה\אור לו אב דבורה\IdealC#\Entities\bin\Debug\EntityFramework.xml
+C:\Users\i5\Documents\דבורה\אור לו אב דבורה\IdealC#\Entities\obj\Debug\Entities.csprojAssemblyReference.cache
+C:\Users\i5\Documents\דבורה\אור לו אב דבורה\IdealC#\Entities\obj\Debug\Entities.csproj.CoreCompileInputs.cache
+C:\Users\i5\Documents\דבורה\אור לו אב דבורה\IdealC#\Entities\obj\Debug\Entities.csproj.CopyComplete
+C:\Users\i5\Documents\דבורה\אור לו אב דבורה\IdealC#\Entities\obj\Debug\Entities.dll
+C:\Users\i5\Documents\דבורה\אור לו אב דבורה\IdealC#\Entities\obj\Debug\Entities.pdb
+D:\Devora\ideal\IdealC#\Entities\bin\Debug\Entities.dll
+D:\Devora\ideal\IdealC#\Entities\bin\Debug\Entities.pdb
+D:\Devora\ideal\IdealC#\Entities\bin\Debug\DAL.dll
+D:\Devora\ideal\IdealC#\Entities\bin\Debug\Newtonsoft.Json.dll
+D:\Devora\ideal\IdealC#\Entities\bin\Debug\System.Net.Http.Formatting.dll
+D:\Devora\ideal\IdealC#\Entities\bin\Debug\System.Web.Cors.dll
+D:\Devora\ideal\IdealC#\Entities\bin\Debug\System.Web.Http.Cors.dll
+D:\Devora\ideal\IdealC#\Entities\bin\Debug\System.Web.Http.dll
+D:\Devora\ideal\IdealC#\Entities\bin\Debug\EntityFramework.dll
+D:\Devora\ideal\IdealC#\Entities\bin\Debug\DAL.pdb
+D:\Devora\ideal\IdealC#\Entities\bin\Debug\DAL.dll.config
+D:\Devora\ideal\IdealC#\Entities\bin\Debug\Newtonsoft.Json.xml
+D:\Devora\ideal\IdealC#\Entities\bin\Debug\System.Net.Http.Formatting.xml
+D:\Devora\ideal\IdealC#\Entities\bin\Debug\System.Web.Http.xml
+D:\Devora\ideal\IdealC#\Entities\bin\Debug\System.Web.Http.Cors.xml
+D:\Devora\ideal\IdealC#\Entities\bin\Debug\EntityFramework.xml
+D:\Devora\ideal\IdealC#\Entities\obj\Debug\Entities.csprojAssemblyReference.cache
+D:\Devora\ideal\IdealC#\Entities\obj\Debug\Entities.csproj.CoreCompileInputs.cache
+D:\Devora\ideal\IdealC#\Entities\obj\Debug\Entities.csproj.CopyComplete
+D:\Devora\ideal\IdealC#\Entities\obj\Debug\Entities.dll
+D:\Devora\ideal\IdealC#\Entities\obj\Debug\Entities.pdb
+C:\shmura\IdealC#\Entities\bin\Debug\Entities.dll
+C:\shmura\IdealC#\Entities\bin\Debug\Entities.pdb
+C:\shmura\IdealC#\Entities\bin\Debug\DAL.dll
+C:\shmura\IdealC#\Entities\bin\Debug\Newtonsoft.Json.dll
+C:\shmura\IdealC#\Entities\bin\Debug\System.Net.Http.Formatting.dll
+C:\shmura\IdealC#\Entities\bin\Debug\System.Web.Cors.dll
+C:\shmura\IdealC#\Entities\bin\Debug\System.Web.Http.Cors.dll
+C:\shmura\IdealC#\Entities\bin\Debug\System.Web.Http.dll
+C:\shmura\IdealC#\Entities\bin\Debug\EntityFramework.dll
+C:\shmura\IdealC#\Entities\bin\Debug\DAL.pdb
+C:\shmura\IdealC#\Entities\bin\Debug\DAL.dll.config
+C:\shmura\IdealC#\Entities\bin\Debug\Newtonsoft.Json.xml
+C:\shmura\IdealC#\Entities\bin\Debug\System.Net.Http.Formatting.xml
+C:\shmura\IdealC#\Entities\bin\Debug\System.Web.Http.xml
+C:\shmura\IdealC#\Entities\bin\Debug\System.Web.Http.Cors.xml
+C:\shmura\IdealC#\Entities\bin\Debug\EntityFramework.xml
+C:\shmura\IdealC#\Entities\obj\Debug\Entities.csprojAssemblyReference.cache
+C:\shmura\IdealC#\Entities\obj\Debug\Entities.csproj.CoreCompileInputs.cache
+C:\shmura\IdealC#\Entities\obj\Debug\Entities.csproj.CopyComplete
+C:\shmura\IdealC#\Entities\obj\Debug\Entities.dll
+C:\shmura\IdealC#\Entities\obj\Debug\Entities.pdb

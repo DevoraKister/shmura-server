@@ -1,0 +1,952 @@
+Y:\group 1 תשעט\קיסטר דבורה\הפרויקט גמר\Idial\Bl\bin\Debug\Bl.dll
+Y:\group 1 תשעט\קיסטר דבורה\הפרויקט גמר\Idial\Bl\bin\Debug\Bl.pdb
+Y:\group 1 תשעט\קיסטר דבורה\הפרויקט גמר\Idial\Bl\obj\Debug\Bl.dll
+Y:\group 1 תשעט\קיסטר דבורה\הפרויקט גמר\Idial\Bl\obj\Debug\Bl.pdb
+Y:\group 1 תשעט\קיסטר דבורה\הפרויקט גמר\Idial\Bl\bin\Debug\Bl.dll.config
+Y:\group 1 תשעט\קיסטר דבורה\הפרויקט גמר\Idial\Bl\bin\Debug\DAL.dll
+Y:\group 1 תשעט\קיסטר דבורה\הפרויקט גמר\Idial\Bl\bin\Debug\Entities.dll
+Y:\group 1 תשעט\קיסטר דבורה\הפרויקט גמר\Idial\Bl\bin\Debug\EntityFramework.dll
+Y:\group 1 תשעט\קיסטר דבורה\הפרויקט גמר\Idial\Bl\bin\Debug\EntityFramework.SqlServer.dll
+Y:\group 1 תשעט\קיסטר דבורה\הפרויקט גמר\Idial\Bl\bin\Debug\DAL.pdb
+Y:\group 1 תשעט\קיסטר דבורה\הפרויקט גמר\Idial\Bl\bin\Debug\DAL.dll.config
+Y:\group 1 תשעט\קיסטר דבורה\הפרויקט גמר\Idial\Bl\bin\Debug\Entities.pdb
+Y:\group 1 תשעט\קיסטר דבורה\הפרויקט גמר\Idial\Bl\bin\Debug\EntityFramework.xml
+Y:\group 1 תשעט\קיסטר דבורה\הפרויקט גמר\Idial\Bl\bin\Debug\EntityFramework.SqlServer.xml
+Y:\group 1 תשעט\קיסטר דבורה\הפרויקט גמר\Idial\Bl\obj\Debug\BL.csprojAssemblyReference.cache
+Y:\group 1 תשעט\קיסטר דבורה\הפרויקט גמר\Idial\Bl\obj\Debug\BL.csproj.CoreCompileInputs.cache
+Y:\group 1 תשעט\קיסטר דבורה\הפרויקט גמר\Idial\Bl\obj\Debug\BL.csproj.CopyComplete
+Y:\group 1 תשעט\קיסטר דבורה\הפרויקט גמר\Idial\Bl\bin\Debug\Newtonsoft.Json.dll
+Y:\group 1 תשעט\קיסטר דבורה\הפרויקט גמר\Idial\Bl\bin\Debug\System.Net.Http.Formatting.dll
+Y:\group 1 תשעט\קיסטר דבורה\הפרויקט גמר\Idial\Bl\bin\Debug\System.Web.Cors.dll
+Y:\group 1 תשעט\קיסטר דבורה\הפרויקט גמר\Idial\Bl\bin\Debug\System.Web.Http.Cors.dll
+Y:\group 1 תשעט\קיסטר דבורה\הפרויקט גמר\Idial\Bl\bin\Debug\System.Web.Http.dll
+Y:\group 1 תשעט\קיסטר דבורה\הפרויקט גמר\Idial\Bl\bin\Debug\Newtonsoft.Json.xml
+Y:\group 1 תשעט\קיסטר דבורה\הפרויקט גמר\Idial\Bl\bin\Debug\System.Net.Http.Formatting.xml
+Y:\group 1 תשעט\קיסטר דבורה\הפרויקט גמר\Idial\Bl\bin\Debug\System.Web.Http.xml
+Y:\group 1 תשעט\קיסטר דבורה\הפרויקט גמר\Idial\Bl\bin\Debug\System.Web.Http.Cors.xml
+G:\Idial\Bl\bin\Debug\Bl.dll.config
+G:\Idial\Bl\bin\Debug\Bl.dll
+G:\Idial\Bl\bin\Debug\Bl.pdb
+G:\Idial\Bl\bin\Debug\DAL.dll
+G:\Idial\Bl\bin\Debug\Entities.dll
+G:\Idial\Bl\bin\Debug\EntityFramework.dll
+G:\Idial\Bl\bin\Debug\EntityFramework.SqlServer.dll
+G:\Idial\Bl\bin\Debug\Newtonsoft.Json.dll
+G:\Idial\Bl\bin\Debug\System.Net.Http.Formatting.dll
+G:\Idial\Bl\bin\Debug\System.Web.Cors.dll
+G:\Idial\Bl\bin\Debug\System.Web.Http.Cors.dll
+G:\Idial\Bl\bin\Debug\System.Web.Http.dll
+G:\Idial\Bl\bin\Debug\DAL.pdb
+G:\Idial\Bl\bin\Debug\DAL.dll.config
+G:\Idial\Bl\bin\Debug\Entities.pdb
+G:\Idial\Bl\bin\Debug\EntityFramework.xml
+G:\Idial\Bl\bin\Debug\EntityFramework.SqlServer.xml
+G:\Idial\Bl\bin\Debug\Newtonsoft.Json.xml
+G:\Idial\Bl\bin\Debug\System.Net.Http.Formatting.xml
+G:\Idial\Bl\bin\Debug\System.Web.Http.xml
+G:\Idial\Bl\bin\Debug\System.Web.Http.Cors.xml
+G:\Idial\Bl\obj\Debug\BL.csprojAssemblyReference.cache
+G:\Idial\Bl\obj\Debug\BL.csproj.CoreCompileInputs.cache
+G:\Idial\Bl\obj\Debug\BL.csproj.CopyComplete
+G:\Idial\Bl\obj\Debug\Bl.dll
+G:\Idial\Bl\obj\Debug\Bl.pdb
+Y:\group 1 תשעט\קיסטר דבורה\כג אייר\Idial\Bl\bin\Debug\Bl.dll.config
+Y:\group 1 תשעט\קיסטר דבורה\כג אייר\Idial\Bl\bin\Debug\Bl.dll
+Y:\group 1 תשעט\קיסטר דבורה\כג אייר\Idial\Bl\bin\Debug\Bl.pdb
+Y:\group 1 תשעט\קיסטר דבורה\כג אייר\Idial\Bl\bin\Debug\DAL.dll
+Y:\group 1 תשעט\קיסטר דבורה\כג אייר\Idial\Bl\bin\Debug\Entities.dll
+Y:\group 1 תשעט\קיסטר דבורה\כג אייר\Idial\Bl\bin\Debug\EntityFramework.dll
+Y:\group 1 תשעט\קיסטר דבורה\כג אייר\Idial\Bl\bin\Debug\EntityFramework.SqlServer.dll
+Y:\group 1 תשעט\קיסטר דבורה\כג אייר\Idial\Bl\bin\Debug\Newtonsoft.Json.dll
+Y:\group 1 תשעט\קיסטר דבורה\כג אייר\Idial\Bl\bin\Debug\System.Net.Http.Formatting.dll
+Y:\group 1 תשעט\קיסטר דבורה\כג אייר\Idial\Bl\bin\Debug\System.Web.Cors.dll
+Y:\group 1 תשעט\קיסטר דבורה\כג אייר\Idial\Bl\bin\Debug\System.Web.Http.Cors.dll
+Y:\group 1 תשעט\קיסטר דבורה\כג אייר\Idial\Bl\bin\Debug\System.Web.Http.dll
+Y:\group 1 תשעט\קיסטר דבורה\כג אייר\Idial\Bl\bin\Debug\DAL.pdb
+Y:\group 1 תשעט\קיסטר דבורה\כג אייר\Idial\Bl\bin\Debug\DAL.dll.config
+Y:\group 1 תשעט\קיסטר דבורה\כג אייר\Idial\Bl\bin\Debug\Entities.pdb
+Y:\group 1 תשעט\קיסטר דבורה\כג אייר\Idial\Bl\bin\Debug\EntityFramework.xml
+Y:\group 1 תשעט\קיסטר דבורה\כג אייר\Idial\Bl\bin\Debug\EntityFramework.SqlServer.xml
+Y:\group 1 תשעט\קיסטר דבורה\כג אייר\Idial\Bl\bin\Debug\Newtonsoft.Json.xml
+Y:\group 1 תשעט\קיסטר דבורה\כג אייר\Idial\Bl\bin\Debug\System.Net.Http.Formatting.xml
+Y:\group 1 תשעט\קיסטר דבורה\כג אייר\Idial\Bl\bin\Debug\System.Web.Http.xml
+Y:\group 1 תשעט\קיסטר דבורה\כג אייר\Idial\Bl\bin\Debug\System.Web.Http.Cors.xml
+Y:\group 1 תשעט\קיסטר דבורה\כג אייר\Idial\Bl\obj\Debug\BL.csprojAssemblyReference.cache
+Y:\group 1 תשעט\קיסטר דבורה\כג אייר\Idial\Bl\obj\Debug\BL.csproj.CoreCompileInputs.cache
+Y:\group 1 תשעט\קיסטר דבורה\כג אייר\Idial\Bl\obj\Debug\BL.csproj.CopyComplete
+Y:\group 1 תשעט\קיסטר דבורה\כג אייר\Idial\Bl\obj\Debug\Bl.dll
+Y:\group 1 תשעט\קיסטר דבורה\כג אייר\Idial\Bl\obj\Debug\Bl.pdb
+D:\כג אייר\Idial\Bl\bin\Debug\Bl.dll.config
+D:\כג אייר\Idial\Bl\bin\Debug\Bl.dll
+D:\כג אייר\Idial\Bl\bin\Debug\Bl.pdb
+D:\כג אייר\Idial\Bl\bin\Debug\DAL.dll
+D:\כג אייר\Idial\Bl\bin\Debug\Entities.dll
+D:\כג אייר\Idial\Bl\bin\Debug\EntityFramework.dll
+D:\כג אייר\Idial\Bl\bin\Debug\EntityFramework.SqlServer.dll
+D:\כג אייר\Idial\Bl\bin\Debug\Newtonsoft.Json.dll
+D:\כג אייר\Idial\Bl\bin\Debug\System.Net.Http.Formatting.dll
+D:\כג אייר\Idial\Bl\bin\Debug\System.Web.Cors.dll
+D:\כג אייר\Idial\Bl\bin\Debug\System.Web.Http.Cors.dll
+D:\כג אייר\Idial\Bl\bin\Debug\System.Web.Http.dll
+D:\כג אייר\Idial\Bl\bin\Debug\DAL.pdb
+D:\כג אייר\Idial\Bl\bin\Debug\DAL.dll.config
+D:\כג אייר\Idial\Bl\bin\Debug\Entities.pdb
+D:\כג אייר\Idial\Bl\bin\Debug\EntityFramework.xml
+D:\כג אייר\Idial\Bl\bin\Debug\EntityFramework.SqlServer.xml
+D:\כג אייר\Idial\Bl\bin\Debug\Newtonsoft.Json.xml
+D:\כג אייר\Idial\Bl\bin\Debug\System.Net.Http.Formatting.xml
+D:\כג אייר\Idial\Bl\bin\Debug\System.Web.Http.xml
+D:\כג אייר\Idial\Bl\bin\Debug\System.Web.Http.Cors.xml
+D:\כג אייר\Idial\Bl\obj\Debug\BL.csprojAssemblyReference.cache
+D:\כג אייר\Idial\Bl\obj\Debug\BL.csproj.CoreCompileInputs.cache
+D:\כג אייר\Idial\Bl\obj\Debug\BL.csproj.CopyComplete
+D:\כג אייר\Idial\Bl\obj\Debug\Bl.dll
+D:\כג אייר\Idial\Bl\obj\Debug\Bl.pdb
+D:\ראש חודש סיוון בשורות טובות\Idial\Bl\bin\Debug\Bl.dll.config
+D:\ראש חודש סיוון בשורות טובות\Idial\Bl\bin\Debug\Bl.dll
+D:\ראש חודש סיוון בשורות טובות\Idial\Bl\bin\Debug\Bl.pdb
+D:\ראש חודש סיוון בשורות טובות\Idial\Bl\bin\Debug\DAL.dll
+D:\ראש חודש סיוון בשורות טובות\Idial\Bl\bin\Debug\Entities.dll
+D:\ראש חודש סיוון בשורות טובות\Idial\Bl\bin\Debug\EntityFramework.dll
+D:\ראש חודש סיוון בשורות טובות\Idial\Bl\bin\Debug\EntityFramework.SqlServer.dll
+D:\ראש חודש סיוון בשורות טובות\Idial\Bl\bin\Debug\Newtonsoft.Json.dll
+D:\ראש חודש סיוון בשורות טובות\Idial\Bl\bin\Debug\System.Net.Http.Formatting.dll
+D:\ראש חודש סיוון בשורות טובות\Idial\Bl\bin\Debug\System.Web.Cors.dll
+D:\ראש חודש סיוון בשורות טובות\Idial\Bl\bin\Debug\System.Web.Http.Cors.dll
+D:\ראש חודש סיוון בשורות טובות\Idial\Bl\bin\Debug\System.Web.Http.dll
+D:\ראש חודש סיוון בשורות טובות\Idial\Bl\bin\Debug\DAL.pdb
+D:\ראש חודש סיוון בשורות טובות\Idial\Bl\bin\Debug\DAL.dll.config
+D:\ראש חודש סיוון בשורות טובות\Idial\Bl\bin\Debug\Entities.pdb
+D:\ראש חודש סיוון בשורות טובות\Idial\Bl\bin\Debug\EntityFramework.xml
+D:\ראש חודש סיוון בשורות טובות\Idial\Bl\bin\Debug\EntityFramework.SqlServer.xml
+D:\ראש חודש סיוון בשורות טובות\Idial\Bl\bin\Debug\Newtonsoft.Json.xml
+D:\ראש חודש סיוון בשורות טובות\Idial\Bl\bin\Debug\System.Net.Http.Formatting.xml
+D:\ראש חודש סיוון בשורות טובות\Idial\Bl\bin\Debug\System.Web.Http.xml
+D:\ראש חודש סיוון בשורות טובות\Idial\Bl\bin\Debug\System.Web.Http.Cors.xml
+D:\ראש חודש סיוון בשורות טובות\Idial\Bl\obj\Debug\BL.csprojAssemblyReference.cache
+D:\ראש חודש סיוון בשורות טובות\Idial\Bl\obj\Debug\BL.csproj.CoreCompileInputs.cache
+D:\ראש חודש סיוון בשורות טובות\Idial\Bl\obj\Debug\BL.csproj.CopyComplete
+D:\ראש חודש סיוון בשורות טובות\Idial\Bl\obj\Debug\Bl.dll
+D:\ראש חודש סיוון בשורות טובות\Idial\Bl\obj\Debug\Bl.pdb
+Y:\group 1 תשעט\יעקובוביץ דינה\project!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\ראש חודש סיוון בשורות טובות\Idial\Bl\bin\Debug\Bl.dll.config
+Y:\group 1 תשעט\יעקובוביץ דינה\project!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\ראש חודש סיוון בשורות טובות\Idial\Bl\bin\Debug\Bl.dll
+Y:\group 1 תשעט\יעקובוביץ דינה\project!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\ראש חודש סיוון בשורות טובות\Idial\Bl\bin\Debug\Bl.pdb
+Y:\group 1 תשעט\יעקובוביץ דינה\project!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\ראש חודש סיוון בשורות טובות\Idial\Bl\bin\Debug\DAL.dll
+Y:\group 1 תשעט\יעקובוביץ דינה\project!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\ראש חודש סיוון בשורות טובות\Idial\Bl\bin\Debug\Entities.dll
+Y:\group 1 תשעט\יעקובוביץ דינה\project!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\ראש חודש סיוון בשורות טובות\Idial\Bl\bin\Debug\EntityFramework.dll
+Y:\group 1 תשעט\יעקובוביץ דינה\project!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\ראש חודש סיוון בשורות טובות\Idial\Bl\bin\Debug\EntityFramework.SqlServer.dll
+Y:\group 1 תשעט\יעקובוביץ דינה\project!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\ראש חודש סיוון בשורות טובות\Idial\Bl\bin\Debug\Newtonsoft.Json.dll
+Y:\group 1 תשעט\יעקובוביץ דינה\project!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\ראש חודש סיוון בשורות טובות\Idial\Bl\bin\Debug\System.Net.Http.Formatting.dll
+Y:\group 1 תשעט\יעקובוביץ דינה\project!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\ראש חודש סיוון בשורות טובות\Idial\Bl\bin\Debug\System.Web.Cors.dll
+Y:\group 1 תשעט\יעקובוביץ דינה\project!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\ראש חודש סיוון בשורות טובות\Idial\Bl\bin\Debug\System.Web.Http.Cors.dll
+Y:\group 1 תשעט\יעקובוביץ דינה\project!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\ראש חודש סיוון בשורות טובות\Idial\Bl\bin\Debug\System.Web.Http.dll
+Y:\group 1 תשעט\יעקובוביץ דינה\project!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\ראש חודש סיוון בשורות טובות\Idial\Bl\bin\Debug\DAL.pdb
+Y:\group 1 תשעט\יעקובוביץ דינה\project!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\ראש חודש סיוון בשורות טובות\Idial\Bl\bin\Debug\DAL.dll.config
+Y:\group 1 תשעט\יעקובוביץ דינה\project!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\ראש חודש סיוון בשורות טובות\Idial\Bl\bin\Debug\Entities.pdb
+Y:\group 1 תשעט\יעקובוביץ דינה\project!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\ראש חודש סיוון בשורות טובות\Idial\Bl\bin\Debug\EntityFramework.xml
+Y:\group 1 תשעט\יעקובוביץ דינה\project!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\ראש חודש סיוון בשורות טובות\Idial\Bl\bin\Debug\EntityFramework.SqlServer.xml
+Y:\group 1 תשעט\יעקובוביץ דינה\project!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\ראש חודש סיוון בשורות טובות\Idial\Bl\bin\Debug\Newtonsoft.Json.xml
+Y:\group 1 תשעט\יעקובוביץ דינה\project!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\ראש חודש סיוון בשורות טובות\Idial\Bl\bin\Debug\System.Net.Http.Formatting.xml
+Y:\group 1 תשעט\יעקובוביץ דינה\project!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\ראש חודש סיוון בשורות טובות\Idial\Bl\bin\Debug\System.Web.Http.xml
+Y:\group 1 תשעט\יעקובוביץ דינה\project!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\ראש חודש סיוון בשורות טובות\Idial\Bl\bin\Debug\System.Web.Http.Cors.xml
+Y:\group 1 תשעט\יעקובוביץ דינה\project!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\ראש חודש סיוון בשורות טובות\Idial\Bl\obj\Debug\BL.csprojAssemblyReference.cache
+Y:\group 1 תשעט\יעקובוביץ דינה\project!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\ראש חודש סיוון בשורות טובות\Idial\Bl\obj\Debug\BL.csproj.CoreCompileInputs.cache
+Y:\group 1 תשעט\יעקובוביץ דינה\project!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\ראש חודש סיוון בשורות טובות\Idial\Bl\obj\Debug\BL.csproj.CopyComplete
+Y:\group 1 תשעט\יעקובוביץ דינה\project!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\ראש חודש סיוון בשורות טובות\Idial\Bl\obj\Debug\Bl.dll
+Y:\group 1 תשעט\יעקובוביץ דינה\project!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\ראש חודש סיוון בשורות טובות\Idial\Bl\obj\Debug\Bl.pdb
+Y:\group 1 תשעט\יעקובוביץ דינה\project2\ראש חודש סיוון בשורות טובות\Idial\Bl\bin\Debug\Bl.dll.config
+Y:\group 1 תשעט\יעקובוביץ דינה\project2\ראש חודש סיוון בשורות טובות\Idial\Bl\bin\Debug\Bl.dll
+Y:\group 1 תשעט\יעקובוביץ דינה\project2\ראש חודש סיוון בשורות טובות\Idial\Bl\bin\Debug\Bl.pdb
+Y:\group 1 תשעט\יעקובוביץ דינה\project2\ראש חודש סיוון בשורות טובות\Idial\Bl\bin\Debug\DAL.dll
+Y:\group 1 תשעט\יעקובוביץ דינה\project2\ראש חודש סיוון בשורות טובות\Idial\Bl\bin\Debug\Entities.dll
+Y:\group 1 תשעט\יעקובוביץ דינה\project2\ראש חודש סיוון בשורות טובות\Idial\Bl\bin\Debug\EntityFramework.dll
+Y:\group 1 תשעט\יעקובוביץ דינה\project2\ראש חודש סיוון בשורות טובות\Idial\Bl\bin\Debug\EntityFramework.SqlServer.dll
+Y:\group 1 תשעט\יעקובוביץ דינה\project2\ראש חודש סיוון בשורות טובות\Idial\Bl\bin\Debug\Newtonsoft.Json.dll
+Y:\group 1 תשעט\יעקובוביץ דינה\project2\ראש חודש סיוון בשורות טובות\Idial\Bl\bin\Debug\System.Net.Http.Formatting.dll
+Y:\group 1 תשעט\יעקובוביץ דינה\project2\ראש חודש סיוון בשורות טובות\Idial\Bl\bin\Debug\System.Web.Cors.dll
+Y:\group 1 תשעט\יעקובוביץ דינה\project2\ראש חודש סיוון בשורות טובות\Idial\Bl\bin\Debug\System.Web.Http.Cors.dll
+Y:\group 1 תשעט\יעקובוביץ דינה\project2\ראש חודש סיוון בשורות טובות\Idial\Bl\bin\Debug\System.Web.Http.dll
+Y:\group 1 תשעט\יעקובוביץ דינה\project2\ראש חודש סיוון בשורות טובות\Idial\Bl\bin\Debug\DAL.pdb
+Y:\group 1 תשעט\יעקובוביץ דינה\project2\ראש חודש סיוון בשורות טובות\Idial\Bl\bin\Debug\DAL.dll.config
+Y:\group 1 תשעט\יעקובוביץ דינה\project2\ראש חודש סיוון בשורות טובות\Idial\Bl\bin\Debug\Entities.pdb
+Y:\group 1 תשעט\יעקובוביץ דינה\project2\ראש חודש סיוון בשורות טובות\Idial\Bl\bin\Debug\EntityFramework.xml
+Y:\group 1 תשעט\יעקובוביץ דינה\project2\ראש חודש סיוון בשורות טובות\Idial\Bl\bin\Debug\EntityFramework.SqlServer.xml
+Y:\group 1 תשעט\יעקובוביץ דינה\project2\ראש חודש סיוון בשורות טובות\Idial\Bl\bin\Debug\Newtonsoft.Json.xml
+Y:\group 1 תשעט\יעקובוביץ דינה\project2\ראש חודש סיוון בשורות טובות\Idial\Bl\bin\Debug\System.Net.Http.Formatting.xml
+Y:\group 1 תשעט\יעקובוביץ דינה\project2\ראש חודש סיוון בשורות טובות\Idial\Bl\bin\Debug\System.Web.Http.xml
+Y:\group 1 תשעט\יעקובוביץ דינה\project2\ראש חודש סיוון בשורות טובות\Idial\Bl\bin\Debug\System.Web.Http.Cors.xml
+Y:\group 1 תשעט\יעקובוביץ דינה\project2\ראש חודש סיוון בשורות טובות\Idial\Bl\obj\Debug\BL.csprojAssemblyReference.cache
+Y:\group 1 תשעט\יעקובוביץ דינה\project2\ראש חודש סיוון בשורות טובות\Idial\Bl\obj\Debug\BL.csproj.CoreCompileInputs.cache
+Y:\group 1 תשעט\יעקובוביץ דינה\project2\ראש חודש סיוון בשורות טובות\Idial\Bl\obj\Debug\BL.csproj.CopyComplete
+Y:\group 1 תשעט\יעקובוביץ דינה\project2\ראש חודש סיוון בשורות טובות\Idial\Bl\obj\Debug\Bl.dll
+Y:\group 1 תשעט\יעקובוביץ דינה\project2\ראש חודש סיוון בשורות טובות\Idial\Bl\obj\Debug\Bl.pdb
+D:\Idial\Bl\bin\Debug\Bl.dll.config
+D:\Idial\Bl\bin\Debug\Bl.dll
+D:\Idial\Bl\bin\Debug\Bl.pdb
+D:\Idial\Bl\bin\Debug\DAL.dll
+D:\Idial\Bl\bin\Debug\Entities.dll
+D:\Idial\Bl\bin\Debug\EntityFramework.dll
+D:\Idial\Bl\bin\Debug\EntityFramework.SqlServer.dll
+D:\Idial\Bl\bin\Debug\Newtonsoft.Json.dll
+D:\Idial\Bl\bin\Debug\System.Net.Http.Formatting.dll
+D:\Idial\Bl\bin\Debug\System.Web.Cors.dll
+D:\Idial\Bl\bin\Debug\System.Web.Http.Cors.dll
+D:\Idial\Bl\bin\Debug\System.Web.Http.dll
+D:\Idial\Bl\bin\Debug\DAL.pdb
+D:\Idial\Bl\bin\Debug\DAL.dll.config
+D:\Idial\Bl\bin\Debug\Entities.pdb
+D:\Idial\Bl\bin\Debug\EntityFramework.xml
+D:\Idial\Bl\bin\Debug\EntityFramework.SqlServer.xml
+D:\Idial\Bl\bin\Debug\Newtonsoft.Json.xml
+D:\Idial\Bl\bin\Debug\System.Net.Http.Formatting.xml
+D:\Idial\Bl\bin\Debug\System.Web.Http.xml
+D:\Idial\Bl\bin\Debug\System.Web.Http.Cors.xml
+D:\Idial\Bl\obj\Debug\BL.csprojAssemblyReference.cache
+D:\Idial\Bl\obj\Debug\BL.csproj.CoreCompileInputs.cache
+D:\Idial\Bl\obj\Debug\BL.csproj.CopyComplete
+D:\Idial\Bl\obj\Debug\Bl.dll
+D:\Idial\Bl\obj\Debug\Bl.pdb
+D:\C#IDEAL\Bl\bin\Debug\Bl.dll.config
+D:\C#IDEAL\Bl\bin\Debug\Bl.dll
+D:\C#IDEAL\Bl\bin\Debug\Bl.pdb
+D:\C#IDEAL\Bl\bin\Debug\DAL.dll
+D:\C#IDEAL\Bl\bin\Debug\Entities.dll
+D:\C#IDEAL\Bl\bin\Debug\EntityFramework.dll
+D:\C#IDEAL\Bl\bin\Debug\EntityFramework.SqlServer.dll
+D:\C#IDEAL\Bl\bin\Debug\Newtonsoft.Json.dll
+D:\C#IDEAL\Bl\bin\Debug\System.Net.Http.Formatting.dll
+D:\C#IDEAL\Bl\bin\Debug\System.Web.Cors.dll
+D:\C#IDEAL\Bl\bin\Debug\System.Web.Http.Cors.dll
+D:\C#IDEAL\Bl\bin\Debug\System.Web.Http.dll
+D:\C#IDEAL\Bl\bin\Debug\DAL.pdb
+D:\C#IDEAL\Bl\bin\Debug\DAL.dll.config
+D:\C#IDEAL\Bl\bin\Debug\Entities.pdb
+D:\C#IDEAL\Bl\bin\Debug\EntityFramework.xml
+D:\C#IDEAL\Bl\bin\Debug\EntityFramework.SqlServer.xml
+D:\C#IDEAL\Bl\bin\Debug\Newtonsoft.Json.xml
+D:\C#IDEAL\Bl\bin\Debug\System.Net.Http.Formatting.xml
+D:\C#IDEAL\Bl\bin\Debug\System.Web.Http.xml
+D:\C#IDEAL\Bl\bin\Debug\System.Web.Http.Cors.xml
+D:\C#IDEAL\Bl\obj\Debug\BL.csprojAssemblyReference.cache
+D:\C#IDEAL\Bl\obj\Debug\BL.csproj.CoreCompileInputs.cache
+D:\C#IDEAL\Bl\obj\Debug\BL.csproj.CopyComplete
+D:\C#IDEAL\Bl\obj\Debug\Bl.dll
+D:\C#IDEAL\Bl\obj\Debug\Bl.pdb
+D:\יג סיון\C#IDEAL\Bl\bin\Debug\Bl.dll.config
+D:\יג סיון\C#IDEAL\Bl\bin\Debug\Bl.dll
+D:\יג סיון\C#IDEAL\Bl\bin\Debug\Bl.pdb
+D:\יג סיון\C#IDEAL\Bl\bin\Debug\DAL.dll
+D:\יג סיון\C#IDEAL\Bl\bin\Debug\Entities.dll
+D:\יג סיון\C#IDEAL\Bl\bin\Debug\EntityFramework.dll
+D:\יג סיון\C#IDEAL\Bl\bin\Debug\EntityFramework.SqlServer.dll
+D:\יג סיון\C#IDEAL\Bl\bin\Debug\Newtonsoft.Json.dll
+D:\יג סיון\C#IDEAL\Bl\bin\Debug\System.Net.Http.Formatting.dll
+D:\יג סיון\C#IDEAL\Bl\bin\Debug\System.Web.Cors.dll
+D:\יג סיון\C#IDEAL\Bl\bin\Debug\System.Web.Http.Cors.dll
+D:\יג סיון\C#IDEAL\Bl\bin\Debug\System.Web.Http.dll
+D:\יג סיון\C#IDEAL\Bl\bin\Debug\DAL.pdb
+D:\יג סיון\C#IDEAL\Bl\bin\Debug\DAL.dll.config
+D:\יג סיון\C#IDEAL\Bl\bin\Debug\Entities.pdb
+D:\יג סיון\C#IDEAL\Bl\bin\Debug\EntityFramework.xml
+D:\יג סיון\C#IDEAL\Bl\bin\Debug\EntityFramework.SqlServer.xml
+D:\יג סיון\C#IDEAL\Bl\bin\Debug\Newtonsoft.Json.xml
+D:\יג סיון\C#IDEAL\Bl\bin\Debug\System.Net.Http.Formatting.xml
+D:\יג סיון\C#IDEAL\Bl\bin\Debug\System.Web.Http.xml
+D:\יג סיון\C#IDEAL\Bl\bin\Debug\System.Web.Http.Cors.xml
+D:\יג סיון\C#IDEAL\Bl\obj\Debug\BL.csprojAssemblyReference.cache
+D:\יג סיון\C#IDEAL\Bl\obj\Debug\BL.csproj.CoreCompileInputs.cache
+D:\יג סיון\C#IDEAL\Bl\obj\Debug\BL.csproj.CopyComplete
+D:\יג סיון\C#IDEAL\Bl\obj\Debug\Bl.dll
+D:\יג סיון\C#IDEAL\Bl\obj\Debug\Bl.pdb
+Y:\group 1 תשעט\יעקובוביץ דינה\project2\כז סיון\C#IDEAL\Bl\bin\Debug\Bl.dll.config
+Y:\group 1 תשעט\יעקובוביץ דינה\project2\כז סיון\C#IDEAL\Bl\bin\Debug\Bl.dll
+Y:\group 1 תשעט\יעקובוביץ דינה\project2\כז סיון\C#IDEAL\Bl\bin\Debug\Bl.pdb
+Y:\group 1 תשעט\יעקובוביץ דינה\project2\כז סיון\C#IDEAL\Bl\bin\Debug\DAL.dll
+Y:\group 1 תשעט\יעקובוביץ דינה\project2\כז סיון\C#IDEAL\Bl\bin\Debug\Entities.dll
+Y:\group 1 תשעט\יעקובוביץ דינה\project2\כז סיון\C#IDEAL\Bl\bin\Debug\EntityFramework.dll
+Y:\group 1 תשעט\יעקובוביץ דינה\project2\כז סיון\C#IDEAL\Bl\bin\Debug\EntityFramework.SqlServer.dll
+Y:\group 1 תשעט\יעקובוביץ דינה\project2\כז סיון\C#IDEAL\Bl\bin\Debug\Newtonsoft.Json.dll
+Y:\group 1 תשעט\יעקובוביץ דינה\project2\כז סיון\C#IDEAL\Bl\bin\Debug\System.Net.Http.Formatting.dll
+Y:\group 1 תשעט\יעקובוביץ דינה\project2\כז סיון\C#IDEAL\Bl\bin\Debug\System.Web.Cors.dll
+Y:\group 1 תשעט\יעקובוביץ דינה\project2\כז סיון\C#IDEAL\Bl\bin\Debug\System.Web.Http.Cors.dll
+Y:\group 1 תשעט\יעקובוביץ דינה\project2\כז סיון\C#IDEAL\Bl\bin\Debug\System.Web.Http.dll
+Y:\group 1 תשעט\יעקובוביץ דינה\project2\כז סיון\C#IDEAL\Bl\bin\Debug\DAL.pdb
+Y:\group 1 תשעט\יעקובוביץ דינה\project2\כז סיון\C#IDEAL\Bl\bin\Debug\DAL.dll.config
+Y:\group 1 תשעט\יעקובוביץ דינה\project2\כז סיון\C#IDEAL\Bl\bin\Debug\Entities.pdb
+Y:\group 1 תשעט\יעקובוביץ דינה\project2\כז סיון\C#IDEAL\Bl\bin\Debug\EntityFramework.xml
+Y:\group 1 תשעט\יעקובוביץ דינה\project2\כז סיון\C#IDEAL\Bl\bin\Debug\EntityFramework.SqlServer.xml
+Y:\group 1 תשעט\יעקובוביץ דינה\project2\כז סיון\C#IDEAL\Bl\bin\Debug\Newtonsoft.Json.xml
+Y:\group 1 תשעט\יעקובוביץ דינה\project2\כז סיון\C#IDEAL\Bl\bin\Debug\System.Net.Http.Formatting.xml
+Y:\group 1 תשעט\יעקובוביץ דינה\project2\כז סיון\C#IDEAL\Bl\bin\Debug\System.Web.Http.xml
+Y:\group 1 תשעט\יעקובוביץ דינה\project2\כז סיון\C#IDEAL\Bl\bin\Debug\System.Web.Http.Cors.xml
+Y:\group 1 תשעט\יעקובוביץ דינה\project2\כז סיון\C#IDEAL\Bl\obj\Debug\BL.csprojAssemblyReference.cache
+Y:\group 1 תשעט\יעקובוביץ דינה\project2\כז סיון\C#IDEAL\Bl\obj\Debug\BL.csproj.CoreCompileInputs.cache
+Y:\group 1 תשעט\יעקובוביץ דינה\project2\כז סיון\C#IDEAL\Bl\obj\Debug\BL.csproj.CopyComplete
+Y:\group 1 תשעט\יעקובוביץ דינה\project2\כז סיון\C#IDEAL\Bl\obj\Debug\Bl.dll
+Y:\group 1 תשעט\יעקובוביץ דינה\project2\כז סיון\C#IDEAL\Bl\obj\Debug\Bl.pdb
+D:\כח סיון\C#IDEAL\Bl\obj\Debug\BL.csprojAssemblyReference.cache
+D:\כח סיון\C#IDEAL\Bl\obj\Debug\BL.csproj.CoreCompileInputs.cache
+D:\כח סיון\C#IDEAL\Bl\obj\Debug\Bl.dll
+D:\כח סיון\C#IDEAL\Bl\obj\Debug\Bl.pdb
+D:\כח סיון\C#IDEAL\Bl\bin\Debug\Bl.dll.config
+D:\כח סיון\C#IDEAL\Bl\bin\Debug\Bl.dll
+D:\כח סיון\C#IDEAL\Bl\bin\Debug\Bl.pdb
+D:\כח סיון\C#IDEAL\Bl\bin\Debug\DAL.dll
+D:\כח סיון\C#IDEAL\Bl\bin\Debug\Entities.dll
+D:\כח סיון\C#IDEAL\Bl\bin\Debug\EntityFramework.dll
+D:\כח סיון\C#IDEAL\Bl\bin\Debug\EntityFramework.SqlServer.dll
+D:\כח סיון\C#IDEAL\Bl\bin\Debug\Newtonsoft.Json.dll
+D:\כח סיון\C#IDEAL\Bl\bin\Debug\System.Net.Http.Formatting.dll
+D:\כח סיון\C#IDEAL\Bl\bin\Debug\System.Web.Cors.dll
+D:\כח סיון\C#IDEAL\Bl\bin\Debug\System.Web.Http.Cors.dll
+D:\כח סיון\C#IDEAL\Bl\bin\Debug\System.Web.Http.dll
+D:\כח סיון\C#IDEAL\Bl\bin\Debug\DAL.pdb
+D:\כח סיון\C#IDEAL\Bl\bin\Debug\DAL.dll.config
+D:\כח סיון\C#IDEAL\Bl\bin\Debug\Entities.pdb
+D:\כח סיון\C#IDEAL\Bl\bin\Debug\EntityFramework.xml
+D:\כח סיון\C#IDEAL\Bl\bin\Debug\EntityFramework.SqlServer.xml
+D:\כח סיון\C#IDEAL\Bl\bin\Debug\Newtonsoft.Json.xml
+D:\כח סיון\C#IDEAL\Bl\bin\Debug\System.Net.Http.Formatting.xml
+D:\כח סיון\C#IDEAL\Bl\bin\Debug\System.Web.Http.xml
+D:\כח סיון\C#IDEAL\Bl\bin\Debug\System.Web.Http.Cors.xml
+D:\כח סיון\C#IDEAL\Bl\obj\Debug\BL.csproj.CopyComplete
+Y:\group 1 תשעט\יעקובוביץ דינה\project2\כט סיון\C#IDEAL\Bl\bin\Debug\Bl.dll.config
+Y:\group 1 תשעט\יעקובוביץ דינה\project2\כט סיון\C#IDEAL\Bl\bin\Debug\Bl.dll
+Y:\group 1 תשעט\יעקובוביץ דינה\project2\כט סיון\C#IDEAL\Bl\bin\Debug\Bl.pdb
+Y:\group 1 תשעט\יעקובוביץ דינה\project2\כט סיון\C#IDEAL\Bl\bin\Debug\DAL.dll
+Y:\group 1 תשעט\יעקובוביץ דינה\project2\כט סיון\C#IDEAL\Bl\bin\Debug\Entities.dll
+Y:\group 1 תשעט\יעקובוביץ דינה\project2\כט סיון\C#IDEAL\Bl\bin\Debug\EntityFramework.dll
+Y:\group 1 תשעט\יעקובוביץ דינה\project2\כט סיון\C#IDEAL\Bl\bin\Debug\EntityFramework.SqlServer.dll
+Y:\group 1 תשעט\יעקובוביץ דינה\project2\כט סיון\C#IDEAL\Bl\bin\Debug\Newtonsoft.Json.dll
+Y:\group 1 תשעט\יעקובוביץ דינה\project2\כט סיון\C#IDEAL\Bl\bin\Debug\System.Net.Http.Formatting.dll
+Y:\group 1 תשעט\יעקובוביץ דינה\project2\כט סיון\C#IDEAL\Bl\bin\Debug\System.Web.Cors.dll
+Y:\group 1 תשעט\יעקובוביץ דינה\project2\כט סיון\C#IDEAL\Bl\bin\Debug\System.Web.Http.Cors.dll
+Y:\group 1 תשעט\יעקובוביץ דינה\project2\כט סיון\C#IDEAL\Bl\bin\Debug\System.Web.Http.dll
+Y:\group 1 תשעט\יעקובוביץ דינה\project2\כט סיון\C#IDEAL\Bl\bin\Debug\DAL.pdb
+Y:\group 1 תשעט\יעקובוביץ דינה\project2\כט סיון\C#IDEAL\Bl\bin\Debug\DAL.dll.config
+Y:\group 1 תשעט\יעקובוביץ דינה\project2\כט סיון\C#IDEAL\Bl\bin\Debug\Entities.pdb
+Y:\group 1 תשעט\יעקובוביץ דינה\project2\כט סיון\C#IDEAL\Bl\bin\Debug\EntityFramework.xml
+Y:\group 1 תשעט\יעקובוביץ דינה\project2\כט סיון\C#IDEAL\Bl\bin\Debug\EntityFramework.SqlServer.xml
+Y:\group 1 תשעט\יעקובוביץ דינה\project2\כט סיון\C#IDEAL\Bl\bin\Debug\Newtonsoft.Json.xml
+Y:\group 1 תשעט\יעקובוביץ דינה\project2\כט סיון\C#IDEAL\Bl\bin\Debug\System.Net.Http.Formatting.xml
+Y:\group 1 תשעט\יעקובוביץ דינה\project2\כט סיון\C#IDEAL\Bl\bin\Debug\System.Web.Http.xml
+Y:\group 1 תשעט\יעקובוביץ דינה\project2\כט סיון\C#IDEAL\Bl\bin\Debug\System.Web.Http.Cors.xml
+Y:\group 1 תשעט\יעקובוביץ דינה\project2\כט סיון\C#IDEAL\Bl\obj\Debug\BL.csprojAssemblyReference.cache
+Y:\group 1 תשעט\יעקובוביץ דינה\project2\כט סיון\C#IDEAL\Bl\obj\Debug\BL.csproj.CoreCompileInputs.cache
+Y:\group 1 תשעט\יעקובוביץ דינה\project2\כט סיון\C#IDEAL\Bl\obj\Debug\BL.csproj.CopyComplete
+Y:\group 1 תשעט\יעקובוביץ דינה\project2\כט סיון\C#IDEAL\Bl\obj\Debug\Bl.dll
+Y:\group 1 תשעט\יעקובוביץ דינה\project2\כט סיון\C#IDEAL\Bl\obj\Debug\Bl.pdb
+D:\ל סיון\C#IDEAL\Bl\bin\Debug\Bl.dll.config
+D:\ל סיון\C#IDEAL\Bl\bin\Debug\Bl.dll
+D:\ל סיון\C#IDEAL\Bl\bin\Debug\Bl.pdb
+D:\ל סיון\C#IDEAL\Bl\bin\Debug\DAL.dll
+D:\ל סיון\C#IDEAL\Bl\bin\Debug\Entities.dll
+D:\ל סיון\C#IDEAL\Bl\bin\Debug\EntityFramework.dll
+D:\ל סיון\C#IDEAL\Bl\bin\Debug\EntityFramework.SqlServer.dll
+D:\ל סיון\C#IDEAL\Bl\bin\Debug\Newtonsoft.Json.dll
+D:\ל סיון\C#IDEAL\Bl\bin\Debug\System.Net.Http.Formatting.dll
+D:\ל סיון\C#IDEAL\Bl\bin\Debug\System.Web.Cors.dll
+D:\ל סיון\C#IDEAL\Bl\bin\Debug\System.Web.Http.Cors.dll
+D:\ל סיון\C#IDEAL\Bl\bin\Debug\System.Web.Http.dll
+D:\ל סיון\C#IDEAL\Bl\bin\Debug\DAL.pdb
+D:\ל סיון\C#IDEAL\Bl\bin\Debug\DAL.dll.config
+D:\ל סיון\C#IDEAL\Bl\bin\Debug\Entities.pdb
+D:\ל סיון\C#IDEAL\Bl\bin\Debug\EntityFramework.xml
+D:\ל סיון\C#IDEAL\Bl\bin\Debug\EntityFramework.SqlServer.xml
+D:\ל סיון\C#IDEAL\Bl\bin\Debug\Newtonsoft.Json.xml
+D:\ל סיון\C#IDEAL\Bl\bin\Debug\System.Net.Http.Formatting.xml
+D:\ל סיון\C#IDEAL\Bl\bin\Debug\System.Web.Http.xml
+D:\ל סיון\C#IDEAL\Bl\bin\Debug\System.Web.Http.Cors.xml
+D:\ל סיון\C#IDEAL\Bl\obj\Debug\BL.csprojAssemblyReference.cache
+D:\ל סיון\C#IDEAL\Bl\obj\Debug\BL.csproj.CoreCompileInputs.cache
+D:\ל סיון\C#IDEAL\Bl\obj\Debug\BL.csproj.CopyComplete
+D:\ל סיון\C#IDEAL\Bl\obj\Debug\Bl.dll
+D:\ל סיון\C#IDEAL\Bl\obj\Debug\Bl.pdb
+D:\ו תמוז\C#IDEAL\Bl\bin\Debug\Bl.dll.config
+D:\ו תמוז\C#IDEAL\Bl\bin\Debug\Bl.dll
+D:\ו תמוז\C#IDEAL\Bl\bin\Debug\Bl.pdb
+D:\ו תמוז\C#IDEAL\Bl\bin\Debug\DAL.dll
+D:\ו תמוז\C#IDEAL\Bl\bin\Debug\Entities.dll
+D:\ו תמוז\C#IDEAL\Bl\bin\Debug\EntityFramework.dll
+D:\ו תמוז\C#IDEAL\Bl\bin\Debug\EntityFramework.SqlServer.dll
+D:\ו תמוז\C#IDEAL\Bl\bin\Debug\Newtonsoft.Json.dll
+D:\ו תמוז\C#IDEAL\Bl\bin\Debug\System.Net.Http.Formatting.dll
+D:\ו תמוז\C#IDEAL\Bl\bin\Debug\System.Web.Cors.dll
+D:\ו תמוז\C#IDEAL\Bl\bin\Debug\System.Web.Http.Cors.dll
+D:\ו תמוז\C#IDEAL\Bl\bin\Debug\System.Web.Http.dll
+D:\ו תמוז\C#IDEAL\Bl\bin\Debug\DAL.pdb
+D:\ו תמוז\C#IDEAL\Bl\bin\Debug\DAL.dll.config
+D:\ו תמוז\C#IDEAL\Bl\bin\Debug\Entities.pdb
+D:\ו תמוז\C#IDEAL\Bl\bin\Debug\EntityFramework.xml
+D:\ו תמוז\C#IDEAL\Bl\bin\Debug\EntityFramework.SqlServer.xml
+D:\ו תמוז\C#IDEAL\Bl\bin\Debug\Newtonsoft.Json.xml
+D:\ו תמוז\C#IDEAL\Bl\bin\Debug\System.Net.Http.Formatting.xml
+D:\ו תמוז\C#IDEAL\Bl\bin\Debug\System.Web.Http.xml
+D:\ו תמוז\C#IDEAL\Bl\bin\Debug\System.Web.Http.Cors.xml
+D:\ו תמוז\C#IDEAL\Bl\obj\Debug\BL.csprojAssemblyReference.cache
+D:\ו תמוז\C#IDEAL\Bl\obj\Debug\BL.csproj.CoreCompileInputs.cache
+D:\ו תמוז\C#IDEAL\Bl\obj\Debug\BL.csproj.CopyComplete
+D:\ו תמוז\C#IDEAL\Bl\obj\Debug\Bl.dll
+D:\ו תמוז\C#IDEAL\Bl\obj\Debug\Bl.pdb
+D:\יא תמוז\C#IDEAL\Bl\obj\Debug\BL.csprojAssemblyReference.cache
+D:\יא תמוז\C#IDEAL\Bl\obj\Debug\BL.csproj.CoreCompileInputs.cache
+D:\C#IDEAL\Bl\bin\Debug\Microsoft.AspNet.SignalR.Core.dll
+D:\C#IDEAL\Bl\bin\Debug\Microsoft.AspNet.SignalR.SystemWeb.dll
+D:\C#IDEAL\Bl\bin\Debug\Microsoft.Owin.dll
+D:\C#IDEAL\Bl\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+D:\C#IDEAL\Bl\bin\Debug\Microsoft.Owin.Security.dll
+D:\C#IDEAL\Bl\bin\Debug\Owin.dll
+D:\C#IDEAL\Bl\bin\Debug\Microsoft.AspNet.SignalR.Core.pdb
+D:\C#IDEAL\Bl\bin\Debug\Microsoft.AspNet.SignalR.Core.xml
+D:\C#IDEAL\Bl\bin\Debug\Microsoft.AspNet.SignalR.SystemWeb.pdb
+D:\C#IDEAL\Bl\bin\Debug\Microsoft.AspNet.SignalR.SystemWeb.xml
+D:\C#IDEAL\Bl\bin\Debug\Microsoft.Owin.xml
+D:\C#IDEAL\Bl\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+D:\C#IDEAL\Bl\bin\Debug\Microsoft.Owin.Security.xml
+D:\כה תמוז\C#IDEAL\Bl\obj\Debug\Bl.csprojAssemblyReference.cache
+D:\כה תמוז\C#IDEAL\Bl\obj\Debug\Bl.csproj.CoreCompileInputs.cache
+D:\כה תמוז\C#IDEAL\Bl\obj\Debug\Bl.dll
+D:\כה תמוז\C#IDEAL\Bl\obj\Debug\Bl.pdb
+D:\כה תמוז\C#IDEAL\Bl\bin\Debug\Bl.dll.config
+D:\כה תמוז\C#IDEAL\Bl\bin\Debug\Bl.dll
+D:\כה תמוז\C#IDEAL\Bl\bin\Debug\Bl.pdb
+D:\כה תמוז\C#IDEAL\Bl\bin\Debug\DAL.dll
+D:\כה תמוז\C#IDEAL\Bl\bin\Debug\Entities.dll
+D:\כה תמוז\C#IDEAL\Bl\bin\Debug\EntityFramework.dll
+D:\כה תמוז\C#IDEAL\Bl\bin\Debug\EntityFramework.SqlServer.dll
+D:\כה תמוז\C#IDEAL\Bl\bin\Debug\Microsoft.AspNet.SignalR.Core.dll
+D:\כה תמוז\C#IDEAL\Bl\bin\Debug\Microsoft.AspNet.SignalR.SystemWeb.dll
+D:\כה תמוז\C#IDEAL\Bl\bin\Debug\Microsoft.Owin.dll
+D:\כה תמוז\C#IDEAL\Bl\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+D:\כה תמוז\C#IDEAL\Bl\bin\Debug\Microsoft.Owin.Security.dll
+D:\כה תמוז\C#IDEAL\Bl\bin\Debug\Newtonsoft.Json.dll
+D:\כה תמוז\C#IDEAL\Bl\bin\Debug\Owin.dll
+D:\כה תמוז\C#IDEAL\Bl\bin\Debug\System.Net.Http.Formatting.dll
+D:\כה תמוז\C#IDEAL\Bl\bin\Debug\System.Web.Cors.dll
+D:\כה תמוז\C#IDEAL\Bl\bin\Debug\System.Web.Http.Cors.dll
+D:\כה תמוז\C#IDEAL\Bl\bin\Debug\System.Web.Http.dll
+D:\כה תמוז\C#IDEAL\Bl\bin\Debug\DAL.pdb
+D:\כה תמוז\C#IDEAL\Bl\bin\Debug\DAL.dll.config
+D:\כה תמוז\C#IDEAL\Bl\bin\Debug\Entities.pdb
+D:\כה תמוז\C#IDEAL\Bl\bin\Debug\EntityFramework.xml
+D:\כה תמוז\C#IDEAL\Bl\bin\Debug\EntityFramework.SqlServer.xml
+D:\כה תמוז\C#IDEAL\Bl\bin\Debug\Microsoft.AspNet.SignalR.Core.pdb
+D:\כה תמוז\C#IDEAL\Bl\bin\Debug\Microsoft.AspNet.SignalR.Core.xml
+D:\כה תמוז\C#IDEAL\Bl\bin\Debug\Microsoft.AspNet.SignalR.SystemWeb.pdb
+D:\כה תמוז\C#IDEAL\Bl\bin\Debug\Microsoft.AspNet.SignalR.SystemWeb.xml
+D:\כה תמוז\C#IDEAL\Bl\bin\Debug\Microsoft.Owin.xml
+D:\כה תמוז\C#IDEAL\Bl\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+D:\כה תמוז\C#IDEAL\Bl\bin\Debug\Microsoft.Owin.Security.xml
+D:\כה תמוז\C#IDEAL\Bl\bin\Debug\Newtonsoft.Json.xml
+D:\כה תמוז\C#IDEAL\Bl\bin\Debug\System.Net.Http.Formatting.xml
+D:\כה תמוז\C#IDEAL\Bl\bin\Debug\System.Web.Http.xml
+D:\כה תמוז\C#IDEAL\Bl\bin\Debug\System.Web.Http.Cors.xml
+D:\כה תמוז\C#IDEAL\Bl\obj\Debug\Bl.csproj.CopyComplete
+D:\כה תמוז\C#IDEAL-דבורהלה\Bl\obj\Debug\Bl.csprojAssemblyReference.cache
+D:\כה תמוז\C#IDEAL-דבורהלה\Bl\obj\Debug\Bl.csproj.CoreCompileInputs.cache
+D:\כה תמוז\C#IDEAL-דבורהלה\Bl\obj\Debug\Bl.dll
+D:\כה תמוז\C#IDEAL-דבורהלה\Bl\obj\Debug\Bl.pdb
+D:\כה תמוז\C#IDEAL-דבורהלה\Bl\bin\Debug\Bl.dll.config
+D:\כה תמוז\C#IDEAL-דבורהלה\Bl\bin\Debug\Bl.dll
+D:\כה תמוז\C#IDEAL-דבורהלה\Bl\bin\Debug\Bl.pdb
+D:\כה תמוז\C#IDEAL-דבורהלה\Bl\bin\Debug\DAL.dll
+D:\כה תמוז\C#IDEAL-דבורהלה\Bl\bin\Debug\Entities.dll
+D:\כה תמוז\C#IDEAL-דבורהלה\Bl\bin\Debug\EntityFramework.dll
+D:\כה תמוז\C#IDEAL-דבורהלה\Bl\bin\Debug\EntityFramework.SqlServer.dll
+D:\כה תמוז\C#IDEAL-דבורהלה\Bl\bin\Debug\Microsoft.AspNet.SignalR.Core.dll
+D:\כה תמוז\C#IDEAL-דבורהלה\Bl\bin\Debug\Microsoft.AspNet.SignalR.SystemWeb.dll
+D:\כה תמוז\C#IDEAL-דבורהלה\Bl\bin\Debug\Microsoft.Owin.dll
+D:\כה תמוז\C#IDEAL-דבורהלה\Bl\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+D:\כה תמוז\C#IDEAL-דבורהלה\Bl\bin\Debug\Microsoft.Owin.Security.dll
+D:\כה תמוז\C#IDEAL-דבורהלה\Bl\bin\Debug\Newtonsoft.Json.dll
+D:\כה תמוז\C#IDEAL-דבורהלה\Bl\bin\Debug\Owin.dll
+D:\כה תמוז\C#IDEAL-דבורהלה\Bl\bin\Debug\System.Net.Http.Formatting.dll
+D:\כה תמוז\C#IDEAL-דבורהלה\Bl\bin\Debug\System.Web.Cors.dll
+D:\כה תמוז\C#IDEAL-דבורהלה\Bl\bin\Debug\System.Web.Http.Cors.dll
+D:\כה תמוז\C#IDEAL-דבורהלה\Bl\bin\Debug\System.Web.Http.dll
+D:\כה תמוז\C#IDEAL-דבורהלה\Bl\bin\Debug\DAL.pdb
+D:\כה תמוז\C#IDEAL-דבורהלה\Bl\bin\Debug\DAL.dll.config
+D:\כה תמוז\C#IDEAL-דבורהלה\Bl\bin\Debug\Entities.pdb
+D:\כה תמוז\C#IDEAL-דבורהלה\Bl\bin\Debug\EntityFramework.xml
+D:\כה תמוז\C#IDEAL-דבורהלה\Bl\bin\Debug\EntityFramework.SqlServer.xml
+D:\כה תמוז\C#IDEAL-דבורהלה\Bl\bin\Debug\Microsoft.AspNet.SignalR.Core.pdb
+D:\כה תמוז\C#IDEAL-דבורהלה\Bl\bin\Debug\Microsoft.AspNet.SignalR.Core.xml
+D:\כה תמוז\C#IDEAL-דבורהלה\Bl\bin\Debug\Microsoft.AspNet.SignalR.SystemWeb.pdb
+D:\כה תמוז\C#IDEAL-דבורהלה\Bl\bin\Debug\Microsoft.AspNet.SignalR.SystemWeb.xml
+D:\כה תמוז\C#IDEAL-דבורהלה\Bl\bin\Debug\Microsoft.Owin.xml
+D:\כה תמוז\C#IDEAL-דבורהלה\Bl\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+D:\כה תמוז\C#IDEAL-דבורהלה\Bl\bin\Debug\Microsoft.Owin.Security.xml
+D:\כה תמוז\C#IDEAL-דבורהלה\Bl\bin\Debug\Newtonsoft.Json.xml
+D:\כה תמוז\C#IDEAL-דבורהלה\Bl\bin\Debug\System.Net.Http.Formatting.xml
+D:\כה תמוז\C#IDEAL-דבורהלה\Bl\bin\Debug\System.Web.Http.xml
+D:\כה תמוז\C#IDEAL-דבורהלה\Bl\bin\Debug\System.Web.Http.Cors.xml
+D:\כה תמוז\C#IDEAL-דבורהלה\Bl\obj\Debug\Bl.csproj.CopyComplete
+D:\אור לכו תמוז\C#IDEAL-דבורהלה\Bl\bin\Debug\Bl.dll.config
+D:\אור לכו תמוז\C#IDEAL-דבורהלה\Bl\bin\Debug\Bl.dll
+D:\אור לכו תמוז\C#IDEAL-דבורהלה\Bl\bin\Debug\Bl.pdb
+D:\אור לכו תמוז\C#IDEAL-דבורהלה\Bl\bin\Debug\DAL.dll
+D:\אור לכו תמוז\C#IDEAL-דבורהלה\Bl\bin\Debug\Entities.dll
+D:\אור לכו תמוז\C#IDEAL-דבורהלה\Bl\bin\Debug\EntityFramework.dll
+D:\אור לכו תמוז\C#IDEAL-דבורהלה\Bl\bin\Debug\EntityFramework.SqlServer.dll
+D:\אור לכו תמוז\C#IDEAL-דבורהלה\Bl\bin\Debug\Microsoft.AspNet.SignalR.Core.dll
+D:\אור לכו תמוז\C#IDEAL-דבורהלה\Bl\bin\Debug\Microsoft.AspNet.SignalR.SystemWeb.dll
+D:\אור לכו תמוז\C#IDEAL-דבורהלה\Bl\bin\Debug\Microsoft.Owin.dll
+D:\אור לכו תמוז\C#IDEAL-דבורהלה\Bl\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+D:\אור לכו תמוז\C#IDEAL-דבורהלה\Bl\bin\Debug\Microsoft.Owin.Security.dll
+D:\אור לכו תמוז\C#IDEAL-דבורהלה\Bl\bin\Debug\Newtonsoft.Json.dll
+D:\אור לכו תמוז\C#IDEAL-דבורהלה\Bl\bin\Debug\Owin.dll
+D:\אור לכו תמוז\C#IDEAL-דבורהלה\Bl\bin\Debug\System.Net.Http.Formatting.dll
+D:\אור לכו תמוז\C#IDEAL-דבורהלה\Bl\bin\Debug\System.Web.Cors.dll
+D:\אור לכו תמוז\C#IDEAL-דבורהלה\Bl\bin\Debug\System.Web.Http.Cors.dll
+D:\אור לכו תמוז\C#IDEAL-דבורהלה\Bl\bin\Debug\System.Web.Http.dll
+D:\אור לכו תמוז\C#IDEAL-דבורהלה\Bl\bin\Debug\DAL.pdb
+D:\אור לכו תמוז\C#IDEAL-דבורהלה\Bl\bin\Debug\DAL.dll.config
+D:\אור לכו תמוז\C#IDEAL-דבורהלה\Bl\bin\Debug\Entities.pdb
+D:\אור לכו תמוז\C#IDEAL-דבורהלה\Bl\bin\Debug\EntityFramework.xml
+D:\אור לכו תמוז\C#IDEAL-דבורהלה\Bl\bin\Debug\EntityFramework.SqlServer.xml
+D:\אור לכו תמוז\C#IDEAL-דבורהלה\Bl\bin\Debug\Microsoft.AspNet.SignalR.Core.pdb
+D:\אור לכו תמוז\C#IDEAL-דבורהלה\Bl\bin\Debug\Microsoft.AspNet.SignalR.Core.xml
+D:\אור לכו תמוז\C#IDEAL-דבורהלה\Bl\bin\Debug\Microsoft.AspNet.SignalR.SystemWeb.pdb
+D:\אור לכו תמוז\C#IDEAL-דבורהלה\Bl\bin\Debug\Microsoft.AspNet.SignalR.SystemWeb.xml
+D:\אור לכו תמוז\C#IDEAL-דבורהלה\Bl\bin\Debug\Microsoft.Owin.xml
+D:\אור לכו תמוז\C#IDEAL-דבורהלה\Bl\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+D:\אור לכו תמוז\C#IDEAL-דבורהלה\Bl\bin\Debug\Microsoft.Owin.Security.xml
+D:\אור לכו תמוז\C#IDEAL-דבורהלה\Bl\bin\Debug\Newtonsoft.Json.xml
+D:\אור לכו תמוז\C#IDEAL-דבורהלה\Bl\bin\Debug\System.Net.Http.Formatting.xml
+D:\אור לכו תמוז\C#IDEAL-דבורהלה\Bl\bin\Debug\System.Web.Http.xml
+D:\אור לכו תמוז\C#IDEAL-דבורהלה\Bl\bin\Debug\System.Web.Http.Cors.xml
+D:\אור לכו תמוז\C#IDEAL-דבורהלה\Bl\obj\Debug\Bl.csprojAssemblyReference.cache
+D:\אור לכו תמוז\C#IDEAL-דבורהלה\Bl\obj\Debug\Bl.csproj.CoreCompileInputs.cache
+D:\אור לכו תמוז\C#IDEAL-דבורהלה\Bl\obj\Debug\Bl.csproj.CopyComplete
+D:\אור לכו תמוז\C#IDEAL-דבורהלה\Bl\obj\Debug\Bl.dll
+D:\אור לכו תמוז\C#IDEAL-דבורהלה\Bl\obj\Debug\Bl.pdb
+Y:\group 1 תשעט\קיסטר דבורה\הפרויקט גמר\אור לכו תמוז\C#IDEAL-דבורהלה\Bl\bin\Debug\Bl.dll.config
+Y:\group 1 תשעט\קיסטר דבורה\הפרויקט גמר\אור לכו תמוז\C#IDEAL-דבורהלה\Bl\bin\Debug\Bl.dll
+Y:\group 1 תשעט\קיסטר דבורה\הפרויקט גמר\אור לכו תמוז\C#IDEAL-דבורהלה\Bl\bin\Debug\Bl.pdb
+Y:\group 1 תשעט\קיסטר דבורה\הפרויקט גמר\אור לכו תמוז\C#IDEAL-דבורהלה\Bl\bin\Debug\DAL.dll
+Y:\group 1 תשעט\קיסטר דבורה\הפרויקט גמר\אור לכו תמוז\C#IDEAL-דבורהלה\Bl\bin\Debug\Entities.dll
+Y:\group 1 תשעט\קיסטר דבורה\הפרויקט גמר\אור לכו תמוז\C#IDEAL-דבורהלה\Bl\bin\Debug\EntityFramework.dll
+Y:\group 1 תשעט\קיסטר דבורה\הפרויקט גמר\אור לכו תמוז\C#IDEAL-דבורהלה\Bl\bin\Debug\EntityFramework.SqlServer.dll
+Y:\group 1 תשעט\קיסטר דבורה\הפרויקט גמר\אור לכו תמוז\C#IDEAL-דבורהלה\Bl\bin\Debug\Microsoft.AspNet.SignalR.Core.dll
+Y:\group 1 תשעט\קיסטר דבורה\הפרויקט גמר\אור לכו תמוז\C#IDEAL-דבורהלה\Bl\bin\Debug\Microsoft.AspNet.SignalR.SystemWeb.dll
+Y:\group 1 תשעט\קיסטר דבורה\הפרויקט גמר\אור לכו תמוז\C#IDEAL-דבורהלה\Bl\bin\Debug\Microsoft.Owin.dll
+Y:\group 1 תשעט\קיסטר דבורה\הפרויקט גמר\אור לכו תמוז\C#IDEAL-דבורהלה\Bl\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+Y:\group 1 תשעט\קיסטר דבורה\הפרויקט גמר\אור לכו תמוז\C#IDEAL-דבורהלה\Bl\bin\Debug\Microsoft.Owin.Security.dll
+Y:\group 1 תשעט\קיסטר דבורה\הפרויקט גמר\אור לכו תמוז\C#IDEAL-דבורהלה\Bl\bin\Debug\Newtonsoft.Json.dll
+Y:\group 1 תשעט\קיסטר דבורה\הפרויקט גמר\אור לכו תמוז\C#IDEAL-דבורהלה\Bl\bin\Debug\Owin.dll
+Y:\group 1 תשעט\קיסטר דבורה\הפרויקט גמר\אור לכו תמוז\C#IDEAL-דבורהלה\Bl\bin\Debug\System.Net.Http.Formatting.dll
+Y:\group 1 תשעט\קיסטר דבורה\הפרויקט גמר\אור לכו תמוז\C#IDEAL-דבורהלה\Bl\bin\Debug\System.Web.Cors.dll
+Y:\group 1 תשעט\קיסטר דבורה\הפרויקט גמר\אור לכו תמוז\C#IDEAL-דבורהלה\Bl\bin\Debug\System.Web.Http.Cors.dll
+Y:\group 1 תשעט\קיסטר דבורה\הפרויקט גמר\אור לכו תמוז\C#IDEAL-דבורהלה\Bl\bin\Debug\System.Web.Http.dll
+Y:\group 1 תשעט\קיסטר דבורה\הפרויקט גמר\אור לכו תמוז\C#IDEAL-דבורהלה\Bl\bin\Debug\DAL.pdb
+Y:\group 1 תשעט\קיסטר דבורה\הפרויקט גמר\אור לכו תמוז\C#IDEAL-דבורהלה\Bl\bin\Debug\DAL.dll.config
+Y:\group 1 תשעט\קיסטר דבורה\הפרויקט גמר\אור לכו תמוז\C#IDEAL-דבורהלה\Bl\bin\Debug\Entities.pdb
+Y:\group 1 תשעט\קיסטר דבורה\הפרויקט גמר\אור לכו תמוז\C#IDEAL-דבורהלה\Bl\bin\Debug\EntityFramework.xml
+Y:\group 1 תשעט\קיסטר דבורה\הפרויקט גמר\אור לכו תמוז\C#IDEAL-דבורהלה\Bl\bin\Debug\EntityFramework.SqlServer.xml
+Y:\group 1 תשעט\קיסטר דבורה\הפרויקט גמר\אור לכו תמוז\C#IDEAL-דבורהלה\Bl\bin\Debug\Microsoft.AspNet.SignalR.Core.pdb
+Y:\group 1 תשעט\קיסטר דבורה\הפרויקט גמר\אור לכו תמוז\C#IDEAL-דבורהלה\Bl\bin\Debug\Microsoft.AspNet.SignalR.Core.xml
+Y:\group 1 תשעט\קיסטר דבורה\הפרויקט גמר\אור לכו תמוז\C#IDEAL-דבורהלה\Bl\bin\Debug\Microsoft.AspNet.SignalR.SystemWeb.pdb
+Y:\group 1 תשעט\קיסטר דבורה\הפרויקט גמר\אור לכו תמוז\C#IDEAL-דבורהלה\Bl\bin\Debug\Microsoft.AspNet.SignalR.SystemWeb.xml
+Y:\group 1 תשעט\קיסטר דבורה\הפרויקט גמר\אור לכו תמוז\C#IDEAL-דבורהלה\Bl\bin\Debug\Microsoft.Owin.xml
+Y:\group 1 תשעט\קיסטר דבורה\הפרויקט גמר\אור לכו תמוז\C#IDEAL-דבורהלה\Bl\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+Y:\group 1 תשעט\קיסטר דבורה\הפרויקט גמר\אור לכו תמוז\C#IDEAL-דבורהלה\Bl\bin\Debug\Microsoft.Owin.Security.xml
+Y:\group 1 תשעט\קיסטר דבורה\הפרויקט גמר\אור לכו תמוז\C#IDEAL-דבורהלה\Bl\bin\Debug\Newtonsoft.Json.xml
+Y:\group 1 תשעט\קיסטר דבורה\הפרויקט גמר\אור לכו תמוז\C#IDEAL-דבורהלה\Bl\bin\Debug\System.Net.Http.Formatting.xml
+Y:\group 1 תשעט\קיסטר דבורה\הפרויקט גמר\אור לכו תמוז\C#IDEAL-דבורהלה\Bl\bin\Debug\System.Web.Http.xml
+Y:\group 1 תשעט\קיסטר דבורה\הפרויקט גמר\אור לכו תמוז\C#IDEAL-דבורהלה\Bl\bin\Debug\System.Web.Http.Cors.xml
+Y:\group 1 תשעט\קיסטר דבורה\הפרויקט גמר\אור לכו תמוז\C#IDEAL-דבורהלה\Bl\obj\Debug\Bl.csprojAssemblyReference.cache
+Y:\group 1 תשעט\קיסטר דבורה\הפרויקט גמר\אור לכו תמוז\C#IDEAL-דבורהלה\Bl\obj\Debug\Bl.csproj.CoreCompileInputs.cache
+Y:\group 1 תשעט\קיסטר דבורה\הפרויקט גמר\אור לכו תמוז\C#IDEAL-דבורהלה\Bl\obj\Debug\Bl.csproj.CopyComplete
+Y:\group 1 תשעט\קיסטר דבורה\הפרויקט גמר\אור לכו תמוז\C#IDEAL-דבורהלה\Bl\obj\Debug\Bl.dll
+Y:\group 1 תשעט\קיסטר דבורה\הפרויקט גמר\אור לכו תמוז\C#IDEAL-דבורהלה\Bl\obj\Debug\Bl.pdb
+D:\C#IDEAL-דבורהלה\Bl\bin\Debug\Bl.dll.config
+D:\C#IDEAL-דבורהלה\Bl\bin\Debug\Bl.dll
+D:\C#IDEAL-דבורהלה\Bl\bin\Debug\Bl.pdb
+D:\C#IDEAL-דבורהלה\Bl\bin\Debug\DAL.dll
+D:\C#IDEAL-דבורהלה\Bl\bin\Debug\Entities.dll
+D:\C#IDEAL-דבורהלה\Bl\bin\Debug\EntityFramework.dll
+D:\C#IDEAL-דבורהלה\Bl\bin\Debug\EntityFramework.SqlServer.dll
+D:\C#IDEAL-דבורהלה\Bl\bin\Debug\Microsoft.AspNet.SignalR.Core.dll
+D:\C#IDEAL-דבורהלה\Bl\bin\Debug\Microsoft.AspNet.SignalR.SystemWeb.dll
+D:\C#IDEAL-דבורהלה\Bl\bin\Debug\Microsoft.Owin.dll
+D:\C#IDEAL-דבורהלה\Bl\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+D:\C#IDEAL-דבורהלה\Bl\bin\Debug\Microsoft.Owin.Security.dll
+D:\C#IDEAL-דבורהלה\Bl\bin\Debug\Newtonsoft.Json.dll
+D:\C#IDEAL-דבורהלה\Bl\bin\Debug\Owin.dll
+D:\C#IDEAL-דבורהלה\Bl\bin\Debug\System.Net.Http.Formatting.dll
+D:\C#IDEAL-דבורהלה\Bl\bin\Debug\System.Web.Cors.dll
+D:\C#IDEAL-דבורהלה\Bl\bin\Debug\System.Web.Http.Cors.dll
+D:\C#IDEAL-דבורהלה\Bl\bin\Debug\System.Web.Http.dll
+D:\C#IDEAL-דבורהלה\Bl\bin\Debug\DAL.pdb
+D:\C#IDEAL-דבורהלה\Bl\bin\Debug\DAL.dll.config
+D:\C#IDEAL-דבורהלה\Bl\bin\Debug\Entities.pdb
+D:\C#IDEAL-דבורהלה\Bl\bin\Debug\EntityFramework.xml
+D:\C#IDEAL-דבורהלה\Bl\bin\Debug\EntityFramework.SqlServer.xml
+D:\C#IDEAL-דבורהלה\Bl\bin\Debug\Microsoft.AspNet.SignalR.Core.pdb
+D:\C#IDEAL-דבורהלה\Bl\bin\Debug\Microsoft.AspNet.SignalR.Core.xml
+D:\C#IDEAL-דבורהלה\Bl\bin\Debug\Microsoft.AspNet.SignalR.SystemWeb.pdb
+D:\C#IDEAL-דבורהלה\Bl\bin\Debug\Microsoft.AspNet.SignalR.SystemWeb.xml
+D:\C#IDEAL-דבורהלה\Bl\bin\Debug\Microsoft.Owin.xml
+D:\C#IDEAL-דבורהלה\Bl\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+D:\C#IDEAL-דבורהלה\Bl\bin\Debug\Microsoft.Owin.Security.xml
+D:\C#IDEAL-דבורהלה\Bl\bin\Debug\Newtonsoft.Json.xml
+D:\C#IDEAL-דבורהלה\Bl\bin\Debug\System.Net.Http.Formatting.xml
+D:\C#IDEAL-דבורהלה\Bl\bin\Debug\System.Web.Http.xml
+D:\C#IDEAL-דבורהלה\Bl\bin\Debug\System.Web.Http.Cors.xml
+D:\C#IDEAL-דבורהלה\Bl\obj\Debug\Bl.csprojAssemblyReference.cache
+D:\C#IDEAL-דבורהלה\Bl\obj\Debug\Bl.csproj.CoreCompileInputs.cache
+D:\C#IDEAL-דבורהלה\Bl\obj\Debug\Bl.csproj.CopyComplete
+D:\C#IDEAL-דבורהלה\Bl\obj\Debug\Bl.dll
+D:\C#IDEAL-דבורהלה\Bl\obj\Debug\Bl.pdb
+Y:\group 1 תשעט\קיסטר דבורה\הפרויקט גמר\דינה כז תמוז\Bl\bin\Debug\Bl.dll.config
+Y:\group 1 תשעט\קיסטר דבורה\הפרויקט גמר\דינה כז תמוז\Bl\bin\Debug\Bl.dll
+Y:\group 1 תשעט\קיסטר דבורה\הפרויקט גמר\דינה כז תמוז\Bl\bin\Debug\Bl.pdb
+Y:\group 1 תשעט\קיסטר דבורה\הפרויקט גמר\דינה כז תמוז\Bl\bin\Debug\DAL.dll
+Y:\group 1 תשעט\קיסטר דבורה\הפרויקט גמר\דינה כז תמוז\Bl\bin\Debug\Entities.dll
+Y:\group 1 תשעט\קיסטר דבורה\הפרויקט גמר\דינה כז תמוז\Bl\bin\Debug\EntityFramework.dll
+Y:\group 1 תשעט\קיסטר דבורה\הפרויקט גמר\דינה כז תמוז\Bl\bin\Debug\EntityFramework.SqlServer.dll
+Y:\group 1 תשעט\קיסטר דבורה\הפרויקט גמר\דינה כז תמוז\Bl\bin\Debug\Microsoft.AspNet.SignalR.Core.dll
+Y:\group 1 תשעט\קיסטר דבורה\הפרויקט גמר\דינה כז תמוז\Bl\bin\Debug\Microsoft.AspNet.SignalR.SystemWeb.dll
+Y:\group 1 תשעט\קיסטר דבורה\הפרויקט גמר\דינה כז תמוז\Bl\bin\Debug\Microsoft.Owin.dll
+Y:\group 1 תשעט\קיסטר דבורה\הפרויקט גמר\דינה כז תמוז\Bl\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+Y:\group 1 תשעט\קיסטר דבורה\הפרויקט גמר\דינה כז תמוז\Bl\bin\Debug\Microsoft.Owin.Security.dll
+Y:\group 1 תשעט\קיסטר דבורה\הפרויקט גמר\דינה כז תמוז\Bl\bin\Debug\Newtonsoft.Json.dll
+Y:\group 1 תשעט\קיסטר דבורה\הפרויקט גמר\דינה כז תמוז\Bl\bin\Debug\Owin.dll
+Y:\group 1 תשעט\קיסטר דבורה\הפרויקט גמר\דינה כז תמוז\Bl\bin\Debug\System.Net.Http.Formatting.dll
+Y:\group 1 תשעט\קיסטר דבורה\הפרויקט גמר\דינה כז תמוז\Bl\bin\Debug\System.Web.Cors.dll
+Y:\group 1 תשעט\קיסטר דבורה\הפרויקט גמר\דינה כז תמוז\Bl\bin\Debug\System.Web.Http.Cors.dll
+Y:\group 1 תשעט\קיסטר דבורה\הפרויקט גמר\דינה כז תמוז\Bl\bin\Debug\System.Web.Http.dll
+Y:\group 1 תשעט\קיסטר דבורה\הפרויקט גמר\דינה כז תמוז\Bl\bin\Debug\DAL.pdb
+Y:\group 1 תשעט\קיסטר דבורה\הפרויקט גמר\דינה כז תמוז\Bl\bin\Debug\DAL.dll.config
+Y:\group 1 תשעט\קיסטר דבורה\הפרויקט גמר\דינה כז תמוז\Bl\bin\Debug\Entities.pdb
+Y:\group 1 תשעט\קיסטר דבורה\הפרויקט גמר\דינה כז תמוז\Bl\bin\Debug\EntityFramework.xml
+Y:\group 1 תשעט\קיסטר דבורה\הפרויקט גמר\דינה כז תמוז\Bl\bin\Debug\EntityFramework.SqlServer.xml
+Y:\group 1 תשעט\קיסטר דבורה\הפרויקט גמר\דינה כז תמוז\Bl\bin\Debug\Microsoft.AspNet.SignalR.Core.pdb
+Y:\group 1 תשעט\קיסטר דבורה\הפרויקט גמר\דינה כז תמוז\Bl\bin\Debug\Microsoft.AspNet.SignalR.Core.xml
+Y:\group 1 תשעט\קיסטר דבורה\הפרויקט גמר\דינה כז תמוז\Bl\bin\Debug\Microsoft.AspNet.SignalR.SystemWeb.pdb
+Y:\group 1 תשעט\קיסטר דבורה\הפרויקט גמר\דינה כז תמוז\Bl\bin\Debug\Microsoft.AspNet.SignalR.SystemWeb.xml
+Y:\group 1 תשעט\קיסטר דבורה\הפרויקט גמר\דינה כז תמוז\Bl\bin\Debug\Microsoft.Owin.xml
+Y:\group 1 תשעט\קיסטר דבורה\הפרויקט גמר\דינה כז תמוז\Bl\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+Y:\group 1 תשעט\קיסטר דבורה\הפרויקט גמר\דינה כז תמוז\Bl\bin\Debug\Microsoft.Owin.Security.xml
+Y:\group 1 תשעט\קיסטר דבורה\הפרויקט גמר\דינה כז תמוז\Bl\bin\Debug\Newtonsoft.Json.xml
+Y:\group 1 תשעט\קיסטר דבורה\הפרויקט גמר\דינה כז תמוז\Bl\bin\Debug\System.Net.Http.Formatting.xml
+Y:\group 1 תשעט\קיסטר דבורה\הפרויקט גמר\דינה כז תמוז\Bl\bin\Debug\System.Web.Http.xml
+Y:\group 1 תשעט\קיסטר דבורה\הפרויקט גמר\דינה כז תמוז\Bl\bin\Debug\System.Web.Http.Cors.xml
+Y:\group 1 תשעט\קיסטר דבורה\הפרויקט גמר\דינה כז תמוז\Bl\obj\Debug\Bl.csprojAssemblyReference.cache
+Y:\group 1 תשעט\קיסטר דבורה\הפרויקט גמר\דינה כז תמוז\Bl\obj\Debug\Bl.csproj.CoreCompileInputs.cache
+Y:\group 1 תשעט\קיסטר דבורה\הפרויקט גמר\דינה כז תמוז\Bl\obj\Debug\Bl.csproj.CopyComplete
+Y:\group 1 תשעט\קיסטר דבורה\הפרויקט גמר\דינה כז תמוז\Bl\obj\Debug\Bl.dll
+Y:\group 1 תשעט\קיסטר דבורה\הפרויקט גמר\דינה כז תמוז\Bl\obj\Debug\Bl.pdb
+D:\דינה כז תמוז\Bl\bin\Debug\Bl.dll.config
+D:\דינה כז תמוז\Bl\bin\Debug\Bl.dll
+D:\דינה כז תמוז\Bl\bin\Debug\Bl.pdb
+D:\דינה כז תמוז\Bl\bin\Debug\DAL.dll
+D:\דינה כז תמוז\Bl\bin\Debug\Entities.dll
+D:\דינה כז תמוז\Bl\bin\Debug\EntityFramework.dll
+D:\דינה כז תמוז\Bl\bin\Debug\EntityFramework.SqlServer.dll
+D:\דינה כז תמוז\Bl\bin\Debug\Microsoft.AspNet.SignalR.Core.dll
+D:\דינה כז תמוז\Bl\bin\Debug\Microsoft.AspNet.SignalR.SystemWeb.dll
+D:\דינה כז תמוז\Bl\bin\Debug\Microsoft.Owin.dll
+D:\דינה כז תמוז\Bl\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+D:\דינה כז תמוז\Bl\bin\Debug\Microsoft.Owin.Security.dll
+D:\דינה כז תמוז\Bl\bin\Debug\Newtonsoft.Json.dll
+D:\דינה כז תמוז\Bl\bin\Debug\Owin.dll
+D:\דינה כז תמוז\Bl\bin\Debug\System.Net.Http.Formatting.dll
+D:\דינה כז תמוז\Bl\bin\Debug\System.Web.Cors.dll
+D:\דינה כז תמוז\Bl\bin\Debug\System.Web.Http.Cors.dll
+D:\דינה כז תמוז\Bl\bin\Debug\System.Web.Http.dll
+D:\דינה כז תמוז\Bl\bin\Debug\DAL.pdb
+D:\דינה כז תמוז\Bl\bin\Debug\DAL.dll.config
+D:\דינה כז תמוז\Bl\bin\Debug\Entities.pdb
+D:\דינה כז תמוז\Bl\bin\Debug\EntityFramework.xml
+D:\דינה כז תמוז\Bl\bin\Debug\EntityFramework.SqlServer.xml
+D:\דינה כז תמוז\Bl\bin\Debug\Microsoft.AspNet.SignalR.Core.pdb
+D:\דינה כז תמוז\Bl\bin\Debug\Microsoft.AspNet.SignalR.Core.xml
+D:\דינה כז תמוז\Bl\bin\Debug\Microsoft.AspNet.SignalR.SystemWeb.pdb
+D:\דינה כז תמוז\Bl\bin\Debug\Microsoft.AspNet.SignalR.SystemWeb.xml
+D:\דינה כז תמוז\Bl\bin\Debug\Microsoft.Owin.xml
+D:\דינה כז תמוז\Bl\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+D:\דינה כז תמוז\Bl\bin\Debug\Microsoft.Owin.Security.xml
+D:\דינה כז תמוז\Bl\bin\Debug\Newtonsoft.Json.xml
+D:\דינה כז תמוז\Bl\bin\Debug\System.Net.Http.Formatting.xml
+D:\דינה כז תמוז\Bl\bin\Debug\System.Web.Http.xml
+D:\דינה כז תמוז\Bl\bin\Debug\System.Web.Http.Cors.xml
+D:\דינה כז תמוז\Bl\obj\Debug\Bl.csprojAssemblyReference.cache
+D:\דינה כז תמוז\Bl\obj\Debug\Bl.csproj.CoreCompileInputs.cache
+D:\דינה כז תמוז\Bl\obj\Debug\Bl.csproj.CopyComplete
+D:\דינה כז תמוז\Bl\obj\Debug\Bl.dll
+D:\דינה כז תמוז\Bl\obj\Debug\Bl.pdb
+D:\אבבבבבבבבבבבבב\דינה כז תמוז\Bl\bin\Debug\Bl.dll.config
+D:\אבבבבבבבבבבבבב\דינה כז תמוז\Bl\bin\Debug\Bl.dll
+D:\אבבבבבבבבבבבבב\דינה כז תמוז\Bl\bin\Debug\Bl.pdb
+D:\אבבבבבבבבבבבבב\דינה כז תמוז\Bl\bin\Debug\DAL.dll
+D:\אבבבבבבבבבבבבב\דינה כז תמוז\Bl\bin\Debug\Entities.dll
+D:\אבבבבבבבבבבבבב\דינה כז תמוז\Bl\bin\Debug\EntityFramework.dll
+D:\אבבבבבבבבבבבבב\דינה כז תמוז\Bl\bin\Debug\EntityFramework.SqlServer.dll
+D:\אבבבבבבבבבבבבב\דינה כז תמוז\Bl\bin\Debug\Microsoft.AspNet.SignalR.Core.dll
+D:\אבבבבבבבבבבבבב\דינה כז תמוז\Bl\bin\Debug\Microsoft.AspNet.SignalR.SystemWeb.dll
+D:\אבבבבבבבבבבבבב\דינה כז תמוז\Bl\bin\Debug\Microsoft.Owin.dll
+D:\אבבבבבבבבבבבבב\דינה כז תמוז\Bl\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+D:\אבבבבבבבבבבבבב\דינה כז תמוז\Bl\bin\Debug\Microsoft.Owin.Security.dll
+D:\אבבבבבבבבבבבבב\דינה כז תמוז\Bl\bin\Debug\Newtonsoft.Json.dll
+D:\אבבבבבבבבבבבבב\דינה כז תמוז\Bl\bin\Debug\Owin.dll
+D:\אבבבבבבבבבבבבב\דינה כז תמוז\Bl\bin\Debug\System.Net.Http.Formatting.dll
+D:\אבבבבבבבבבבבבב\דינה כז תמוז\Bl\bin\Debug\System.Web.Cors.dll
+D:\אבבבבבבבבבבבבב\דינה כז תמוז\Bl\bin\Debug\System.Web.Http.Cors.dll
+D:\אבבבבבבבבבבבבב\דינה כז תמוז\Bl\bin\Debug\System.Web.Http.dll
+D:\אבבבבבבבבבבבבב\דינה כז תמוז\Bl\bin\Debug\DAL.pdb
+D:\אבבבבבבבבבבבבב\דינה כז תמוז\Bl\bin\Debug\DAL.dll.config
+D:\אבבבבבבבבבבבבב\דינה כז תמוז\Bl\bin\Debug\Entities.pdb
+D:\אבבבבבבבבבבבבב\דינה כז תמוז\Bl\bin\Debug\EntityFramework.xml
+D:\אבבבבבבבבבבבבב\דינה כז תמוז\Bl\bin\Debug\EntityFramework.SqlServer.xml
+D:\אבבבבבבבבבבבבב\דינה כז תמוז\Bl\bin\Debug\Microsoft.AspNet.SignalR.Core.pdb
+D:\אבבבבבבבבבבבבב\דינה כז תמוז\Bl\bin\Debug\Microsoft.AspNet.SignalR.Core.xml
+D:\אבבבבבבבבבבבבב\דינה כז תמוז\Bl\bin\Debug\Microsoft.AspNet.SignalR.SystemWeb.pdb
+D:\אבבבבבבבבבבבבב\דינה כז תמוז\Bl\bin\Debug\Microsoft.AspNet.SignalR.SystemWeb.xml
+D:\אבבבבבבבבבבבבב\דינה כז תמוז\Bl\bin\Debug\Microsoft.Owin.xml
+D:\אבבבבבבבבבבבבב\דינה כז תמוז\Bl\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+D:\אבבבבבבבבבבבבב\דינה כז תמוז\Bl\bin\Debug\Microsoft.Owin.Security.xml
+D:\אבבבבבבבבבבבבב\דינה כז תמוז\Bl\bin\Debug\Newtonsoft.Json.xml
+D:\אבבבבבבבבבבבבב\דינה כז תמוז\Bl\bin\Debug\System.Net.Http.Formatting.xml
+D:\אבבבבבבבבבבבבב\דינה כז תמוז\Bl\bin\Debug\System.Web.Http.xml
+D:\אבבבבבבבבבבבבב\דינה כז תמוז\Bl\bin\Debug\System.Web.Http.Cors.xml
+D:\אבבבבבבבבבבבבב\דינה כז תמוז\Bl\obj\Debug\Bl.csprojAssemblyReference.cache
+D:\אבבבבבבבבבבבבב\דינה כז תמוז\Bl\obj\Debug\Bl.csproj.CoreCompileInputs.cache
+D:\אבבבבבבבבבבבבב\דינה כז תמוז\Bl\obj\Debug\Bl.csproj.CopyComplete
+D:\אבבבבבבבבבבבבב\דינה כז תמוז\Bl\obj\Debug\Bl.dll
+D:\אבבבבבבבבבבבבב\דינה כז תמוז\Bl\obj\Debug\Bl.pdb
+Y:\group 1 תשעט\קיסטר דבורה\הפרויקט גמר\ג אב דבורה\דינה כז תמוז\Bl\bin\Debug\Bl.dll.config
+Y:\group 1 תשעט\קיסטר דבורה\הפרויקט גמר\ג אב דבורה\דינה כז תמוז\Bl\bin\Debug\Bl.dll
+Y:\group 1 תשעט\קיסטר דבורה\הפרויקט גמר\ג אב דבורה\דינה כז תמוז\Bl\bin\Debug\Bl.pdb
+Y:\group 1 תשעט\קיסטר דבורה\הפרויקט גמר\ג אב דבורה\דינה כז תמוז\Bl\bin\Debug\DAL.dll
+Y:\group 1 תשעט\קיסטר דבורה\הפרויקט גמר\ג אב דבורה\דינה כז תמוז\Bl\bin\Debug\Entities.dll
+Y:\group 1 תשעט\קיסטר דבורה\הפרויקט גמר\ג אב דבורה\דינה כז תמוז\Bl\bin\Debug\EntityFramework.dll
+Y:\group 1 תשעט\קיסטר דבורה\הפרויקט גמר\ג אב דבורה\דינה כז תמוז\Bl\bin\Debug\EntityFramework.SqlServer.dll
+Y:\group 1 תשעט\קיסטר דבורה\הפרויקט גמר\ג אב דבורה\דינה כז תמוז\Bl\bin\Debug\Microsoft.AspNet.SignalR.Core.dll
+Y:\group 1 תשעט\קיסטר דבורה\הפרויקט גמר\ג אב דבורה\דינה כז תמוז\Bl\bin\Debug\Microsoft.AspNet.SignalR.SystemWeb.dll
+Y:\group 1 תשעט\קיסטר דבורה\הפרויקט גמר\ג אב דבורה\דינה כז תמוז\Bl\bin\Debug\Microsoft.Owin.dll
+Y:\group 1 תשעט\קיסטר דבורה\הפרויקט גמר\ג אב דבורה\דינה כז תמוז\Bl\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+Y:\group 1 תשעט\קיסטר דבורה\הפרויקט גמר\ג אב דבורה\דינה כז תמוז\Bl\bin\Debug\Microsoft.Owin.Security.dll
+Y:\group 1 תשעט\קיסטר דבורה\הפרויקט גמר\ג אב דבורה\דינה כז תמוז\Bl\bin\Debug\Newtonsoft.Json.dll
+Y:\group 1 תשעט\קיסטר דבורה\הפרויקט גמר\ג אב דבורה\דינה כז תמוז\Bl\bin\Debug\Owin.dll
+Y:\group 1 תשעט\קיסטר דבורה\הפרויקט גמר\ג אב דבורה\דינה כז תמוז\Bl\bin\Debug\System.Net.Http.Formatting.dll
+Y:\group 1 תשעט\קיסטר דבורה\הפרויקט גמר\ג אב דבורה\דינה כז תמוז\Bl\bin\Debug\System.Web.Cors.dll
+Y:\group 1 תשעט\קיסטר דבורה\הפרויקט גמר\ג אב דבורה\דינה כז תמוז\Bl\bin\Debug\System.Web.Http.Cors.dll
+Y:\group 1 תשעט\קיסטר דבורה\הפרויקט גמר\ג אב דבורה\דינה כז תמוז\Bl\bin\Debug\System.Web.Http.dll
+Y:\group 1 תשעט\קיסטר דבורה\הפרויקט גמר\ג אב דבורה\דינה כז תמוז\Bl\bin\Debug\DAL.pdb
+Y:\group 1 תשעט\קיסטר דבורה\הפרויקט גמר\ג אב דבורה\דינה כז תמוז\Bl\bin\Debug\DAL.dll.config
+Y:\group 1 תשעט\קיסטר דבורה\הפרויקט גמר\ג אב דבורה\דינה כז תמוז\Bl\bin\Debug\Entities.pdb
+Y:\group 1 תשעט\קיסטר דבורה\הפרויקט גמר\ג אב דבורה\דינה כז תמוז\Bl\bin\Debug\EntityFramework.xml
+Y:\group 1 תשעט\קיסטר דבורה\הפרויקט גמר\ג אב דבורה\דינה כז תמוז\Bl\bin\Debug\EntityFramework.SqlServer.xml
+Y:\group 1 תשעט\קיסטר דבורה\הפרויקט גמר\ג אב דבורה\דינה כז תמוז\Bl\bin\Debug\Microsoft.AspNet.SignalR.Core.pdb
+Y:\group 1 תשעט\קיסטר דבורה\הפרויקט גמר\ג אב דבורה\דינה כז תמוז\Bl\bin\Debug\Microsoft.AspNet.SignalR.Core.xml
+Y:\group 1 תשעט\קיסטר דבורה\הפרויקט גמר\ג אב דבורה\דינה כז תמוז\Bl\bin\Debug\Microsoft.AspNet.SignalR.SystemWeb.pdb
+Y:\group 1 תשעט\קיסטר דבורה\הפרויקט גמר\ג אב דבורה\דינה כז תמוז\Bl\bin\Debug\Microsoft.AspNet.SignalR.SystemWeb.xml
+Y:\group 1 תשעט\קיסטר דבורה\הפרויקט גמר\ג אב דבורה\דינה כז תמוז\Bl\bin\Debug\Microsoft.Owin.xml
+Y:\group 1 תשעט\קיסטר דבורה\הפרויקט גמר\ג אב דבורה\דינה כז תמוז\Bl\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+Y:\group 1 תשעט\קיסטר דבורה\הפרויקט גמר\ג אב דבורה\דינה כז תמוז\Bl\bin\Debug\Microsoft.Owin.Security.xml
+Y:\group 1 תשעט\קיסטר דבורה\הפרויקט גמר\ג אב דבורה\דינה כז תמוז\Bl\bin\Debug\Newtonsoft.Json.xml
+Y:\group 1 תשעט\קיסטר דבורה\הפרויקט גמר\ג אב דבורה\דינה כז תמוז\Bl\bin\Debug\System.Net.Http.Formatting.xml
+Y:\group 1 תשעט\קיסטר דבורה\הפרויקט גמר\ג אב דבורה\דינה כז תמוז\Bl\bin\Debug\System.Web.Http.xml
+Y:\group 1 תשעט\קיסטר דבורה\הפרויקט גמר\ג אב דבורה\דינה כז תמוז\Bl\bin\Debug\System.Web.Http.Cors.xml
+Y:\group 1 תשעט\קיסטר דבורה\הפרויקט גמר\ג אב דבורה\דינה כז תמוז\Bl\obj\Debug\Bl.csprojAssemblyReference.cache
+Y:\group 1 תשעט\קיסטר דבורה\הפרויקט גמר\ג אב דבורה\דינה כז תמוז\Bl\obj\Debug\Bl.csproj.CoreCompileInputs.cache
+Y:\group 1 תשעט\קיסטר דבורה\הפרויקט גמר\ג אב דבורה\דינה כז תמוז\Bl\obj\Debug\Bl.csproj.CopyComplete
+Y:\group 1 תשעט\קיסטר דבורה\הפרויקט גמר\ג אב דבורה\דינה כז תמוז\Bl\obj\Debug\Bl.dll
+Y:\group 1 תשעט\קיסטר דבורה\הפרויקט גמר\ג אב דבורה\דינה כז תמוז\Bl\obj\Debug\Bl.pdb
+D:\ה אב מעודכן אידיאל\IdealC#\Bl\bin\Debug\Bl.dll.config
+D:\ה אב מעודכן אידיאל\IdealC#\Bl\bin\Debug\Bl.dll
+D:\ה אב מעודכן אידיאל\IdealC#\Bl\bin\Debug\Bl.pdb
+D:\ה אב מעודכן אידיאל\IdealC#\Bl\bin\Debug\DAL.dll
+D:\ה אב מעודכן אידיאל\IdealC#\Bl\bin\Debug\Entities.dll
+D:\ה אב מעודכן אידיאל\IdealC#\Bl\bin\Debug\EntityFramework.dll
+D:\ה אב מעודכן אידיאל\IdealC#\Bl\bin\Debug\EntityFramework.SqlServer.dll
+D:\ה אב מעודכן אידיאל\IdealC#\Bl\bin\Debug\Microsoft.AspNet.SignalR.Core.dll
+D:\ה אב מעודכן אידיאל\IdealC#\Bl\bin\Debug\Microsoft.AspNet.SignalR.SystemWeb.dll
+D:\ה אב מעודכן אידיאל\IdealC#\Bl\bin\Debug\Microsoft.Owin.dll
+D:\ה אב מעודכן אידיאל\IdealC#\Bl\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+D:\ה אב מעודכן אידיאל\IdealC#\Bl\bin\Debug\Microsoft.Owin.Security.dll
+D:\ה אב מעודכן אידיאל\IdealC#\Bl\bin\Debug\Newtonsoft.Json.dll
+D:\ה אב מעודכן אידיאל\IdealC#\Bl\bin\Debug\Owin.dll
+D:\ה אב מעודכן אידיאל\IdealC#\Bl\bin\Debug\System.Net.Http.Formatting.dll
+D:\ה אב מעודכן אידיאל\IdealC#\Bl\bin\Debug\System.Web.Cors.dll
+D:\ה אב מעודכן אידיאל\IdealC#\Bl\bin\Debug\System.Web.Http.Cors.dll
+D:\ה אב מעודכן אידיאל\IdealC#\Bl\bin\Debug\System.Web.Http.dll
+D:\ה אב מעודכן אידיאל\IdealC#\Bl\bin\Debug\DAL.pdb
+D:\ה אב מעודכן אידיאל\IdealC#\Bl\bin\Debug\DAL.dll.config
+D:\ה אב מעודכן אידיאל\IdealC#\Bl\bin\Debug\Entities.pdb
+D:\ה אב מעודכן אידיאל\IdealC#\Bl\bin\Debug\EntityFramework.xml
+D:\ה אב מעודכן אידיאל\IdealC#\Bl\bin\Debug\EntityFramework.SqlServer.xml
+D:\ה אב מעודכן אידיאל\IdealC#\Bl\bin\Debug\Microsoft.AspNet.SignalR.Core.pdb
+D:\ה אב מעודכן אידיאל\IdealC#\Bl\bin\Debug\Microsoft.AspNet.SignalR.Core.xml
+D:\ה אב מעודכן אידיאל\IdealC#\Bl\bin\Debug\Microsoft.AspNet.SignalR.SystemWeb.pdb
+D:\ה אב מעודכן אידיאל\IdealC#\Bl\bin\Debug\Microsoft.AspNet.SignalR.SystemWeb.xml
+D:\ה אב מעודכן אידיאל\IdealC#\Bl\bin\Debug\Microsoft.Owin.xml
+D:\ה אב מעודכן אידיאל\IdealC#\Bl\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+D:\ה אב מעודכן אידיאל\IdealC#\Bl\bin\Debug\Microsoft.Owin.Security.xml
+D:\ה אב מעודכן אידיאל\IdealC#\Bl\bin\Debug\Newtonsoft.Json.xml
+D:\ה אב מעודכן אידיאל\IdealC#\Bl\bin\Debug\System.Net.Http.Formatting.xml
+D:\ה אב מעודכן אידיאל\IdealC#\Bl\bin\Debug\System.Web.Http.xml
+D:\ה אב מעודכן אידיאל\IdealC#\Bl\bin\Debug\System.Web.Http.Cors.xml
+D:\ה אב מעודכן אידיאל\IdealC#\Bl\obj\Debug\Bl.csprojAssemblyReference.cache
+D:\ה אב מעודכן אידיאל\IdealC#\Bl\obj\Debug\Bl.csproj.CoreCompileInputs.cache
+D:\ה אב מעודכן אידיאל\IdealC#\Bl\obj\Debug\Bl.csproj.CopyComplete
+D:\ה אב מעודכן אידיאל\IdealC#\Bl\obj\Debug\Bl.dll
+D:\ה אב מעודכן אידיאל\IdealC#\Bl\obj\Debug\Bl.pdb
+D:\אור לו אב דבורה\IdealC#\Bl\bin\Debug\Bl.dll.config
+D:\אור לו אב דבורה\IdealC#\Bl\bin\Debug\Bl.dll
+D:\אור לו אב דבורה\IdealC#\Bl\bin\Debug\Bl.pdb
+D:\אור לו אב דבורה\IdealC#\Bl\bin\Debug\DAL.dll
+D:\אור לו אב דבורה\IdealC#\Bl\bin\Debug\Entities.dll
+D:\אור לו אב דבורה\IdealC#\Bl\bin\Debug\EntityFramework.dll
+D:\אור לו אב דבורה\IdealC#\Bl\bin\Debug\EntityFramework.SqlServer.dll
+D:\אור לו אב דבורה\IdealC#\Bl\bin\Debug\Microsoft.AspNet.SignalR.Core.dll
+D:\אור לו אב דבורה\IdealC#\Bl\bin\Debug\Microsoft.AspNet.SignalR.SystemWeb.dll
+D:\אור לו אב דבורה\IdealC#\Bl\bin\Debug\Microsoft.Owin.dll
+D:\אור לו אב דבורה\IdealC#\Bl\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+D:\אור לו אב דבורה\IdealC#\Bl\bin\Debug\Microsoft.Owin.Security.dll
+D:\אור לו אב דבורה\IdealC#\Bl\bin\Debug\Newtonsoft.Json.dll
+D:\אור לו אב דבורה\IdealC#\Bl\bin\Debug\Owin.dll
+D:\אור לו אב דבורה\IdealC#\Bl\bin\Debug\System.Net.Http.Formatting.dll
+D:\אור לו אב דבורה\IdealC#\Bl\bin\Debug\System.Web.Cors.dll
+D:\אור לו אב דבורה\IdealC#\Bl\bin\Debug\System.Web.Http.Cors.dll
+D:\אור לו אב דבורה\IdealC#\Bl\bin\Debug\System.Web.Http.dll
+D:\אור לו אב דבורה\IdealC#\Bl\bin\Debug\DAL.pdb
+D:\אור לו אב דבורה\IdealC#\Bl\bin\Debug\DAL.dll.config
+D:\אור לו אב דבורה\IdealC#\Bl\bin\Debug\Entities.pdb
+D:\אור לו אב דבורה\IdealC#\Bl\bin\Debug\EntityFramework.xml
+D:\אור לו אב דבורה\IdealC#\Bl\bin\Debug\EntityFramework.SqlServer.xml
+D:\אור לו אב דבורה\IdealC#\Bl\bin\Debug\Microsoft.AspNet.SignalR.Core.pdb
+D:\אור לו אב דבורה\IdealC#\Bl\bin\Debug\Microsoft.AspNet.SignalR.Core.xml
+D:\אור לו אב דבורה\IdealC#\Bl\bin\Debug\Microsoft.AspNet.SignalR.SystemWeb.pdb
+D:\אור לו אב דבורה\IdealC#\Bl\bin\Debug\Microsoft.AspNet.SignalR.SystemWeb.xml
+D:\אור לו אב דבורה\IdealC#\Bl\bin\Debug\Microsoft.Owin.xml
+D:\אור לו אב דבורה\IdealC#\Bl\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+D:\אור לו אב דבורה\IdealC#\Bl\bin\Debug\Microsoft.Owin.Security.xml
+D:\אור לו אב דבורה\IdealC#\Bl\bin\Debug\Newtonsoft.Json.xml
+D:\אור לו אב דבורה\IdealC#\Bl\bin\Debug\System.Net.Http.Formatting.xml
+D:\אור לו אב דבורה\IdealC#\Bl\bin\Debug\System.Web.Http.xml
+D:\אור לו אב דבורה\IdealC#\Bl\bin\Debug\System.Web.Http.Cors.xml
+D:\אור לו אב דבורה\IdealC#\Bl\obj\Debug\Bl.csprojAssemblyReference.cache
+D:\אור לו אב דבורה\IdealC#\Bl\obj\Debug\Bl.csproj.CoreCompileInputs.cache
+D:\אור לו אב דבורה\IdealC#\Bl\obj\Debug\Bl.csproj.CopyComplete
+D:\אור לו אב דבורה\IdealC#\Bl\obj\Debug\Bl.dll
+D:\אור לו אב דבורה\IdealC#\Bl\obj\Debug\Bl.pdb
+C:\Users\i5\Documents\דבורה\אור לו אב דבורה\IdealC#\Bl\bin\Debug\Bl.dll.config
+C:\Users\i5\Documents\דבורה\אור לו אב דבורה\IdealC#\Bl\bin\Debug\Bl.dll
+C:\Users\i5\Documents\דבורה\אור לו אב דבורה\IdealC#\Bl\bin\Debug\Bl.pdb
+C:\Users\i5\Documents\דבורה\אור לו אב דבורה\IdealC#\Bl\bin\Debug\DAL.dll
+C:\Users\i5\Documents\דבורה\אור לו אב דבורה\IdealC#\Bl\bin\Debug\Entities.dll
+C:\Users\i5\Documents\דבורה\אור לו אב דבורה\IdealC#\Bl\bin\Debug\EntityFramework.dll
+C:\Users\i5\Documents\דבורה\אור לו אב דבורה\IdealC#\Bl\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\i5\Documents\דבורה\אור לו אב דבורה\IdealC#\Bl\bin\Debug\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\i5\Documents\דבורה\אור לו אב דבורה\IdealC#\Bl\bin\Debug\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\i5\Documents\דבורה\אור לו אב דבורה\IdealC#\Bl\bin\Debug\Microsoft.Owin.dll
+C:\Users\i5\Documents\דבורה\אור לו אב דבורה\IdealC#\Bl\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\i5\Documents\דבורה\אור לו אב דבורה\IdealC#\Bl\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\i5\Documents\דבורה\אור לו אב דבורה\IdealC#\Bl\bin\Debug\Newtonsoft.Json.dll
+C:\Users\i5\Documents\דבורה\אור לו אב דבורה\IdealC#\Bl\bin\Debug\Owin.dll
+C:\Users\i5\Documents\דבורה\אור לו אב דבורה\IdealC#\Bl\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\i5\Documents\דבורה\אור לו אב דבורה\IdealC#\Bl\bin\Debug\System.Web.Cors.dll
+C:\Users\i5\Documents\דבורה\אור לו אב דבורה\IdealC#\Bl\bin\Debug\System.Web.Http.Cors.dll
+C:\Users\i5\Documents\דבורה\אור לו אב דבורה\IdealC#\Bl\bin\Debug\System.Web.Http.dll
+C:\Users\i5\Documents\דבורה\אור לו אב דבורה\IdealC#\Bl\bin\Debug\DAL.pdb
+C:\Users\i5\Documents\דבורה\אור לו אב דבורה\IdealC#\Bl\bin\Debug\DAL.dll.config
+C:\Users\i5\Documents\דבורה\אור לו אב דבורה\IdealC#\Bl\bin\Debug\Entities.pdb
+C:\Users\i5\Documents\דבורה\אור לו אב דבורה\IdealC#\Bl\bin\Debug\EntityFramework.xml
+C:\Users\i5\Documents\דבורה\אור לו אב דבורה\IdealC#\Bl\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\i5\Documents\דבורה\אור לו אב דבורה\IdealC#\Bl\bin\Debug\Microsoft.AspNet.SignalR.Core.pdb
+C:\Users\i5\Documents\דבורה\אור לו אב דבורה\IdealC#\Bl\bin\Debug\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\i5\Documents\דבורה\אור לו אב דבורה\IdealC#\Bl\bin\Debug\Microsoft.AspNet.SignalR.SystemWeb.pdb
+C:\Users\i5\Documents\דבורה\אור לו אב דבורה\IdealC#\Bl\bin\Debug\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\i5\Documents\דבורה\אור לו אב דבורה\IdealC#\Bl\bin\Debug\Microsoft.Owin.xml
+C:\Users\i5\Documents\דבורה\אור לו אב דבורה\IdealC#\Bl\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\i5\Documents\דבורה\אור לו אב דבורה\IdealC#\Bl\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\i5\Documents\דבורה\אור לו אב דבורה\IdealC#\Bl\bin\Debug\Newtonsoft.Json.xml
+C:\Users\i5\Documents\דבורה\אור לו אב דבורה\IdealC#\Bl\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\i5\Documents\דבורה\אור לו אב דבורה\IdealC#\Bl\bin\Debug\System.Web.Http.xml
+C:\Users\i5\Documents\דבורה\אור לו אב דבורה\IdealC#\Bl\bin\Debug\System.Web.Http.Cors.xml
+C:\Users\i5\Documents\דבורה\אור לו אב דבורה\IdealC#\Bl\obj\Debug\Bl.csprojAssemblyReference.cache
+C:\Users\i5\Documents\דבורה\אור לו אב דבורה\IdealC#\Bl\obj\Debug\Bl.csproj.CoreCompileInputs.cache
+C:\Users\i5\Documents\דבורה\אור לו אב דבורה\IdealC#\Bl\obj\Debug\Bl.csproj.CopyComplete
+C:\Users\i5\Documents\דבורה\אור לו אב דבורה\IdealC#\Bl\obj\Debug\Bl.dll
+C:\Users\i5\Documents\דבורה\אור לו אב דבורה\IdealC#\Bl\obj\Debug\Bl.pdb
+D:\Devora\ideal\IdealC#\Bl\bin\Debug\Bl.dll.config
+D:\Devora\ideal\IdealC#\Bl\bin\Debug\Bl.dll
+D:\Devora\ideal\IdealC#\Bl\bin\Debug\Bl.pdb
+D:\Devora\ideal\IdealC#\Bl\bin\Debug\DAL.dll
+D:\Devora\ideal\IdealC#\Bl\bin\Debug\Entities.dll
+D:\Devora\ideal\IdealC#\Bl\bin\Debug\EntityFramework.dll
+D:\Devora\ideal\IdealC#\Bl\bin\Debug\EntityFramework.SqlServer.dll
+D:\Devora\ideal\IdealC#\Bl\bin\Debug\Microsoft.AspNet.SignalR.Core.dll
+D:\Devora\ideal\IdealC#\Bl\bin\Debug\Microsoft.AspNet.SignalR.SystemWeb.dll
+D:\Devora\ideal\IdealC#\Bl\bin\Debug\Microsoft.Owin.dll
+D:\Devora\ideal\IdealC#\Bl\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+D:\Devora\ideal\IdealC#\Bl\bin\Debug\Microsoft.Owin.Security.dll
+D:\Devora\ideal\IdealC#\Bl\bin\Debug\Newtonsoft.Json.dll
+D:\Devora\ideal\IdealC#\Bl\bin\Debug\Owin.dll
+D:\Devora\ideal\IdealC#\Bl\bin\Debug\System.Net.Http.Formatting.dll
+D:\Devora\ideal\IdealC#\Bl\bin\Debug\System.Web.Cors.dll
+D:\Devora\ideal\IdealC#\Bl\bin\Debug\System.Web.Http.Cors.dll
+D:\Devora\ideal\IdealC#\Bl\bin\Debug\System.Web.Http.dll
+D:\Devora\ideal\IdealC#\Bl\bin\Debug\DAL.pdb
+D:\Devora\ideal\IdealC#\Bl\bin\Debug\DAL.dll.config
+D:\Devora\ideal\IdealC#\Bl\bin\Debug\Entities.pdb
+D:\Devora\ideal\IdealC#\Bl\bin\Debug\EntityFramework.xml
+D:\Devora\ideal\IdealC#\Bl\bin\Debug\EntityFramework.SqlServer.xml
+D:\Devora\ideal\IdealC#\Bl\bin\Debug\Microsoft.AspNet.SignalR.Core.pdb
+D:\Devora\ideal\IdealC#\Bl\bin\Debug\Microsoft.AspNet.SignalR.Core.xml
+D:\Devora\ideal\IdealC#\Bl\bin\Debug\Microsoft.AspNet.SignalR.SystemWeb.pdb
+D:\Devora\ideal\IdealC#\Bl\bin\Debug\Microsoft.AspNet.SignalR.SystemWeb.xml
+D:\Devora\ideal\IdealC#\Bl\bin\Debug\Microsoft.Owin.xml
+D:\Devora\ideal\IdealC#\Bl\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+D:\Devora\ideal\IdealC#\Bl\bin\Debug\Microsoft.Owin.Security.xml
+D:\Devora\ideal\IdealC#\Bl\bin\Debug\Newtonsoft.Json.xml
+D:\Devora\ideal\IdealC#\Bl\bin\Debug\System.Net.Http.Formatting.xml
+D:\Devora\ideal\IdealC#\Bl\bin\Debug\System.Web.Http.xml
+D:\Devora\ideal\IdealC#\Bl\bin\Debug\System.Web.Http.Cors.xml
+D:\Devora\ideal\IdealC#\Bl\obj\Debug\Bl.csprojAssemblyReference.cache
+D:\Devora\ideal\IdealC#\Bl\obj\Debug\Bl.csproj.CoreCompileInputs.cache
+D:\Devora\ideal\IdealC#\Bl\obj\Debug\Bl.csproj.CopyComplete
+D:\Devora\ideal\IdealC#\Bl\obj\Debug\Bl.dll
+D:\Devora\ideal\IdealC#\Bl\obj\Debug\Bl.pdb
+C:\shmura\IdealC#\Bl\bin\Debug\Bl.dll.config
+C:\shmura\IdealC#\Bl\bin\Debug\Bl.dll
+C:\shmura\IdealC#\Bl\bin\Debug\Bl.pdb
+C:\shmura\IdealC#\Bl\bin\Debug\DAL.dll
+C:\shmura\IdealC#\Bl\bin\Debug\Entities.dll
+C:\shmura\IdealC#\Bl\bin\Debug\EntityFramework.dll
+C:\shmura\IdealC#\Bl\bin\Debug\EntityFramework.SqlServer.dll
+C:\shmura\IdealC#\Bl\bin\Debug\Microsoft.AspNet.SignalR.Core.dll
+C:\shmura\IdealC#\Bl\bin\Debug\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\shmura\IdealC#\Bl\bin\Debug\Microsoft.Owin.dll
+C:\shmura\IdealC#\Bl\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+C:\shmura\IdealC#\Bl\bin\Debug\Microsoft.Owin.Security.dll
+C:\shmura\IdealC#\Bl\bin\Debug\Newtonsoft.Json.dll
+C:\shmura\IdealC#\Bl\bin\Debug\Owin.dll
+C:\shmura\IdealC#\Bl\bin\Debug\System.Net.Http.Formatting.dll
+C:\shmura\IdealC#\Bl\bin\Debug\System.Web.Cors.dll
+C:\shmura\IdealC#\Bl\bin\Debug\System.Web.Http.Cors.dll
+C:\shmura\IdealC#\Bl\bin\Debug\System.Web.Http.dll
+C:\shmura\IdealC#\Bl\bin\Debug\DAL.pdb
+C:\shmura\IdealC#\Bl\bin\Debug\DAL.dll.config
+C:\shmura\IdealC#\Bl\bin\Debug\Entities.pdb
+C:\shmura\IdealC#\Bl\bin\Debug\EntityFramework.xml
+C:\shmura\IdealC#\Bl\bin\Debug\EntityFramework.SqlServer.xml
+C:\shmura\IdealC#\Bl\bin\Debug\Microsoft.AspNet.SignalR.Core.pdb
+C:\shmura\IdealC#\Bl\bin\Debug\Microsoft.AspNet.SignalR.Core.xml
+C:\shmura\IdealC#\Bl\bin\Debug\Microsoft.AspNet.SignalR.SystemWeb.pdb
+C:\shmura\IdealC#\Bl\bin\Debug\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\shmura\IdealC#\Bl\bin\Debug\Microsoft.Owin.xml
+C:\shmura\IdealC#\Bl\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+C:\shmura\IdealC#\Bl\bin\Debug\Microsoft.Owin.Security.xml
+C:\shmura\IdealC#\Bl\bin\Debug\Newtonsoft.Json.xml
+C:\shmura\IdealC#\Bl\bin\Debug\System.Net.Http.Formatting.xml
+C:\shmura\IdealC#\Bl\bin\Debug\System.Web.Http.xml
+C:\shmura\IdealC#\Bl\bin\Debug\System.Web.Http.Cors.xml
+C:\shmura\IdealC#\Bl\obj\Debug\Bl.csprojAssemblyReference.cache
+C:\shmura\IdealC#\Bl\obj\Debug\Bl.csproj.CoreCompileInputs.cache
+C:\shmura\IdealC#\Bl\obj\Debug\Bl.csproj.CopyComplete
+C:\shmura\IdealC#\Bl\obj\Debug\Bl.dll
+C:\shmura\IdealC#\Bl\obj\Debug\Bl.pdb
+C:\shmura\IdealC#\Bl\bin\Debug\ExcelLibrary.dll

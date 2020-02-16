@@ -1,0 +1,12 @@
+Y:\group 1 תשעט\קיסטר דבורה\הפרויקט גמר\Idial\DTO\bin\Debug\DTO.dll
+Y:\group 1 תשעט\קיסטר דבורה\הפרויקט גמר\Idial\DTO\bin\Debug\DTO.pdb
+Y:\group 1 תשעט\קיסטר דבורה\הפרויקט גמר\Idial\DTO\obj\Debug\DTO.dll
+Y:\group 1 תשעט\קיסטר דבורה\הפרויקט גמר\Idial\DTO\obj\Debug\DTO.pdb
+Y:\group 1 תשעט\קיסטר דבורה\הפרויקט גמר\Idial\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+Y:\group 1 תשעט\קיסטר דבורה\הפרויקט גמר\Idial\DTO\bin\Debug\DAL.dll
+Y:\group 1 תשעט\קיסטר דבורה\הפרויקט גמר\Idial\DTO\bin\Debug\Entities.dll
+Y:\group 1 תשעט\קיסטר דבורה\הפרויקט גמר\Idial\DTO\bin\Debug\EntityFramework.dll
+Y:\group 1 תשעט\קיסטר דבורה\הפרויקט גמר\Idial\DTO\bin\Debug\DAL.pdb
+Y:\group 1 תשעט\קיסטר דבורה\הפרויקט גמר\Idial\DTO\bin\Debug\DAL.dll.config
+Y:\group 1 תשעט\קיסטר דבורה\הפרויקט גמר\Idial\DTO\bin\Debug\Entities.pdb
+Y:\group 1 תשעט\קיסטר דבורה\הפרויקט גמר\Idial\DTO\bin\Debug\EntityFramework.xml

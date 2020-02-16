@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="3e9ea34122b14a5fb720536b4be1e93b" Name="Diagram1" ZoomLevel="62">
+        <EntityTypeShape EntityType="idialModel.Area" Width="1.5" PointX="0.75" PointY="0.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="idialModel.Boss" Width="1.5" PointX="3" PointY="9.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="idialModel.City" Width="1.5" PointX="7.125" PointY="14.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="idialModel.Company" Width="1.5" PointX="0.75" PointY="4.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="idialModel.Cv" Width="1.5" PointX="3.375" PointY="4.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="idialModel.Job" Width="1.5" PointX="12.875" PointY="9.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="idialModel.OutNet" Width="1.5" PointX="3.75" PointY="0.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="idialModel.Part" Width="1.5" PointX="6.5" PointY="9.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="idialModel.PutInJob" Width="1.5" PointX="13.625" PointY="5.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="idialModel.Question" Width="1.5" PointX="11.75" PointY="5.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="idialModel.Rav" Width="1.5" PointX="10" PointY="2" IsExpanded="true" />
+        <EntityTypeShape EntityType="idialModel.Recomend" Width="1.5" PointX="12.875" PointY="2.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="idialModel.Request" Width="1.5" PointX="7.875" PointY="11.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="idialModel.Sign" Width="1.5" PointX="16.75" PointY="2" IsExpanded="true" />
+        <EntityTypeShape EntityType="idialModel.SubjectJob" Width="1.5" PointX="0.75" PointY="10.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="idialModel.Survey" Width="1.5" PointX="5" PointY="12.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="idialModel.TopicQuestion" Width="1.5" PointX="8.625" PointY="9.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="idialModel.TypeConnect" Width="1.5" PointX="2.75" PointY="13.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="idialModel.User" Width="1.5" PointX="10.625" PointY="9.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="idialModel.Workspace" Width="1.5" PointX="0.5" PointY="13" IsExpanded="true" />
+        <EntityTypeShape EntityType="idialModel.Adv" Width="1.5" PointX="6.625" PointY="1.375" IsExpanded="true" />
+        <AssociationConnector Association="idialModel.FK_Company_Area" ManuallyRouted="false" />
+        <AssociationConnector Association="idialModel.FK_Boss_Company" ManuallyRouted="false" />
+        <AssociationConnector Association="idialModel.FK_Boss_SubjectJob" ManuallyRouted="false" />
+        <AssociationConnector Association="idialModel.FK_Job_Boss" ManuallyRouted="false" />
+        <AssociationConnector Association="idialModel.FK_Company_City" ManuallyRouted="false" />
+        <AssociationConnector Association="idialModel.FK_User_City" ManuallyRouted="false" />
+        <AssociationConnector Association="idialModel.FK_Job_Company" ManuallyRouted="false" />
+        <AssociationConnector Association="idialModel.FK_Job_Company1" ManuallyRouted="false" />
+        <AssociationConnector Association="idialModel.FK_Recomend_Company" ManuallyRouted="false" />
+        <AssociationConnector Association="idialModel.FK_Job_Cv" ManuallyRouted="false" />
+        <AssociationConnector Association="idialModel.FK_Job_OutNet" ManuallyRouted="false" />
+        <AssociationConnector Association="idialModel.FK_Job_Part" ManuallyRouted="false" />
+        <AssociationConnector Association="idialModel.FK_Job_SubjectJob" ManuallyRouted="false" />
+        <AssociationConnector Association="idialModel.FK_Job_Workspace" ManuallyRouted="false" />
+        <AssociationConnector Association="idialModel.FK_PutInJob_Job" ManuallyRouted="false" />
+        <AssociationConnector Association="idialModel.FK_Sign_Job" ManuallyRouted="false" />
+        <AssociationConnector Association="idialModel.FK_User_Part" ManuallyRouted="false" />
+        <AssociationConnector Association="idialModel.FK_PutInJob_User" ManuallyRouted="false" />
+        <AssociationConnector Association="idialModel.FK_Question_Rav" ManuallyRouted="false" />
+        <AssociationConnector Association="idialModel.FK_Question_TopicQuestion" ManuallyRouted="false" />
+        <AssociationConnector Association="idialModel.FK_Question_User" ManuallyRouted="false" />
+        <AssociationConnector Association="idialModel.FK_Recomend_User" ManuallyRouted="false" />
+        <AssociationConnector Association="idialModel.FK_Request_TypeConnect" ManuallyRouted="false" />
+        <AssociationConnector Association="idialModel.FK_Request_User" ManuallyRouted="false" />
+        <AssociationConnector Association="idialModel.FK_Sign_User" ManuallyRouted="false" />
+        <AssociationConnector Association="idialModel.FK_Survey_SubjectJob" ManuallyRouted="false" />
+        <AssociationConnector Association="idialModel.FK_Survey_SubjectJob1" ManuallyRouted="false" />
+        <AssociationConnector Association="idialModel.FK_User_SubjectJob" ManuallyRouted="false" />
+        <EntityTypeShape EntityType="idialModel.Count" Width="1.5" PointX="5.375" PointY="4.75" />
+        <EntityTypeShape EntityType="idialModel.sysdiagrams" Width="1.5" PointX="7.375" PointY="4.75" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

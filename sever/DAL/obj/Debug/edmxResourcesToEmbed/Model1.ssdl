@@ -1,0 +1,704 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="idialModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Adv">
+    <Key>
+      <PropertyRef Name="AdvId" />
+    </Key>
+    <Property Name="AdvId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="AdvStatus" Type="bit" />
+    <Property Name="AdvLink" Type="nvarchar(max)" />
+    <Property Name="AdvTitle" Type="nvarchar" MaxLength="50" />
+    <Property Name="AdvContent" Type="nvarchar(max)" />
+    <Property Name="AdvMail" Type="nvarchar" MaxLength="50" />
+    <Property Name="AdvPhone" Type="nvarchar" MaxLength="10" />
+    <Property Name="CountUsers" Type="int" />
+  </EntityType>
+  <EntityType Name="Area">
+    <Key>
+      <PropertyRef Name="AreaId" />
+    </Key>
+    <Property Name="AreaId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="AreaName" Type="nvarchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="Boss">
+    <Key>
+      <PropertyRef Name="BossId" />
+    </Key>
+    <Property Name="BossId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="BossName" Type="nvarchar" MaxLength="50" />
+    <Property Name="BossTel" Type="nvarchar" MaxLength="50" />
+    <Property Name="BossMail" Type="nvarchar" MaxLength="50" />
+    <Property Name="BossSubId" Type="int" />
+    <Property Name="BossPassword" Type="nvarchar" MaxLength="64" />
+    <Property Name="BossIsConnection" Type="bit" />
+    <Property Name="BossCompanyId" Type="int" />
+  </EntityType>
+  <EntityType Name="City">
+    <Key>
+      <PropertyRef Name="CityId" />
+    </Key>
+    <Property Name="CityId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="CityName" Type="nvarchar" MaxLength="50" />
+    <Property Name="CityAreaId" Type="int" />
+  </EntityType>
+  <EntityType Name="Company">
+    <Key>
+      <PropertyRef Name="CompanyId" />
+    </Key>
+    <Property Name="CompanyId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="CompanyName" Type="nvarchar" MaxLength="50" />
+    <Property Name="CompanyStreet" Type="nvarchar" MaxLength="50" />
+    <Property Name="CompanyCityId" Type="int" />
+    <Property Name="CompanyNumBuild" Type="int" />
+    <Property Name="CompanyTel" Type="nvarchar" MaxLength="10" />
+    <Property Name="CompanyMail" Type="nvarchar" MaxLength="50" />
+    <Property Name="CompanyAreaId" Type="int" />
+  </EntityType>
+  <EntityType Name="Count">
+    <Key>
+      <PropertyRef Name="Counts" />
+    </Key>
+    <Property Name="Counts" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="CountUser" Type="int" />
+  </EntityType>
+  <EntityType Name="Cv">
+    <Key>
+      <PropertyRef Name="CvId" />
+    </Key>
+    <Property Name="CvId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="CvLink" Type="nvarchar" MaxLength="50" />
+    <Property Name="CvUserId" Type="int" />
+  </EntityType>
+  <EntityType Name="Job">
+    <Key>
+      <PropertyRef Name="JobId" />
+    </Key>
+    <Property Name="JobId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="JobDateAdv" Type="datetime" />
+    <Property Name="JobSubId" Type="int" />
+    <Property Name="JobRole" Type="nvarchar(max)" />
+    <Property Name="JobPartId" Type="int" />
+    <Property Name="JobPartOutNetId" Type="int" />
+    <Property Name="JobWorkspaceId" Type="int" />
+    <Property Name="JobExperience" Type="int" />
+    <Property Name="JobCVId" Type="int" />
+    <Property Name="JobOfferId" Type="int" />
+    <Property Name="JobStars" Type="int" />
+    <Property Name="JobBossId" Type="int" />
+    <Property Name="JobStatus" Type="bit" />
+    <Property Name="JobDateCaughtJob" Type="date" />
+    <Property Name="JobIsByUs" Type="bit" />
+    <Property Name="JobDescribe" Type="nvarchar(max)" />
+    <Property Name="JobCompanyId" Type="int" />
+    <Property Name="JobRequire" Type="nvarchar(max)" />
+  </EntityType>
+  <EntityType Name="OutNet">
+    <Key>
+      <PropertyRef Name="OutNetId" />
+    </Key>
+    <Property Name="OutNetId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="OutNetName" Type="nvarchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="Part">
+    <Key>
+      <PropertyRef Name="PartId" />
+    </Key>
+    <Property Name="PartId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="PartName" Type="nvarchar(max)" />
+  </EntityType>
+  <EntityType Name="PutInJob">
+    <Key>
+      <PropertyRef Name="PutId" />
+    </Key>
+    <Property Name="PutId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="PutJobId" Type="int" />
+    <Property Name="PutUserId" Type="int" />
+    <Property Name="PutDate" Type="date" />
+  </EntityType>
+  <EntityType Name="Question">
+    <Key>
+      <PropertyRef Name="QueId" />
+    </Key>
+    <Property Name="QueId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="QueUserId" Type="int" />
+    <Property Name="Question" Type="nvarchar(max)" />
+    <Property Name="Answer" Type="nvarchar(max)" />
+    <Property Name="RavId" Type="int" />
+    <Property Name="QueTopicId" Type="int" />
+  </EntityType>
+  <EntityType Name="Rav">
+    <Key>
+      <PropertyRef Name="RavId" />
+    </Key>
+    <Property Name="RavId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="RavName" Type="nchar" MaxLength="10" />
+  </EntityType>
+  <EntityType Name="Recomend">
+    <Key>
+      <PropertyRef Name="RecomendId" />
+    </Key>
+    <Property Name="RecomendId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="RecomendUserId" Type="int" />
+    <Property Name="RecomemdCompanyId" Type="int" />
+    <Property Name="RecomendInfo" Type="nvarchar(max)" />
+  </EntityType>
+  <EntityType Name="Request">
+    <Key>
+      <PropertyRef Name="ReqId" />
+    </Key>
+    <Property Name="ReqId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="ReqUserId" Type="int" />
+    <Property Name="ReqContents" Type="nvarchar(max)" />
+    <Property Name="ReqTypeConectId" Type="int" />
+  </EntityType>
+  <EntityType Name="Sign">
+    <Key>
+      <PropertyRef Name="SignId" />
+    </Key>
+    <Property Name="SignId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="SignJobId" Type="int" />
+    <Property Name="SignUserId" Type="int" />
+    <Property Name="SignDate" Type="date" />
+    <Property Name="SignStatusSend" Type="bit" />
+  </EntityType>
+  <EntityType Name="SubjectJob">
+    <Key>
+      <PropertyRef Name="SubId" />
+    </Key>
+    <Property Name="SubId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="SubName" Type="nvarchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="Survey">
+    <Key>
+      <PropertyRef Name="SurveyId" />
+    </Key>
+    <Property Name="SurveyId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="SurveySubLearnId" Type="int" />
+    <Property Name="SurveyIsWork" Type="bit" />
+    <Property Name="SurveySubTodayId" Type="int" />
+    <Property Name="SurveySeminar" Type="nvarchar" MaxLength="50" />
+    <Property Name="SurveySubLearnedTxt" Type="nvarchar" MaxLength="50" />
+    <Property Name="SurveySubTodayTxt" Type="nvarchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="sysdiagrams">
+    <Key>
+      <PropertyRef Name="diagram_id" />
+    </Key>
+    <Property Name="name" Type="nvarchar" MaxLength="128" Nullable="false" />
+    <Property Name="principal_id" Type="int" Nullable="false" />
+    <Property Name="diagram_id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="version" Type="int" />
+    <Property Name="definition" Type="varbinary(max)" />
+  </EntityType>
+  <EntityType Name="TopicQuestion">
+    <Key>
+      <PropertyRef Name="TopicId" />
+    </Key>
+    <Property Name="TopicId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="TopicName" Type="nvarchar(max)" />
+  </EntityType>
+  <EntityType Name="TypeConnect">
+    <Key>
+      <PropertyRef Name="TypeConnectId" />
+    </Key>
+    <Property Name="TypeConnectId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="TypeConnectName" Type="nvarchar(max)" />
+  </EntityType>
+  <EntityType Name="User">
+    <Key>
+      <PropertyRef Name="UserId" />
+    </Key>
+    <Property Name="UserId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="UserName" Type="nvarchar" MaxLength="50" />
+    <Property Name="UserTel" Type="nvarchar" MaxLength="50" />
+    <Property Name="UserMail" Type="nvarchar" MaxLength="50" />
+    <Property Name="UserCityId" Type="int" />
+    <Property Name="UserSubId" Type="int" />
+    <Property Name="UserIsChizuk" Type="bit" />
+    <Property Name="UserIsUpdate" Type="bit" />
+    <Property Name="UserPartId" Type="int" />
+    <Property Name="UserPassword" Type="nvarchar" MaxLength="64" />
+    <Property Name="UserIsSmartAgent" Type="bit" />
+    <Property Name="UserSmartAgentTime" Type="int" />
+  </EntityType>
+  <EntityType Name="Workspace">
+    <Key>
+      <PropertyRef Name="WSId" />
+    </Key>
+    <Property Name="WSId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="WSName" Type="nvarchar" MaxLength="50" />
+  </EntityType>
+  <Association Name="FK_Boss_Company">
+    <End Role="Company" Type="Self.Company" Multiplicity="0..1" />
+    <End Role="Boss" Type="Self.Boss" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Company">
+        <PropertyRef Name="CompanyId" />
+      </Principal>
+      <Dependent Role="Boss">
+        <PropertyRef Name="BossCompanyId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Boss_SubjectJob">
+    <End Role="SubjectJob" Type="Self.SubjectJob" Multiplicity="0..1" />
+    <End Role="Boss" Type="Self.Boss" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="SubjectJob">
+        <PropertyRef Name="SubId" />
+      </Principal>
+      <Dependent Role="Boss">
+        <PropertyRef Name="BossSubId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Company_Area">
+    <End Role="Area" Type="Self.Area" Multiplicity="0..1" />
+    <End Role="Company" Type="Self.Company" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Area">
+        <PropertyRef Name="AreaId" />
+      </Principal>
+      <Dependent Role="Company">
+        <PropertyRef Name="CompanyAreaId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Company_City">
+    <End Role="City" Type="Self.City" Multiplicity="0..1" />
+    <End Role="Company" Type="Self.Company" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="City">
+        <PropertyRef Name="CityId" />
+      </Principal>
+      <Dependent Role="Company">
+        <PropertyRef Name="CompanyCityId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Job_Boss">
+    <End Role="Boss" Type="Self.Boss" Multiplicity="0..1" />
+    <End Role="Job" Type="Self.Job" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Boss">
+        <PropertyRef Name="BossId" />
+      </Principal>
+      <Dependent Role="Job">
+        <PropertyRef Name="JobBossId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Job_Company">
+    <End Role="Company" Type="Self.Company" Multiplicity="0..1" />
+    <End Role="Job" Type="Self.Job" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Company">
+        <PropertyRef Name="CompanyId" />
+      </Principal>
+      <Dependent Role="Job">
+        <PropertyRef Name="JobCompanyId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Job_Company1">
+    <End Role="Company" Type="Self.Company" Multiplicity="0..1" />
+    <End Role="Job" Type="Self.Job" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Company">
+        <PropertyRef Name="CompanyId" />
+      </Principal>
+      <Dependent Role="Job">
+        <PropertyRef Name="JobCompanyId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Job_Cv">
+    <End Role="Cv" Type="Self.Cv" Multiplicity="0..1" />
+    <End Role="Job" Type="Self.Job" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Cv">
+        <PropertyRef Name="CvId" />
+      </Principal>
+      <Dependent Role="Job">
+        <PropertyRef Name="JobCVId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Job_OutNet">
+    <End Role="OutNet" Type="Self.OutNet" Multiplicity="0..1" />
+    <End Role="Job" Type="Self.Job" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="OutNet">
+        <PropertyRef Name="OutNetId" />
+      </Principal>
+      <Dependent Role="Job">
+        <PropertyRef Name="JobPartOutNetId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Job_Part">
+    <End Role="Part" Type="Self.Part" Multiplicity="0..1" />
+    <End Role="Job" Type="Self.Job" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Part">
+        <PropertyRef Name="PartId" />
+      </Principal>
+      <Dependent Role="Job">
+        <PropertyRef Name="JobPartId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Job_SubjectJob">
+    <End Role="SubjectJob" Type="Self.SubjectJob" Multiplicity="0..1" />
+    <End Role="Job" Type="Self.Job" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="SubjectJob">
+        <PropertyRef Name="SubId" />
+      </Principal>
+      <Dependent Role="Job">
+        <PropertyRef Name="JobSubId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Job_Workspace">
+    <End Role="Workspace" Type="Self.Workspace" Multiplicity="0..1" />
+    <End Role="Job" Type="Self.Job" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Workspace">
+        <PropertyRef Name="WSId" />
+      </Principal>
+      <Dependent Role="Job">
+        <PropertyRef Name="JobWorkspaceId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_PutInJob_Job">
+    <End Role="Job" Type="Self.Job" Multiplicity="0..1" />
+    <End Role="PutInJob" Type="Self.PutInJob" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Job">
+        <PropertyRef Name="JobId" />
+      </Principal>
+      <Dependent Role="PutInJob">
+        <PropertyRef Name="PutJobId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_PutInJob_User">
+    <End Role="User" Type="Self.User" Multiplicity="0..1" />
+    <End Role="PutInJob" Type="Self.PutInJob" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="User">
+        <PropertyRef Name="UserId" />
+      </Principal>
+      <Dependent Role="PutInJob">
+        <PropertyRef Name="PutUserId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Question_Rav">
+    <End Role="Rav" Type="Self.Rav" Multiplicity="0..1" />
+    <End Role="Question" Type="Self.Question" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Rav">
+        <PropertyRef Name="RavId" />
+      </Principal>
+      <Dependent Role="Question">
+        <PropertyRef Name="RavId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Question_TopicQuestion">
+    <End Role="TopicQuestion" Type="Self.TopicQuestion" Multiplicity="0..1" />
+    <End Role="Question" Type="Self.Question" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="TopicQuestion">
+        <PropertyRef Name="TopicId" />
+      </Principal>
+      <Dependent Role="Question">
+        <PropertyRef Name="QueTopicId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Question_User">
+    <End Role="User" Type="Self.User" Multiplicity="0..1" />
+    <End Role="Question" Type="Self.Question" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="User">
+        <PropertyRef Name="UserId" />
+      </Principal>
+      <Dependent Role="Question">
+        <PropertyRef Name="QueUserId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Recomend_Company">
+    <End Role="Company" Type="Self.Company" Multiplicity="0..1" />
+    <End Role="Recomend" Type="Self.Recomend" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Company">
+        <PropertyRef Name="CompanyId" />
+      </Principal>
+      <Dependent Role="Recomend">
+        <PropertyRef Name="RecomemdCompanyId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Recomend_User">
+    <End Role="User" Type="Self.User" Multiplicity="0..1" />
+    <End Role="Recomend" Type="Self.Recomend" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="User">
+        <PropertyRef Name="UserId" />
+      </Principal>
+      <Dependent Role="Recomend">
+        <PropertyRef Name="RecomendUserId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Request_TypeConnect">
+    <End Role="TypeConnect" Type="Self.TypeConnect" Multiplicity="0..1" />
+    <End Role="Request" Type="Self.Request" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="TypeConnect">
+        <PropertyRef Name="TypeConnectId" />
+      </Principal>
+      <Dependent Role="Request">
+        <PropertyRef Name="ReqTypeConectId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Request_User">
+    <End Role="User" Type="Self.User" Multiplicity="0..1" />
+    <End Role="Request" Type="Self.Request" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="User">
+        <PropertyRef Name="UserId" />
+      </Principal>
+      <Dependent Role="Request">
+        <PropertyRef Name="ReqUserId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Sign_Job">
+    <End Role="Job" Type="Self.Job" Multiplicity="0..1" />
+    <End Role="Sign" Type="Self.Sign" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Job">
+        <PropertyRef Name="JobId" />
+      </Principal>
+      <Dependent Role="Sign">
+        <PropertyRef Name="SignJobId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Sign_User">
+    <End Role="User" Type="Self.User" Multiplicity="0..1" />
+    <End Role="Sign" Type="Self.Sign" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="User">
+        <PropertyRef Name="UserId" />
+      </Principal>
+      <Dependent Role="Sign">
+        <PropertyRef Name="SignUserId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Survey_SubjectJob">
+    <End Role="SubjectJob" Type="Self.SubjectJob" Multiplicity="0..1" />
+    <End Role="Survey" Type="Self.Survey" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="SubjectJob">
+        <PropertyRef Name="SubId" />
+      </Principal>
+      <Dependent Role="Survey">
+        <PropertyRef Name="SurveySubLearnId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Survey_SubjectJob1">
+    <End Role="SubjectJob" Type="Self.SubjectJob" Multiplicity="0..1" />
+    <End Role="Survey" Type="Self.Survey" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="SubjectJob">
+        <PropertyRef Name="SubId" />
+      </Principal>
+      <Dependent Role="Survey">
+        <PropertyRef Name="SurveySubTodayId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_User_City">
+    <End Role="City" Type="Self.City" Multiplicity="0..1" />
+    <End Role="User" Type="Self.User" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="City">
+        <PropertyRef Name="CityId" />
+      </Principal>
+      <Dependent Role="User">
+        <PropertyRef Name="UserCityId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_User_Part">
+    <End Role="Part" Type="Self.Part" Multiplicity="0..1" />
+    <End Role="User" Type="Self.User" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Part">
+        <PropertyRef Name="PartId" />
+      </Principal>
+      <Dependent Role="User">
+        <PropertyRef Name="UserPartId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_User_SubjectJob">
+    <End Role="SubjectJob" Type="Self.SubjectJob" Multiplicity="0..1" />
+    <End Role="User" Type="Self.User" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="SubjectJob">
+        <PropertyRef Name="SubId" />
+      </Principal>
+      <Dependent Role="User">
+        <PropertyRef Name="UserSubId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="idialModelStoreContainer">
+    <EntitySet Name="Adv" EntityType="Self.Adv" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Area" EntityType="Self.Area" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Boss" EntityType="Self.Boss" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="City" EntityType="Self.City" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Company" EntityType="Self.Company" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Count" EntityType="Self.Count" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Cv" EntityType="Self.Cv" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Job" EntityType="Self.Job" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="OutNet" EntityType="Self.OutNet" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Part" EntityType="Self.Part" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="PutInJob" EntityType="Self.PutInJob" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Question" EntityType="Self.Question" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Rav" EntityType="Self.Rav" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Recomend" EntityType="Self.Recomend" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Request" EntityType="Self.Request" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Sign" EntityType="Self.Sign" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="SubjectJob" EntityType="Self.SubjectJob" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Survey" EntityType="Self.Survey" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="sysdiagrams" EntityType="Self.sysdiagrams" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="TopicQuestion" EntityType="Self.TopicQuestion" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="TypeConnect" EntityType="Self.TypeConnect" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="User" EntityType="Self.User" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Workspace" EntityType="Self.Workspace" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK_Boss_Company" Association="Self.FK_Boss_Company">
+      <End Role="Company" EntitySet="Company" />
+      <End Role="Boss" EntitySet="Boss" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Boss_SubjectJob" Association="Self.FK_Boss_SubjectJob">
+      <End Role="SubjectJob" EntitySet="SubjectJob" />
+      <End Role="Boss" EntitySet="Boss" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Company_Area" Association="Self.FK_Company_Area">
+      <End Role="Area" EntitySet="Area" />
+      <End Role="Company" EntitySet="Company" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Company_City" Association="Self.FK_Company_City">
+      <End Role="City" EntitySet="City" />
+      <End Role="Company" EntitySet="Company" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Job_Boss" Association="Self.FK_Job_Boss">
+      <End Role="Boss" EntitySet="Boss" />
+      <End Role="Job" EntitySet="Job" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Job_Company" Association="Self.FK_Job_Company">
+      <End Role="Company" EntitySet="Company" />
+      <End Role="Job" EntitySet="Job" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Job_Company1" Association="Self.FK_Job_Company1">
+      <End Role="Company" EntitySet="Company" />
+      <End Role="Job" EntitySet="Job" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Job_Cv" Association="Self.FK_Job_Cv">
+      <End Role="Cv" EntitySet="Cv" />
+      <End Role="Job" EntitySet="Job" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Job_OutNet" Association="Self.FK_Job_OutNet">
+      <End Role="OutNet" EntitySet="OutNet" />
+      <End Role="Job" EntitySet="Job" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Job_Part" Association="Self.FK_Job_Part">
+      <End Role="Part" EntitySet="Part" />
+      <End Role="Job" EntitySet="Job" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Job_SubjectJob" Association="Self.FK_Job_SubjectJob">
+      <End Role="SubjectJob" EntitySet="SubjectJob" />
+      <End Role="Job" EntitySet="Job" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Job_Workspace" Association="Self.FK_Job_Workspace">
+      <End Role="Workspace" EntitySet="Workspace" />
+      <End Role="Job" EntitySet="Job" />
+    </AssociationSet>
+    <AssociationSet Name="FK_PutInJob_Job" Association="Self.FK_PutInJob_Job">
+      <End Role="Job" EntitySet="Job" />
+      <End Role="PutInJob" EntitySet="PutInJob" />
+    </AssociationSet>
+    <AssociationSet Name="FK_PutInJob_User" Association="Self.FK_PutInJob_User">
+      <End Role="User" EntitySet="User" />
+      <End Role="PutInJob" EntitySet="PutInJob" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Question_Rav" Association="Self.FK_Question_Rav">
+      <End Role="Rav" EntitySet="Rav" />
+      <End Role="Question" EntitySet="Question" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Question_TopicQuestion" Association="Self.FK_Question_TopicQuestion">
+      <End Role="TopicQuestion" EntitySet="TopicQuestion" />
+      <End Role="Question" EntitySet="Question" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Question_User" Association="Self.FK_Question_User">
+      <End Role="User" EntitySet="User" />
+      <End Role="Question" EntitySet="Question" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Recomend_Company" Association="Self.FK_Recomend_Company">
+      <End Role="Company" EntitySet="Company" />
+      <End Role="Recomend" EntitySet="Recomend" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Recomend_User" Association="Self.FK_Recomend_User">
+      <End Role="User" EntitySet="User" />
+      <End Role="Recomend" EntitySet="Recomend" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Request_TypeConnect" Association="Self.FK_Request_TypeConnect">
+      <End Role="TypeConnect" EntitySet="TypeConnect" />
+      <End Role="Request" EntitySet="Request" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Request_User" Association="Self.FK_Request_User">
+      <End Role="User" EntitySet="User" />
+      <End Role="Request" EntitySet="Request" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Sign_Job" Association="Self.FK_Sign_Job">
+      <End Role="Job" EntitySet="Job" />
+      <End Role="Sign" EntitySet="Sign" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Sign_User" Association="Self.FK_Sign_User">
+      <End Role="User" EntitySet="User" />
+      <End Role="Sign" EntitySet="Sign" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Survey_SubjectJob" Association="Self.FK_Survey_SubjectJob">
+      <End Role="SubjectJob" EntitySet="SubjectJob" />
+      <End Role="Survey" EntitySet="Survey" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Survey_SubjectJob1" Association="Self.FK_Survey_SubjectJob1">
+      <End Role="SubjectJob" EntitySet="SubjectJob" />
+      <End Role="Survey" EntitySet="Survey" />
+    </AssociationSet>
+    <AssociationSet Name="FK_User_City" Association="Self.FK_User_City">
+      <End Role="City" EntitySet="City" />
+      <End Role="User" EntitySet="User" />
+    </AssociationSet>
+    <AssociationSet Name="FK_User_Part" Association="Self.FK_User_Part">
+      <End Role="Part" EntitySet="Part" />
+      <End Role="User" EntitySet="User" />
+    </AssociationSet>
+    <AssociationSet Name="FK_User_SubjectJob" Association="Self.FK_User_SubjectJob">
+      <End Role="SubjectJob" EntitySet="SubjectJob" />
+      <End Role="User" EntitySet="User" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

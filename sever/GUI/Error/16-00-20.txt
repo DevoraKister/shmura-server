@@ -1,0 +1,30 @@
+
+Log Entry : 
+02/16/2020 18:47:09
+Error in: http://localhost:53790/Job/api/NewJobs/. Error Message:החיבור לא נסגר. המצב הנוכחי של החיבור הוא 'פתוח'. System.Data System.Collections.ListDictionaryInternal
+__________________________
+
+Log Entry : 
+02/16/2020 18:47:18
+Error in: http://localhost:53790/Job/api/NewJobs/. Error Message:החיבור לא נסגר. המצב הנוכחי של החיבור הוא 'פתוח'. System.Data System.Collections.ListDictionaryInternal
+__________________________
+
+Log Entry : 
+02/16/2020 19:37:21
+Error in: http://localhost:53790/Job/api/jobParameters. Error Message:החיבור לא נסגר. המצב הנוכחי של החיבור הוא 'פתוח'.
+__________________________
+
+Log Entry : 
+02/16/2020 19:37:22
+Error in: http://localhost:53790/Job/api/jobParameters. Error Message:החיבור לא נסגר. המצב הנוכחי של החיבור הוא 'פתוח'.
+__________________________
+
+Log Entry : 
+02/16/2020 19:37:23
+Error in: http://localhost:53790/Job/api/jobParameters. Error Message:החיבור לא נסגר. המצב הנוכחי של החיבור הוא 'פתוח'.
+__________________________
+
+Log Entry : 
+02/16/2020 19:37:24
+Error in: http://localhost:53790/Job/api/jobParameters. Error Message:החיבור לא נסגר. המצב הנוכחי של החיבור הוא 'פתוח'.
+__________________________

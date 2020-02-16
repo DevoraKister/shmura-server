@@ -1,0 +1,148 @@
+        public static Entities.City CityEntities(DAL.City c)
+        {
+            return new Entities.City()
+            {
+                CityAreaId = c.CityAreaId,
+                CityId = c.CityId,
+                CityName = c.CityName
+            };
+        }
+        public static DAL.City CityDAL(Entities.City c)
+        {
+            return new DAL.City()
+            {
+                CityAreaId = c.CityAreaId,
+                CityId = c.CityId,
+                CityName = c.CityName
+            };
+        }
+        public static Entities.Job JobEntities(DAL.Job j)
+        {
+            return new Entities.Job()
+            {
+                JobAreaId=j.JobAreaId,
+                JobBossId=j.JobBossId,
+                JobCityId=j.JobCityId,
+                JobCVLink=j.JobCVLink,
+                JobDateAdv=j.JobDateAdv,
+                JobDateCaughtJob=j.JobDateCaughtJob,
+                JobExperience=j.JobExperience,
+                JobId=j.JobId,
+                JobIsByUs=j.JobIsByUs,
+                JobOfferId=j.JobOfferId,
+                JobPartId=j.JobPartId,
+                JobPartOutNetId=j.JobPartOutNetId,
+                JobRole=j.JobRole,
+                JobStars=j.JobStars,
+                JobStatus=j.JobStatus,
+                JobSubId=j.JobSubId,
+                JobWorkspaceId=j.JobWorkspaceId
+                
+            };
+        }
+        public static DAL.Job JobDAL(Entities.Job j)
+        {
+            return new DAL.Job()
+            {
+                JobAreaId = j.JobAreaId,
+                JobBossId = j.JobBossId,
+                JobCityId = j.JobCityId,
+                JobCVLink = j.JobCVLink,
+                JobDateAdv = j.JobDateAdv,
+                JobDateCaughtJob = j.JobDateCaughtJob,
+                JobExperience = j.JobExperience,
+                JobId = j.JobId,
+                JobIsByUs = j.JobIsByUs,
+                JobOfferId = j.JobOfferId,
+                JobPartId = j.JobPartId,
+                JobPartOutNetId = j.JobPartOutNetId,
+                JobRole = j.JobRole,
+                JobStars = j.JobStars,
+                JobStatus = j.JobStatus,
+                JobSubId = j.JobSubId,
+                JobWorkspaceId = j.JobWorkspaceId
+
+            };
+        }
+        public static Entities.OutNet OutNetEntities(DAL.OutNet o)
+        {
+            return new Entities.OutNet()
+            {
+                OutNetId=o.OutNetId,
+                OutNetName=o.OutNetName
+               
+            };
+        }
+        public static DAL.OutNet OutNetDAL(Entities.OutNet o)
+        {
+            return new DAL.OutNet()
+            {
+                OutNetId = o.OutNetId,
+                OutNetName = o.OutNetName
+
+            };
+        }
+        public static Entities.Part PartEntities(DAL.Part p)
+        {
+            return new Entities.Part()
+            {
+               PartId=p.PartId,
+               PartName=p.PartName
+
+            };
+        }
+        public static DAL.Part PartDAL(Entities.Part p)
+        {
+            return new DAL.Part()
+            {
+                PartId = p.PartId,
+                PartName = p.PartName
+
+            };
+        }
+        public static Entities.PutInJob PutInJobEntities(DAL.PutInJob p)
+        {
+            return new Entities.PutInJob()
+            {
+                PutDate=p.PutDate,
+                PutId=p.PutId,
+                PutJobId=p.PutJobId,
+                PutUserId=p.PutUserId,
+                
+
+            };
+        }
+
+        public static DAL.PutInJob PutInJobDAL(Entities.PutInJob p)
+        {
+            return new DAL.PutInJob()
+            {
+                PutDate = p.PutDate,
+                PutId = p.PutId,
+                PutJobId = p.PutJobId,
+                PutUserId = p.PutUserId,
+
+
+            };
+        }
+        public static Entities.Question QuestionEntities(DAL.Question q)
+        {
+            return new Entities.Question()
+            {
+               QueId=q.QueId,
+               Question1=q.Question1,
+               QueTopicId=q.QueTopicId,
+               QueUserId=q.QueUserId,
+            };
+        }
+
+        public static DAL.Question QuestionDAL(Entities.Question q)
+        {
+            return new DAL.Question()
+            {
+                QueId = q.QueId,
+                Question1 = q.Question1,
+                QueTopicId = q.QueTopicId,
+                QueUserId = q.QueUserId,
+            };
+        }

@@ -1,0 +1,193 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="IdialModelStoreContainer" CdmEntityContainer="IdialEntities">
+    <EntitySetMapping Name="Area">
+      <EntityTypeMapping TypeName="IdialModel.Area">
+        <MappingFragment StoreEntitySet="Area">
+          <ScalarProperty Name="AreaId" ColumnName="AreaId" />
+          <ScalarProperty Name="AreaName" ColumnName="AreaName" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Boss">
+      <EntityTypeMapping TypeName="IdialModel.Boss">
+        <MappingFragment StoreEntitySet="Boss">
+          <ScalarProperty Name="BossId" ColumnName="BossId" />
+          <ScalarProperty Name="BossName" ColumnName="BossName" />
+          <ScalarProperty Name="BossTel" ColumnName="BossTel" />
+          <ScalarProperty Name="BossCityId" ColumnName="BossCityId" />
+          <ScalarProperty Name="BossMail" ColumnName="BossMail" />
+          <ScalarProperty Name="BossStreet" ColumnName="BossStreet" />
+          <ScalarProperty Name="BossStars" ColumnName="BossStars" />
+          <ScalarProperty Name="BossSubId" ColumnName="BossSubId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="City">
+      <EntityTypeMapping TypeName="IdialModel.City">
+        <MappingFragment StoreEntitySet="City">
+          <ScalarProperty Name="CityId" ColumnName="CityId" />
+          <ScalarProperty Name="CityName" ColumnName="CityName" />
+          <ScalarProperty Name="CityAreaId" ColumnName="CityAreaId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Job">
+      <EntityTypeMapping TypeName="IdialModel.Job">
+        <MappingFragment StoreEntitySet="Job">
+          <ScalarProperty Name="JobId" ColumnName="JobId" />
+          <ScalarProperty Name="JobDateAdv" ColumnName="JobDateAdv" />
+          <ScalarProperty Name="JobAreaId" ColumnName="JobAreaId" />
+          <ScalarProperty Name="JobCityId" ColumnName="JobCityId" />
+          <ScalarProperty Name="JobSubId" ColumnName="JobSubId" />
+          <ScalarProperty Name="JobRole" ColumnName="JobRole" />
+          <ScalarProperty Name="JobPartId" ColumnName="JobPartId" />
+          <ScalarProperty Name="JobPartOutNetId" ColumnName="JobPartOutNetId" />
+          <ScalarProperty Name="JobWorkspaceId" ColumnName="JobWorkspaceId" />
+          <ScalarProperty Name="JobExperience" ColumnName="JobExperience" />
+          <ScalarProperty Name="JobCVLink" ColumnName="JobCVLink" />
+          <ScalarProperty Name="JobOfferId" ColumnName="JobOfferId" />
+          <ScalarProperty Name="JobStars" ColumnName="JobStars" />
+          <ScalarProperty Name="JobBossId" ColumnName="JobBossId" />
+          <ScalarProperty Name="JobStatus" ColumnName="JobStatus" />
+          <ScalarProperty Name="JobDateCaughtJob" ColumnName="JobDateCaughtJob" />
+          <ScalarProperty Name="JobIsByUs" ColumnName="JobIsByUs" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="OutNet">
+      <EntityTypeMapping TypeName="IdialModel.OutNet">
+        <MappingFragment StoreEntitySet="OutNet">
+          <ScalarProperty Name="OutNetId" ColumnName="OutNetId" />
+          <ScalarProperty Name="OutNetName" ColumnName="OutNetName" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Part">
+      <EntityTypeMapping TypeName="IdialModel.Part">
+        <MappingFragment StoreEntitySet="Part">
+          <ScalarProperty Name="PartId" ColumnName="PartId" />
+          <ScalarProperty Name="PartName" ColumnName="PartName" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="PutInJob">
+      <EntityTypeMapping TypeName="IdialModel.PutInJob">
+        <MappingFragment StoreEntitySet="PutInJob">
+          <ScalarProperty Name="PutId" ColumnName="PutId" />
+          <ScalarProperty Name="PutJobId" ColumnName="PutJobId" />
+          <ScalarProperty Name="PutUserId" ColumnName="PutUserId" />
+          <ScalarProperty Name="PutDate" ColumnName="PutDate" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Question">
+      <EntityTypeMapping TypeName="IdialModel.Question">
+        <MappingFragment StoreEntitySet="Question">
+          <ScalarProperty Name="QueId" ColumnName="QueId" />
+          <ScalarProperty Name="QueUserId" ColumnName="QueUserId" />
+          <ScalarProperty Name="Question1" ColumnName="Question" />
+          <ScalarProperty Name="Answer" ColumnName="Answer" />
+          <ScalarProperty Name="RavId" ColumnName="RavId" />
+          <ScalarProperty Name="QueTopicId" ColumnName="QueTopicId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Rav">
+      <EntityTypeMapping TypeName="IdialModel.Rav">
+        <MappingFragment StoreEntitySet="Rav">
+          <ScalarProperty Name="RavId" ColumnName="RavId" />
+          <ScalarProperty Name="RavName" ColumnName="RavName" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Recomend">
+      <EntityTypeMapping TypeName="IdialModel.Recomend">
+        <MappingFragment StoreEntitySet="Recomend">
+          <ScalarProperty Name="RecomendId" ColumnName="RecomendId" />
+          <ScalarProperty Name="RecomendUserId" ColumnName="RecomendUserId" />
+          <ScalarProperty Name="RecomemdBossId" ColumnName="RecomemdBossId" />
+          <ScalarProperty Name="RecomendInfo" ColumnName="RecomendInfo" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Request">
+      <EntityTypeMapping TypeName="IdialModel.Request">
+        <MappingFragment StoreEntitySet="Request">
+          <ScalarProperty Name="ReqId" ColumnName="ReqId" />
+          <ScalarProperty Name="ReqUserId" ColumnName="ReqUserId" />
+          <ScalarProperty Name="ReqContents" ColumnName="ReqContents" />
+          <ScalarProperty Name="ReqTypeConectId" ColumnName="ReqTypeConectId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Sign">
+      <EntityTypeMapping TypeName="IdialModel.Sign">
+        <MappingFragment StoreEntitySet="Sign">
+          <ScalarProperty Name="SignId" ColumnName="SignId" />
+          <ScalarProperty Name="SignJobId" ColumnName="SignJobId" />
+          <ScalarProperty Name="SignUserId" ColumnName="SignUserId" />
+          <ScalarProperty Name="SignDate" ColumnName="SignDate" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="SubjectJob">
+      <EntityTypeMapping TypeName="IdialModel.SubjectJob">
+        <MappingFragment StoreEntitySet="SubjectJob">
+          <ScalarProperty Name="SubId" ColumnName="SubId" />
+          <ScalarProperty Name="SubName" ColumnName="SubName" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="sysdiagrams">
+      <EntityTypeMapping TypeName="IdialModel.sysdiagrams">
+        <MappingFragment StoreEntitySet="sysdiagrams">
+          <ScalarProperty Name="name" ColumnName="name" />
+          <ScalarProperty Name="principal_id" ColumnName="principal_id" />
+          <ScalarProperty Name="diagram_id" ColumnName="diagram_id" />
+          <ScalarProperty Name="version" ColumnName="version" />
+          <ScalarProperty Name="definition" ColumnName="definition" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="TopicQuestion">
+      <EntityTypeMapping TypeName="IdialModel.TopicQuestion">
+        <MappingFragment StoreEntitySet="TopicQuestion">
+          <ScalarProperty Name="TopicId" ColumnName="TopicId" />
+          <ScalarProperty Name="TopicName" ColumnName="TopicName" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="TypeConnect">
+      <EntityTypeMapping TypeName="IdialModel.TypeConnect">
+        <MappingFragment StoreEntitySet="TypeConnect">
+          <ScalarProperty Name="TypeConnectId" ColumnName="TypeConnectId" />
+          <ScalarProperty Name="TypeConnectName" ColumnName="TypeConnectName" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="User">
+      <EntityTypeMapping TypeName="IdialModel.User">
+        <MappingFragment StoreEntitySet="User">
+          <ScalarProperty Name="UserId" ColumnName="UserId" />
+          <ScalarProperty Name="UserName" ColumnName="UserName" />
+          <ScalarProperty Name="UserTel" ColumnName="UserTel" />
+          <ScalarProperty Name="UserMail" ColumnName="UserMail" />
+          <ScalarProperty Name="UserCityId" ColumnName="UserCityId" />
+          <ScalarProperty Name="UserSubId" ColumnName="UserSubId" />
+          <ScalarProperty Name="UserIsChizuk" ColumnName="UserIsChizuk" />
+          <ScalarProperty Name="UserIsUpdate" ColumnName="UserIsUpdate" />
+          <ScalarProperty Name="UserPartId" ColumnName="UserPartId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Workspace">
+      <EntityTypeMapping TypeName="IdialModel.Workspace">
+        <MappingFragment StoreEntitySet="Workspace">
+          <ScalarProperty Name="WSId" ColumnName="WSId" />
+          <ScalarProperty Name="WSName" ColumnName="WSName" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
