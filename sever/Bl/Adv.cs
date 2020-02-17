@@ -12,20 +12,38 @@ namespace BL
 
         public static List<Entities.Advs> getAdvs()
         {
-            List<Entities.Advs> advs = new List<Entities.Advs>();
-            foreach (var item in db.Adv.ToList())
+            try
             {
-                advs.Add(Entities.Advs.AdvsEntities(item));
+                List<Entities.Advs> advs = new List<Entities.Advs>();
+                foreach (var item in db.Adv.ToList())
+                {
+                    advs.Add(Entities.Advs.AdvsEntities(item));
+                }
+                return advs;
             }
-            return advs;
+            catch (Exception e)
+            {
+                BL.SendMail.SendEmail(e.ToString(), e.Message, "");
+                BL.WriteLogError.WriteLogErrors(e.Message);
+                return null;
+            }
         }
 
         public static List<Entities.Advs> removeAdv(int idAdv)
         {
-          var a=  db.Adv.FirstOrDefault(p => p.AdvId == idAdv);
-            db.Adv.Remove(a);
-            db.SaveChanges();
-            return getAdvs();
+            try
+            {
+                var a = db.Adv.FirstOrDefault(p => p.AdvId == idAdv);
+                db.Adv.Remove(a);
+                db.SaveChanges();
+                return getAdvs();
+            }
+            catch (Exception e)
+            {
+                BL.SendMail.SendEmail(e.ToString(), e.Message, "");
+                BL.WriteLogError.WriteLogErrors(e.Message);
+                return null;
+            }
         }
         
     }

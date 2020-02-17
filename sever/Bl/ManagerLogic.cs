@@ -9,24 +9,39 @@ using System.Net;
 using System.Net.Http;
 using System.Text;
 using System.Threading.Tasks;
+using System.Web;
 //using System.
 
 namespace BL
 {
     public class ManagerLogic
     {
+        public static string baseURL = "http://localhost:53790/UploadFile/";
         public static DAL.IdialEntities3 db = new DAL.IdialEntities3();
         public static List<JobView> JobToCheck()
         {
-            List<Entities.Job> Jobs = new List<Entities.Job>();
-            foreach (var item in db.Job.ToList())
+            try
             {
-                if (item.JobStatus == false)
-                    Jobs.Add(Entities.Job.JobEntities(item));
+                using (DAL.IdialEntities3 db = new DAL.IdialEntities3())
+                {
+
+                    List<Entities.Job> Jobs = new List<Entities.Job>();
+                    foreach (var item in db.Job.ToList())
+                    {
+                        if (item.JobStatus == false)
+                            Jobs.Add(Entities.Job.JobEntities(item));
+                    }
+                    //Jobs.OrderBy(p => p.JobDateAdv);
+                    var jobsVeiw = BL.SelectorJob.JobView(Jobs);
+                    return jobsVeiw;
+                }
             }
-            //Jobs.OrderBy(p => p.JobDateAdv);
-            var jobsVeiw = BL.SelectorJob.JobView(Jobs);
-            return jobsVeiw;
+            catch (Exception e)
+            {
+                BL.SendMail.SendEmail(e.ToString(), e.Message, "");
+                BL.WriteLogError.WriteLogErrors(e.Message);
+                return null;
+            }
         }
 
 
@@ -40,7 +55,7 @@ namespace BL
                 BL.SmartAgentLogic.SendImmediatelySmartAgent(Entities.Job.JobEntities(db.Job.FirstOrDefault(p => p.JobId == idJob)));
                 return new HttpResponseMessage(HttpStatusCode.OK) { };
             }
-            catch(Exception e)
+            catch (Exception e)
             {
                 BL.SendMail.SendEmail(e.ToString(), e.Message, "");
                 BL.WriteLogError.WriteLogErrors(e.Message);
@@ -48,51 +63,76 @@ namespace BL
             }
         }
 
-     
+
 
         public static List<Entities.Sign> UsersSignToJob(int idJob)
         {
-
-            List<Entities.Sign> signs = new List<Sign>();
-            foreach (var item in db.Sign.ToList())
+            try
             {
-                signs.Add(Entities.Sign.SignEntities(item));
-            }
+                using (DAL.IdialEntities3 db = new DAL.IdialEntities3())
+                {
 
-            return signs;
+                    List<Entities.Sign> signs = new List<Sign>();
+                    foreach (var item in db.Sign.ToList())
+                    {
+                        signs.Add(Entities.Sign.SignEntities(item));
+                    }
+
+                    return signs;
+                }
+            }
+            catch (Exception e)
+            {
+                BL.SendMail.SendEmail(e.ToString(), e.Message, "");
+                BL.WriteLogError.WriteLogErrors(e.Message);
+                return null;
+            }
 
         }
 
-     
+
 
         public static List<Entities.Company> removeCompany(int companyId)
         {
-            var company = db.Company.FirstOrDefault(c => c.CompanyId == companyId);
-            //מחיקת כל המשרות של החברה
-            foreach (var item in db.Job)
+            try
             {
-                if (item.JobCompanyId == companyId)
+                using (DAL.IdialEntities3 db = new DAL.IdialEntities3())
                 {
-                    //מחיקת הנרשמים למשרות של החברה
 
-                    foreach (var s in db.Sign)
+                    var company = db.Company.FirstOrDefault(c => c.CompanyId == companyId);
+                    //מחיקת כל המשרות של החברה
+                    foreach (var item in db.Job)
                     {
-                        if (s.SignJobId == item.JobId)
-                            db.Sign.Remove(s);
-                    }
-                    db.Job.Remove(item);
+                        if (item.JobCompanyId == companyId)
+                        {
+                            //מחיקת הנרשמים למשרות של החברה
 
+                            foreach (var s in db.Sign)
+                            {
+                                if (s.SignJobId == item.JobId)
+                                    db.Sign.Remove(s);
+                            }
+                            db.Job.Remove(item);
+
+                        }
+                    }
+                    //מחיקת כל ההמלצות על החברה
+                    foreach (var item in db.Recomend)
+                    {
+                        if (item.RecomemdCompanyId == companyId)
+                            db.Recomend.Remove(item);
+                    }
+                    db.Company.Remove(company);
+                    db.SaveChanges();
+                    return BL.SelectorJob.getCompanyName();
                 }
             }
-            //מחיקת כל ההמלצות על החברה
-            foreach (var item in db.Recomend)
+            catch (Exception e)
             {
-                if (item.RecomemdCompanyId == companyId)
-                    db.Recomend.Remove(item);
+                BL.SendMail.SendEmail(e.ToString(), e.Message, "");
+                BL.WriteLogError.WriteLogErrors(e.Message);
+                return null;
             }
-            db.Company.Remove(company);
-            db.SaveChanges();
-            return BL.SelectorJob.getCompanyName();
         }
         public static Entities.Boss GetBoss(int id)
         {
@@ -102,78 +142,105 @@ namespace BL
         }
         public static List<Entities.Boss> removeBoss(int bossId)
         {
-            List<Entities.Boss> bossList = new List<Boss>();
-            var boss = db.Boss.FirstOrDefault(b => b.BossId == bossId);
-            //מחיקת המשרות שפרסם
-            foreach (var item in db.Job)
+            try
             {
-                if (item.JobBossId == bossId)
+                using (DAL.IdialEntities3 db = new DAL.IdialEntities3())
                 {
-                    //מחיקת הנרשמים למשרות שפרסם
 
-                    foreach (var s in db.Sign)
+                    List<Entities.Boss> bossList = new List<Boss>();
+                    var boss = db.Boss.FirstOrDefault(b => b.BossId == bossId);
+                    //מחיקת המשרות שפרסם
+                    foreach (var item in db.Job)
                     {
-                        if (s.SignJobId == item.JobId)
-                            db.Sign.Remove(s);
-                    }
-                    db.Job.Remove(item);
+                        if (item.JobBossId == bossId)
+                        {
+                            //מחיקת הנרשמים למשרות שפרסם
 
+                            foreach (var s in db.Sign)
+                            {
+                                if (s.SignJobId == item.JobId)
+                                    db.Sign.Remove(s);
+                            }
+                            db.Job.Remove(item);
+
+                        }
+                    }
+
+                    db.Boss.Remove(boss);
+                    db.SaveChanges();
+                    foreach (var item in db.Boss)
+                    {
+                        bossList.Add(Entities.Boss.BossEntities(item));
+                    }
+                    return bossList;
                 }
             }
-
-            db.Boss.Remove(boss);
-            db.SaveChanges();
-            foreach (var item in db.Boss)
+            catch (Exception e)
             {
-                bossList.Add(Entities.Boss.BossEntities(item));
+                BL.SendMail.SendEmail(e.ToString(), e.Message, "");
+                BL.WriteLogError.WriteLogErrors(e.Message);
+                return null;
             }
-            return bossList;
         }
 
         public static List<Entities.User> removeUser(int userId)
         {
-            List<Entities.User> userList = new List<User>();
-            var user = db.User.FirstOrDefault(c => c.UserId == userId);
-            //מחיקת הקו"ח שלו
-            foreach (var item in db.Cv)
+            try
             {
-                if (item.CvUserId == userId)
-                    db.Cv.Remove(item);
-            }
-            //הסרה מרשימת הנרשמים לעבודה
-            foreach (var item in db.Sign)
-            {
-                if (item.SignUserId == userId)
-                    db.Sign.Remove(item);
-            }
-            //הסרה מרשימת השמות עבודה
-            foreach (var item in db.PutInJob)
-            {
-                if (item.PutUserId == userId)
-                    db.PutInJob.Remove(item);
-            }
-            //הסרת ההמלצות שפירסם-         check!!!!
-            foreach (var item in db.Recomend)
-            {
-                if (item.RecomendUserId == userId)
-                    db.Recomend.Remove(item);
-            }
-            //הסרת ההמלצות שפירסם-          check!!!!
-            foreach (var item in db.Question)
-            {
-                if (item.QueUserId == userId)
-                    db.Question.Remove(item);
-            }
 
-            //
-            db.User.Remove(user);
-            db.SaveChanges();
-            foreach (var item in db.User)
-            {
-                userList.Add(Entities.User.UserEntities(item));
-            }
+                using (DAL.IdialEntities3 db = new DAL.IdialEntities3())
+                {
 
-            return userList;
+                    List<Entities.User> userList = new List<User>();
+                    var user = db.User.FirstOrDefault(c => c.UserId == userId);
+                    //מחיקת הקו"ח שלו
+                    foreach (var item in db.Cv)
+                    {
+                        if (item.CvUserId == userId)
+                            db.Cv.Remove(item);
+                    }
+                    //הסרה מרשימת הנרשמים לעבודה
+                    foreach (var item in db.Sign)
+                    {
+                        if (item.SignUserId == userId)
+                            db.Sign.Remove(item);
+                    }
+                    //הסרה מרשימת השמות עבודה
+                    foreach (var item in db.PutInJob)
+                    {
+                        if (item.PutUserId == userId)
+                            db.PutInJob.Remove(item);
+                    }
+                    //הסרת ההמלצות שפירסם-         check!!!!
+                    foreach (var item in db.Recomend)
+                    {
+                        if (item.RecomendUserId == userId)
+                            db.Recomend.Remove(item);
+                    }
+                    //הסרת ההמלצות שפירסם-          check!!!!
+                    foreach (var item in db.Question)
+                    {
+                        if (item.QueUserId == userId)
+                            db.Question.Remove(item);
+                    }
+
+                    //
+                    db.User.Remove(user);
+                    db.SaveChanges();
+                    foreach (var item in db.User)
+                    {
+                        userList.Add(Entities.User.UserEntities(item));
+                    }
+
+                    return userList;
+                }
+            }
+            catch (Exception e)
+            {
+                BL.SendMail.SendEmail(e.ToString(), e.Message, "");
+                BL.WriteLogError.WriteLogErrors(e.Message);
+                return null;
+            }
         }
 
 
@@ -181,46 +248,77 @@ namespace BL
         //מחזירה את העבודות שיש להם השמות 
         public static List<Entities.JobView> jobsSign()
         {
-            var jobs = db.Job.Where(job => job.Sign.Count > 0 ).ToList();
-          List<DAL.Job> j=new List<DAL.Job>() ;
-
-            foreach (var item in jobs)
+            try
             {
 
-             var pw= db.Sign.FirstOrDefault(p => p.SignJobId == item.JobId && p.SignStatusSend != true);
-                if (pw != null)
-                    j.Add(db.Job.FirstOrDefault(w => w.JobId == pw.SignJobId));
+                using (DAL.IdialEntities3 db = new DAL.IdialEntities3())
+                {
 
+                    var jobs = db.Job.Where(job => job.Sign.Count > 0).ToList();
+                    List<DAL.Job> j = new List<DAL.Job>();
+
+                    foreach (var item in jobs)
+                    {
+
+                        var pw = db.Sign.FirstOrDefault(p => p.SignJobId == item.JobId && p.SignStatusSend != true);
+                        if (pw != null)
+                            j.Add(db.Job.FirstOrDefault(w => w.JobId == pw.SignJobId));
+
+                    }
+                    var temp = j?.Select(job => Entities.Job.JobEntities(job)).ToList();
+                    return BL.SelectorJob.JobView(temp);
+                }
             }
-            var temp = j?.Select(job => Entities.Job.JobEntities(job)).ToList();
-          return  BL.SelectorJob.JobView(temp);
-
+            catch (Exception e)
+            {
+                BL.SendMail.SendEmail(e.ToString(), e.Message, "");
+                BL.WriteLogError.WriteLogErrors(e.Message);
+                return null;
+            }
         }
         //מחזיר רשימת עובדים שנרשמו למשרה כלשהיא 
         public static List<Entities.User> getListSignUsers(int jobId)
         {
-            List<Entities.User> userList = new List<User>();
-            var users = db.User.Where(u => u.Sign.Count > 0).ToList();
-
-            foreach (var item in users)
+            try
             {
-                var temp = item.Sign.FirstOrDefault(a => a.SignJobId == jobId&&a.SignStatusSend!=true);
-                if(temp!=null)
-                    userList.Add(Entities.User.UserEntities(item));
 
+                using (DAL.IdialEntities3 db = new DAL.IdialEntities3())
+                {
+                    db.Database.Connection.Open();
+                    List<Entities.User> userList = new List<User>();
+                    var users = db.User.Where(u => u.Sign.Count > 0).ToList();
+
+                    foreach (var item in users)
+                    {
+                        var temp = item.Sign.FirstOrDefault(a => a.SignJobId == jobId && a.SignStatusSend != true);
+                        if (temp != null)
+                            userList.Add(Entities.User.UserEntities(item));
+
+                    }
+            foreach (var item in userList)
+                    {
+                        var cv = db.Cv.FirstOrDefault(p => p.CvUserId == item.UserId);
+                        if (cv != null)
+                            item.cvURL = baseURL  + cv.CvLink;
+                        else
+                            item.cvURL = "";
+
+                    }
+                    db.Database.Connection.Close();
+
+                    return userList;
+                }
             }
-            foreach(var item in userList)
+            catch (Exception e)
             {
-                var cv = db.Cv.FirstOrDefault(p => p.CvUserId == item.UserId);
-                if (cv != null)
-                    item.cvURL = "http://localhost:53790/UploadFile/"+cv.CvLink;
-                else
-                    item.cvURL = "";
+                BL.SendMail.SendEmail(e.ToString(), e.Message, "");
+                BL.WriteLogError.WriteLogErrors(e.Message);
+                db.Database.Connection.Close();
 
+                return null;
             }
-            return userList;
         }
-   
+
         //מחזיר את הנושאים של השאלות לרבנים
         public static List<Entities.TopicQuestion> getTopicQuestion()
         {
@@ -232,26 +330,27 @@ namespace BL
             return topics;
         }
 
-        public static List<JobView> SendCv(int userId ,int jobId)
+        public static List<JobView> SendCv(int userId, int jobId)
         {
-            try { 
-            var cv = db.Cv.FirstOrDefault(p => p.CvUserId == userId);
-            if (cv==null)
-                return null;
-            
-            var job = db.Job.FirstOrDefault(p => p.JobId == jobId);
-            var boss = db.Boss.FirstOrDefault(o => o.BossId == job.JobBossId);
-            if (boss.BossIsConnection == true)
+            try
             {
-              
-                BL.SendMail.SendCv(cv.CvLink, boss.BossMail,job.JobRole);
-            }
-            else
-            {
-   
+                var cv = db.Cv.FirstOrDefault(p => p.CvUserId == userId);
+                if (cv == null)
+                    return null;
+
+                var job = db.Job.FirstOrDefault(p => p.JobId == jobId);
+                var boss = db.Boss.FirstOrDefault(o => o.BossId == job.JobBossId);
+                if (boss.BossIsConnection == true)
+                {
+
+                    BL.SendMail.SendCv(cv.CvLink, boss.BossMail, job.JobRole);
+                }
+                else
+                {
+
                     var company = db.Company.FirstOrDefault(w => w.CompanyId == job.JobCompanyId);
-                BL.SendMail.SendCv(cv.CvLink, company.CompanyMail, job.JobRole);
-            }
+                    BL.SendMail.SendCv(cv.CvLink, company.CompanyMail, job.JobRole);
+                }
 
                 var y = db.Sign.Where(o => o.SignUserId == userId && o.SignJobId == jobId);
                 foreach (var item in y)
@@ -261,52 +360,72 @@ namespace BL
                 db.SaveChanges();
                 return jobsSign();
             }
-            catch(Exception e) {
+            catch (Exception e)
+            {
                 BL.SendMail.SendEmail(e.ToString(), e.Message, "");
                 BL.WriteLogError.WriteLogErrors(e.Message);
-                return null; }
+                return null;
+            }
         }
 
         public static List<Entities.Question> addAnswerfromRav(Entities.Question question)
         {
-            List<Entities.Question> questions = new List<Question>();
-            db.Question.Add(Entities.Question.QuestionDAL(question));
-            db.SaveChanges();
-            foreach (var item in db.Question.ToList())
+            try
             {
-                questions.Add(Entities.Question.QuestionEntities(item));
+                List<Entities.Question> questions = new List<Question>();
+                db.Question.Add(Entities.Question.QuestionDAL(question));
+                db.SaveChanges();
+                foreach (var item in db.Question.ToList())
+                {
+                    questions.Add(Entities.Question.QuestionEntities(item));
+                }
+                return questions;
             }
-            return questions;
+            catch (Exception e)
+            {
+                BL.SendMail.SendEmail(e.ToString(), e.Message, "");
+                BL.WriteLogError.WriteLogErrors(e.Message);
+                return null;
+            }
         }
+
 
         public static Entities.Statistics getknowledge()
         {
-            Entities.Statistics statistics = new Statistics();
-            statistics.CountUser = 0+db.User.Count() + db.Boss.Count();
-            DateTime temp;
-            String diff2;
-            int t;
-            List<Entities.PutInJob> p = new List<PutInJob>();
-            foreach (var item in db.PutInJob)
+            try
             {
-                DateTime.TryParse(item.PutDate.ToString(), out temp);
-                if (temp != null)
+                Entities.Statistics statistics = new Statistics();
+                statistics.CountUser = 0 + db.User.Count() + db.Boss.Count();
+                DateTime temp;
+                String diff2;
+                int t;
+                List<Entities.PutInJob> p = new List<PutInJob>();
+                foreach (var item in db.PutInJob)
                 {
-                    diff2 = (DateTime.Today - temp).TotalDays.ToString();
-                    int.TryParse(diff2, out t);
-                    if (t < 30)
-                        p.Add(Entities.PutInJob.PutInJobEntities(item));
+                    DateTime.TryParse(item.PutDate.ToString(), out temp);
+                    if (temp != null)
+                    {
+                        diff2 = (DateTime.Today - temp).TotalDays.ToString();
+                        int.TryParse(diff2, out t);
+                        if (t < 30)
+                            p.Add(Entities.PutInJob.PutInJobEntities(item));
+                    }
+
+
                 }
-
-
+                double temp1 = (Double)db.Survey.Count();
+                double x = db.Survey.Count(f => f.SurveySubLearnId == f.SurveySubTodayId);
+                statistics.AverageSurvey = ((x / temp1) * 100) % 100;
+                statistics.PuttingAtJob = p.Count();
+                statistics.CountEnterUsers = Convert.ToInt32(db.Count.FirstOrDefault(c => c.Counts == 1).CountUser);
+                return statistics;
             }
-            double temp1 = (Double)db.Survey.Count();
-            double x = db.Survey.Count(f => f.SurveySubLearnId == f.SurveySubTodayId);
-            statistics.AverageSurvey = ((x / temp1) * 100) % 100;
-            statistics.PuttingAtJob = p.Count();
-            statistics.CountEnterUsers =Convert.ToInt32( db.Count.FirstOrDefault(c => c.Counts == 1).CountUser);
-            return statistics;
-            throw new NotImplementedException();
+            catch (Exception e)
+            {
+                BL.SendMail.SendEmail(e.ToString(), e.Message, "");
+                BL.WriteLogError.WriteLogErrors(e.Message);
+                return null;
+            }
         }
 
         public static Boolean ExportExcel()
